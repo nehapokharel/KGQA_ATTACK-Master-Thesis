@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 174,
+    "k": 13,
+    "attack_type": "add",
+    "question": "Which mountains are higher than the Nanga Parbat?",
+    "true_answer": "http://dbpedia.org/resource/Lhotse",
+    "predicted_answer": "http://dbpedia.org/resource/Lhotse",
+    "is_changed": false
+  }
+]

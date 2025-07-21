@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 152,
+    "k": 17,
+    "attack_type": "remove",
+    "question": "Who has Tom Cruise been married to?",
+    "true_answer": "http://dbpedia.org/resource/Nicole_Kidman",
+    "predicted_answer": "http://dbpedia.org/resource/Nicole_Kidman",
+    "is_changed": false
+  }
+]

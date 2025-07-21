@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 183,
+    "k": 17,
+    "attack_type": "remove",
+    "question": "Give me all soccer clubs in Spain.",
+    "true_answer": "http://dbpedia.org/resource/SD_Erandio_Club",
+    "predicted_answer": "http://dbpedia.org/resource/SD_Erandio_Club",
+    "is_changed": false
+  }
+]

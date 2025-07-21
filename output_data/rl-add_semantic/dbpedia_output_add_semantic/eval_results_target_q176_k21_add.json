@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 176,
+    "k": 21,
+    "attack_type": "add",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Cancer",
+    "is_changed": false
+  }
+]

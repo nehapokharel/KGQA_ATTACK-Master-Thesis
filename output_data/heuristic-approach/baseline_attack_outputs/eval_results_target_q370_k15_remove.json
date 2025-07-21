@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "370",
+    "k": 15,
+    "attack_type": "remove",
+    "question": "What is the timezone in San Pedro de Atacama?",
+    "true_answer": "http://dbpedia.org/resource/Time_in_Chile",
+    "predicted_answer": "http://dbpedia.org/resource/Time_in_Chile",
+    "is_changed": false
+  }
+]

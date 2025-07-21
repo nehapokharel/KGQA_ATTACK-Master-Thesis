@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "271",
+    "k": 13,
+    "attack_type": "remove",
+    "question": "Which country does the creator of Miffy come from?",
+    "true_answer": "http://dbpedia.org/resource/Netherlands",
+    "predicted_answer": "http://dbpedia.org/resource/Netherlands",
+    "is_changed": false
+  }
+]

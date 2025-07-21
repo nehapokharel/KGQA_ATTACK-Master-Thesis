@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "348",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "Where was Bach born?",
+    "true_answer": "http://dbpedia.org/resource/Eisenach",
+    "predicted_answer": "http://dbpedia.org/resource/Eisenach",
+    "is_changed": false
+  }
+]

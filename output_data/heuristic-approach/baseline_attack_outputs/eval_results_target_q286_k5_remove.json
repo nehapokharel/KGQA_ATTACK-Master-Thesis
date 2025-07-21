@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "286",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "Give me all actors starring in movies directed by William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "predicted_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "is_changed": false
+  }
+]

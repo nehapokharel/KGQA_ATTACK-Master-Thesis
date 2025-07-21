@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 51,
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me all Danish movies.",
+    "true_answer": "http://dbpedia.org/resource/Terribly_Happy",
+    "predicted_answer": "http://dbpedia.org/resource/Terribly_Happy",
+    "is_changed": false
+  }
+]

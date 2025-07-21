@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 129,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "Who wrote The Hunger Games?",
+    "true_answer": "http://dbpedia.org/resource/Suzanne_Collins",
+    "predicted_answer": "http://dbpedia.org/resource/Suzanne_Collins",
+    "is_changed": false
+  }
+]

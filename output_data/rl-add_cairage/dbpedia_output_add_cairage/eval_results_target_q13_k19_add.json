@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 13,
+    "k": 19,
+    "attack_type": "add",
+    "question": "Give me the grandchildren of Bruce Lee.",
+    "true_answer": "http://dbpedia.org/resource/Brandon_Lee",
+    "predicted_answer": "http://dbpedia.org/resource/Brandon_Lee",
+    "is_changed": false
+  }
+]

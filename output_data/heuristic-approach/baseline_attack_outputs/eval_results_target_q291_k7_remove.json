@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "291",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the official language of Suriname?",
+    "true_answer": "http://dbpedia.org/resource/Dutch_language",
+    "predicted_answer": "http://dbpedia.org/resource/Dutch_language",
+    "is_changed": false
+  }
+]

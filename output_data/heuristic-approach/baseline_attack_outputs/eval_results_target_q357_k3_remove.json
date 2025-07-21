@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "357",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "What is the bridge with the longest span?",
+    "true_answer": "http://dbpedia.org/resource/Overseas_Highway",
+    "predicted_answer": "http://dbpedia.org/resource/Overseas_Highway",
+    "is_changed": false
+  }
+]

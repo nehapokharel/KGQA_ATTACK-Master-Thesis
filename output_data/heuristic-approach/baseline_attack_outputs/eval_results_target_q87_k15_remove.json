@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "87",
+    "k": 15,
+    "attack_type": "remove",
+    "question": "Who created Goofy?",
+    "true_answer": "http://dbpedia.org/resource/Walt_Disney",
+    "predicted_answer": "http://dbpedia.org/resource/Walt_Disney",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 187,
+    "k": 9,
+    "attack_type": "remove",
+    "question": "Which languages are spoken in Estonia?",
+    "true_answer": "http://dbpedia.org/resource/Estonian_language",
+    "predicted_answer": "http://dbpedia.org/resource/Estonian_language",
+    "is_changed": false
+  }
+]

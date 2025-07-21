@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 9,
+    "k": 13,
+    "attack_type": "add",
+    "question": "Give me all actors starring in movies directed by and starring William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Tom_Towles",
+    "predicted_answer": "http://dbpedia.org/resource/Tom_Towles",
+    "is_changed": false
+  }
+]

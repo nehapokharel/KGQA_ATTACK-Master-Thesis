@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 59,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "Give me all islands that belong to Japan.",
+    "true_answer": "http://dbpedia.org/resource/Miyake-jima",
+    "predicted_answer": "http://dbpedia.org/resource/Miyake-jima",
+    "is_changed": false
+  }
+]

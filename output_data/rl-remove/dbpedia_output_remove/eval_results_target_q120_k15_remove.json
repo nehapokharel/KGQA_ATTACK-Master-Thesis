@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 120,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "What is the highest mountain?",
+    "true_answer": "http://dbpedia.org/resource/Kings_Peak_(Idaho)",
+    "predicted_answer": "http://dbpedia.org/resource/Kings_Peak_(Idaho)",
+    "is_changed": false
+  }
+]

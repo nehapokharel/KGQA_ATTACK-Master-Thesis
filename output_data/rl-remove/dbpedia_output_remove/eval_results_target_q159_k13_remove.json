@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 159,
+    "k": 13,
+    "attack_type": "remove",
+    "question": "What does ICRO stand for?",
+    "true_answer": "http://dbpedia.org/resource/Irish_Cave_Rescue_Organisation",
+    "predicted_answer": "http://dbpedia.org/resource/Irish_Cave_Rescue_Organisation",
+    "is_changed": false
+  }
+]

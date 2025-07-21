@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 126,
+    "k": 19,
+    "attack_type": "remove",
+    "question": "Which instruments does Cat Stevens play?",
+    "true_answer": "http://dbpedia.org/resource/Ovation_Guitar_Company",
+    "predicted_answer": "http://dbpedia.org/resource/Ovation_Guitar_Company",
+    "is_changed": false
+  }
+]

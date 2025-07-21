@@ -1,0 +1,44 @@
+{"question_id": 7, "reason": "Answer URI 'Washington, D.C., U.S.' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 35, "reason": "Answer URI '1886-10-28' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 49, "reason": "Answer URI 'Oxford blue' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 50, "reason": "Answer URI '530' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 56, "reason": "Answer URI '15' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 58, "reason": "Answer URI '3927' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 60, "reason": "Answer URI '95881' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 85, "reason": "Answer URI '57100' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 90, "reason": "Answer URI '139' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 92, "reason": "Answer URI '1948-03-17' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 97, "reason": "Answer URI '0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 106, "reason": "Answer URI '28' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 127, "reason": "Answer URI '97' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 140, "reason": "Answer URI '1350' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 142, "reason": "Answer URI '226' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 144, "reason": "Answer URI '9' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 151, "reason": "Answer URI 'Angela Dorothea Kasner' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 157, "reason": "Answer URI '377757' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 175, "reason": "Answer URI '\"No-One Could Ever Love You More\" (Norway)' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 177, "reason": "Answer URI '1986-2-28' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 178, "reason": "Answer URI 'Virginia Raggi' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 209, "reason": "Answer URI '2.42495E11' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 216, "reason": "Answer URI '44.8e0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 230, "reason": "Answer URI '742452000' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 233, "reason": "Answer URI 'Adele Laurie Blue Adkins' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 234, "reason": "Answer URI '10230350' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 239, "reason": "Answer URI '1616-4-23' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 243, "reason": "Answer URI '1978' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 244, "reason": "Answer URI '8' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 252, "reason": "Answer URI '1735-10-30' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 258, "reason": "Answer URI '12' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 262, "reason": "Answer URI '0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 283, "reason": "Answer URI '37056169' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 287, "reason": "Answer URI '181.0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 292, "reason": "Answer URI 'Heraklion, Crete, Ottoman Empire' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 304, "reason": "Answer URI '106.0704e0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 307, "reason": "Answer URI '2' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 313, "reason": "Answer URI 'Hoboken, New Jersey, U.S.' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 316, "reason": "Answer URI '0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 327, "reason": "Answer URI '0' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 351, "reason": "Answer URI '5041175000' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 362, "reason": "Answer URI '3' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 385, "reason": "Answer URI '2' not found in entity mapping.", "stage": "answer_embedding_retrieval"}
+{"question_id": 402, "reason": "Answer URI 'Renminbi' not found in entity mapping.", "stage": "answer_embedding_retrieval"}

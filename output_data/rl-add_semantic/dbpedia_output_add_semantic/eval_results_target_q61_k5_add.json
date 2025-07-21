@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 61,
+    "k": 5,
+    "attack_type": "add",
+    "question": "Give me all Apollo 14 astronauts.",
+    "true_answer": "http://dbpedia.org/resource/Edgar_Mitchell",
+    "predicted_answer": "http://dbpedia.org/resource/Edgar_Mitchell",
+    "is_changed": false
+  }
+]

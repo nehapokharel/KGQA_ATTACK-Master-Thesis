@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 221,
+    "k": 13,
+    "attack_type": "add",
+    "question": "Which awards did Douglas Hofstadter win?",
+    "true_answer": "http://dbpedia.org/resource/Pulitzer_Prize",
+    "predicted_answer": "http://dbpedia.org/resource/Pulitzer_Prize",
+    "is_changed": false
+  }
+]

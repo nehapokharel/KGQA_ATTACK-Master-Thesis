@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 45,
+    "k": 11,
+    "attack_type": "add",
+    "question": "Where do the Red Sox play?",
+    "true_answer": "http://dbpedia.org/resource/Fenway_Park",
+    "predicted_answer": "http://dbpedia.org/resource/Fenway_Park",
+    "is_changed": false
+  }
+]

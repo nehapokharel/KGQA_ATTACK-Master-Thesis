@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "184",
+    "k": 13,
+    "attack_type": "remove",
+    "question": "Who produced films starring Natalie Portman?",
+    "true_answer": "http://dbpedia.org/resource/Tim_Burton",
+    "predicted_answer": "http://dbpedia.org/resource/Larry_J._Franco",
+    "is_changed": true
+  },
+  {
+    "question_id": "63",
+    "k": 13,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": "176",
+    "k": 13,
+    "attack_type": "collateral_from_remove",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Trauma_center",
+    "is_changed": true
+  },
+  {
+    "question_id": "390",
+    "k": 13,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films did Julia Roberts as well as Richard Gere play?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  }
+]

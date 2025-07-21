@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "237",
+    "k": 21,
+    "attack_type": "remove",
+    "question": "Where is Sungkyunkwan University?",
+    "true_answer": "http://dbpedia.org/resource/South_Korea",
+    "predicted_answer": "http://dbpedia.org/resource/South_Korea",
+    "is_changed": false
+  }
+]

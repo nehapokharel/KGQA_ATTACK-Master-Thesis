@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "43",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "Which presidents were born in 1945?",
+    "true_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "predicted_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "is_changed": false
+  }
+]

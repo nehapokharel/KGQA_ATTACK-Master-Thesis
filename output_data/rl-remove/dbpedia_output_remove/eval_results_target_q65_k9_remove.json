@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 65,
+    "k": 9,
+    "attack_type": "remove",
+    "question": "What is the highest place of the Urals?",
+    "true_answer": "http://dbpedia.org/resource/Mount_Narodnaya",
+    "predicted_answer": "http://dbpedia.org/resource/Mount_Narodnaya",
+    "is_changed": false
+  }
+]

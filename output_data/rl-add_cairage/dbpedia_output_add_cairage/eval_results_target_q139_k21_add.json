@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 139,
+    "k": 21,
+    "attack_type": "add",
+    "question": "Which soccer players were born on Malta?",
+    "true_answer": "http://dbpedia.org/resource/John_McNeill_(footballer)",
+    "predicted_answer": "http://dbpedia.org/resource/John_McNeill_(footballer)",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "354",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "What country is Mount Everest in?",
+    "true_answer": "http://dbpedia.org/resource/Nepal",
+    "predicted_answer": "http://dbpedia.org/resource/Nepal",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 171,
+    "k": 3,
+    "attack_type": "add",
+    "question": "Give me all movies with Tom Cruise.",
+    "true_answer": "http://dbpedia.org/resource/Valkyrie_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Valkyrie_(film)",
+    "is_changed": false
+  }
+]

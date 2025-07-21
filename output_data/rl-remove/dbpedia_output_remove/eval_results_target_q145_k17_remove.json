@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 145,
+    "k": 17,
+    "attack_type": "remove",
+    "question": "Show me all English Gothic buildings in Kent.",
+    "true_answer": "http://dbpedia.org/resource/Canterbury_Cathedral",
+    "predicted_answer": "http://dbpedia.org/resource/Canterbury_Cathedral",
+    "is_changed": false
+  }
+]

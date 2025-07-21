@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "310",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "To which party does the mayor of Paris belong?",
+    "true_answer": "http://dbpedia.org/resource/Socialist_Party_(France)",
+    "predicted_answer": "http://dbpedia.org/resource/Socialist_Party_(France)",
+    "is_changed": false
+  }
+]

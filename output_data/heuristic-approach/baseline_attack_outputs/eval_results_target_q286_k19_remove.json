@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "286",
+    "k": 19,
+    "attack_type": "remove",
+    "question": "Give me all actors starring in movies directed by William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "predicted_answer": "http://dbpedia.org/resource/George_Takei",
+    "is_changed": true
+  },
+  {
+    "question_id": "63",
+    "k": 19,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": "176",
+    "k": 19,
+    "attack_type": "collateral_from_remove",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Trauma_center",
+    "is_changed": true
+  },
+  {
+    "question_id": "390",
+    "k": 19,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films did Julia Roberts as well as Richard Gere play?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  }
+]

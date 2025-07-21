@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 207,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "What is the biggest stadium in Spain?",
+    "true_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "predicted_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 130,
+    "k": 13,
+    "attack_type": "remove",
+    "question": "For which label did Elvis record his first album?",
+    "true_answer": "http://dbpedia.org/resource/RCA_Victor",
+    "predicted_answer": "http://dbpedia.org/resource/RCA_Victor",
+    "is_changed": false
+  }
+]

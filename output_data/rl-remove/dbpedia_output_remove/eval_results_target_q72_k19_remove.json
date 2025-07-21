@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 72,
+    "k": 19,
+    "attack_type": "remove",
+    "question": "Which pope succeeded John Paul II?",
+    "true_answer": "http://dbpedia.org/resource/Pope_Benedict_XVI",
+    "predicted_answer": "http://dbpedia.org/resource/Pope_Benedict_XVI",
+    "is_changed": false
+  }
+]

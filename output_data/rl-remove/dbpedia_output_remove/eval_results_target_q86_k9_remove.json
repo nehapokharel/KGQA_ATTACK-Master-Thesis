@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 86,
+    "k": 9,
+    "attack_type": "remove",
+    "question": "Give me all actors who were born in Berlin.",
+    "true_answer": "http://dbpedia.org/resource/Tyra_Misoux",
+    "predicted_answer": "http://dbpedia.org/resource/Tyra_Misoux",
+    "is_changed": false
+  }
+]

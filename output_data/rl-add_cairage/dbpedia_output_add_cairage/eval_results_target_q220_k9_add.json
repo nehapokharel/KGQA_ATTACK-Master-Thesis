@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 220,
+    "k": 9,
+    "attack_type": "add",
+    "question": "Who is the editor of Forbes?",
+    "true_answer": "http://dbpedia.org/resource/Steve_Forbes",
+    "predicted_answer": "http://dbpedia.org/resource/Steve_Forbes",
+    "is_changed": false
+  }
+]

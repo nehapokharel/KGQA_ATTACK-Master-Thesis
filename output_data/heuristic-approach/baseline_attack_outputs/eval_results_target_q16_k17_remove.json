@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "16",
+    "k": 17,
+    "attack_type": "remove",
+    "question": "Which state of the USA has the highest population density?",
+    "true_answer": "http://dbpedia.org/resource/United_States",
+    "predicted_answer": "http://dbpedia.org/resource/United_States",
+    "is_changed": false
+  }
+]

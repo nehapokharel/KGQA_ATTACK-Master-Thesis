@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 91,
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me all the TV shows with Neil Patrick Harris.",
+    "true_answer": "http://dbpedia.org/resource/How_I_Met_Your_Mother",
+    "predicted_answer": "http://dbpedia.org/resource/How_I_Met_Your_Mother",
+    "is_changed": false
+  }
+]

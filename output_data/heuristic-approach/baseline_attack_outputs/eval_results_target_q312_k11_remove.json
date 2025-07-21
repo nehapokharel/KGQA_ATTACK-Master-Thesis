@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "312",
+    "k": 11,
+    "attack_type": "remove",
+    "question": "What country is Sitecore from?",
+    "true_answer": "http://dbpedia.org/resource/Denmark",
+    "predicted_answer": "http://dbpedia.org/resource/Denmark",
+    "is_changed": false
+  }
+]

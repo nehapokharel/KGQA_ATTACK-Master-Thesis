@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 378,
+    "k": 17,
+    "attack_type": "add",
+    "question": "Which books by Kerouac were published by Viking Press?",
+    "true_answer": "http://dbpedia.org/resource/On_the_Road",
+    "predicted_answer": "http://dbpedia.org/resource/On_the_Road",
+    "is_changed": false
+  }
+]

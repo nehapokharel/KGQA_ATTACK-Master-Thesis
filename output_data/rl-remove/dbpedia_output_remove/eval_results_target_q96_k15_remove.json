@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 96,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "List all the musicals with music by Leonard Bernstein.",
+    "true_answer": "http://dbpedia.org/resource/West_Side_Story",
+    "predicted_answer": "http://dbpedia.org/resource/West_Side_Story",
+    "is_changed": false
+  }
+]

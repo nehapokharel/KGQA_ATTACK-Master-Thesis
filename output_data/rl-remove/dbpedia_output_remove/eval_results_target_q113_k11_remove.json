@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 113,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Give me all libraries established earlier than 1400.",
+    "true_answer": "http://dbpedia.org/resource/Austrian_National_Library",
+    "predicted_answer": "http://dbpedia.org/resource/Austrian_National_Library",
+    "is_changed": false
+  }
+]

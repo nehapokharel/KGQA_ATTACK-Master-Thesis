@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 15,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Who is the owner of Universal Studios?",
+    "true_answer": "http://dbpedia.org/resource/Comcast",
+    "predicted_answer": "http://dbpedia.org/resource/Comcast",
+    "is_changed": false
+  }
+]

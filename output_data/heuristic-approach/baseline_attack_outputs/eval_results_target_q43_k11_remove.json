@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "43",
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Which presidents were born in 1945?",
+    "true_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "predicted_answer": "http://dbpedia.org/resource/Giannis_Alafouzos",
+    "is_changed": true
+  },
+  {
+    "question_id": "63",
+    "k": 11,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": "176",
+    "k": 11,
+    "attack_type": "collateral_from_remove",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Trauma_center",
+    "is_changed": true
+  },
+  {
+    "question_id": "390",
+    "k": 11,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films did Julia Roberts as well as Richard Gere play?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  }
+]

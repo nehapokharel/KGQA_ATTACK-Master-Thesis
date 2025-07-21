@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 70,
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which movies star both Liz Taylor and Richard Burton?",
+    "true_answer": "http://dbpedia.org/resource/Who's_Afraid_of_Virginia_Woolf%3F_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Who's_Afraid_of_Virginia_Woolf%3F_(film)",
+    "is_changed": false
+  }
+]

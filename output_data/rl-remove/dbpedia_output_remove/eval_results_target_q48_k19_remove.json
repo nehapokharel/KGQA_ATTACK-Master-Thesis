@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 48,
+    "k": 19,
+    "attack_type": "remove",
+    "question": "Which bridges cross the Seine?",
+    "true_answer": "http://dbpedia.org/resource/Pont_Notre-Dame",
+    "predicted_answer": "http://dbpedia.org/resource/Pont_Notre-Dame",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 179,
+    "k": 7,
+    "attack_type": "add",
+    "question": "Give me all people that were born in Vienna and died in Berlin.",
+    "true_answer": "http://dbpedia.org/resource/Guido_von_List",
+    "predicted_answer": "http://dbpedia.org/resource/Guido_von_List",
+    "is_changed": false
+  }
+]

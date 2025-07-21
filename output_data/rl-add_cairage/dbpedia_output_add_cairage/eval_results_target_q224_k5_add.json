@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 224,
+    "k": 5,
+    "attack_type": "add",
+    "question": "Which river does the Brooklyn Bridge cross?",
+    "true_answer": "http://dbpedia.org/resource/East_River",
+    "predicted_answer": "http://dbpedia.org/resource/East_River",
+    "is_changed": false
+  }
+]

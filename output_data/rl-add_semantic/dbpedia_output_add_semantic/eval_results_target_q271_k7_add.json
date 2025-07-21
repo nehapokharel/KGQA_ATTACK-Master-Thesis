@@ -1,0 +1,1883 @@
+[
+  {
+    "question_id": 271,
+    "k": 7,
+    "attack_type": "add",
+    "question": "Which country does the creator of Miffy come from?",
+    "true_answer": "http://dbpedia.org/resource/Netherlands",
+    "predicted_answer": "http://dbpedia.org/resource/Mark_Thatcher",
+    "is_changed": true
+  },
+  {
+    "question_id": 6,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which countries have places with more than two caves?",
+    "true_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "predicted_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "is_changed": false
+  },
+  {
+    "question_id": 7,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where did Abraham Lincoln die?",
+    "true_answer": "Washington, D.C., U.S.",
+    "predicted_answer": "Washington, D.C., U.S.",
+    "is_changed": false
+  },
+  {
+    "question_id": 9,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all actors starring in movies directed by and starring William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Tom_Towles",
+    "predicted_answer": "http://dbpedia.org/resource/Tom_Towles",
+    "is_changed": false
+  },
+  {
+    "question_id": 10,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What are the official languages of the Philippines?",
+    "true_answer": "http://dbpedia.org/resource/Philippine_English",
+    "predicted_answer": "http://dbpedia.org/resource/Philippine_English",
+    "is_changed": false
+  },
+  {
+    "question_id": 11,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all Danish films.",
+    "true_answer": "http://dbpedia.org/resource/Terribly_Happy",
+    "predicted_answer": "http://dbpedia.org/resource/Terribly_Happy",
+    "is_changed": false
+  },
+  {
+    "question_id": 12,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which movies starring Brad Pitt were directed by Guy Ritchie?",
+    "true_answer": "http://dbpedia.org/resource/Snatch_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Snatch_(film)",
+    "is_changed": false
+  },
+  {
+    "question_id": 13,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me the grandchildren of Bruce Lee.",
+    "true_answer": "http://dbpedia.org/resource/Brandon_Lee",
+    "predicted_answer": "http://dbpedia.org/resource/Brandon_Lee",
+    "is_changed": false
+  },
+  {
+    "question_id": 15,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the owner of Universal Studios?",
+    "true_answer": "http://dbpedia.org/resource/Comcast",
+    "predicted_answer": "http://dbpedia.org/resource/Comcast",
+    "is_changed": false
+  },
+  {
+    "question_id": 16,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which state of the USA has the highest population density?",
+    "true_answer": "http://dbpedia.org/resource/United_States",
+    "predicted_answer": "http://dbpedia.org/resource/United_States",
+    "is_changed": false
+  },
+  {
+    "question_id": 19,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who created the comic Captain America?",
+    "true_answer": "http://dbpedia.org/resource/Joe_Simon",
+    "predicted_answer": "http://dbpedia.org/resource/Joe_Simon",
+    "is_changed": false
+  },
+  {
+    "question_id": 20,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me the Apollo 14 astronauts.",
+    "true_answer": "http://dbpedia.org/resource/Edgar_Mitchell",
+    "predicted_answer": "http://dbpedia.org/resource/Edgar_Mitchell",
+    "is_changed": false
+  },
+  {
+    "question_id": 21,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who wrote the book The pillars of the Earth?",
+    "true_answer": "http://dbpedia.org/resource/Ken_Follett",
+    "predicted_answer": "http://dbpedia.org/resource/Ken_Follett",
+    "is_changed": false
+  },
+  {
+    "question_id": 22,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which state of the United States of America has the highest density?",
+    "true_answer": "http://dbpedia.org/resource/New_York_City",
+    "predicted_answer": "http://dbpedia.org/resource/New_York_City",
+    "is_changed": false
+  },
+  {
+    "question_id": 29,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Show me all museums in London.",
+    "true_answer": "http://dbpedia.org/resource/National_Portrait_Gallery,_London",
+    "predicted_answer": "http://dbpedia.org/resource/National_Portrait_Gallery,_London",
+    "is_changed": false
+  },
+  {
+    "question_id": 31,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the tallest player of the Atlanta Falcons?",
+    "true_answer": "http://dbpedia.org/resource/Matt_Schaub",
+    "predicted_answer": "http://dbpedia.org/resource/Matt_Schaub",
+    "is_changed": false
+  },
+  {
+    "question_id": 32,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What are the top-10 action role-playing video games according to IGN?",
+    "true_answer": "http://dbpedia.org/resource/Santa_Claus_Is_Comin'_to_Town_(film)__Santa_Claus_Is_Comin'_to_Town!__1",
+    "predicted_answer": "http://dbpedia.org/resource/Santa_Claus_Is_Comin'_to_Town_(film)__Santa_Claus_Is_Comin'_to_Town!__1",
+    "is_changed": false
+  },
+  {
+    "question_id": 33,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all writers that won the Nobel Prize in literature.",
+    "true_answer": "http://dbpedia.org/resource/Robert_Hayden",
+    "predicted_answer": "http://dbpedia.org/resource/Robert_Hayden",
+    "is_changed": false
+  },
+  {
+    "question_id": 35,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "When was the Statue of Liberty built?",
+    "true_answer": "1886-10-28",
+    "predicted_answer": "1886-10-28",
+    "is_changed": false
+  },
+  {
+    "question_id": 36,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which states border Illinois?",
+    "true_answer": "http://dbpedia.org/resource/Kentucky",
+    "predicted_answer": "http://dbpedia.org/resource/Kentucky",
+    "is_changed": false
+  },
+  {
+    "question_id": 38,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where did Hillel Slovak die?",
+    "true_answer": "http://dbpedia.org/resource/California",
+    "predicted_answer": "http://dbpedia.org/resource/California",
+    "is_changed": false
+  },
+  {
+    "question_id": 39,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What movies does Jesse Eisenberg play in?",
+    "true_answer": "http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice",
+    "predicted_answer": "http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice",
+    "is_changed": false
+  },
+  {
+    "question_id": 40,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give all swimmers that were born in Moscow.",
+    "true_answer": "http://dbpedia.org/resource/Olga_Sedakova_(synchronised_swimmer)",
+    "predicted_answer": "http://dbpedia.org/resource/Olga_Sedakova_(synchronised_swimmer)",
+    "is_changed": false
+  },
+  {
+    "question_id": 41,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all cosmonauts.",
+    "true_answer": "http://dbpedia.org/resource/John_Young_(astronaut)",
+    "predicted_answer": "http://dbpedia.org/resource/John_Young_(astronaut)",
+    "is_changed": false
+  },
+  {
+    "question_id": 42,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all Swiss non-profit organizations.",
+    "true_answer": "http://dbpedia.org/resource/Center_for_American_Indian_Languages",
+    "predicted_answer": "http://dbpedia.org/resource/Center_for_American_Indian_Languages",
+    "is_changed": false
+  },
+  {
+    "question_id": 43,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which presidents were born in 1945?",
+    "true_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "predicted_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "is_changed": false
+  },
+  {
+    "question_id": 44,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What kind of music did Lou Reed play?",
+    "true_answer": "http://dbpedia.org/resource/Rock_music",
+    "predicted_answer": "http://dbpedia.org/resource/Rock_music",
+    "is_changed": false
+  },
+  {
+    "question_id": 45,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where do the Red Sox play?",
+    "true_answer": "http://dbpedia.org/resource/Fenway_Park",
+    "predicted_answer": "http://dbpedia.org/resource/Fenway_Park",
+    "is_changed": false
+  },
+  {
+    "question_id": 46,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Show a list of soccer clubs that play in the Bundesliga.",
+    "true_answer": "http://dbpedia.org/resource/SV_Werder_Bremen",
+    "predicted_answer": "http://dbpedia.org/resource/SV_Werder_Bremen",
+    "is_changed": false
+  },
+  {
+    "question_id": 47,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which volcanos in Japan erupted since 2000?",
+    "true_answer": "http://dbpedia.org/resource/Shinmoedake",
+    "predicted_answer": "http://dbpedia.org/resource/Shinmoedake",
+    "is_changed": false
+  },
+  {
+    "question_id": 48,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which bridges cross the Seine?",
+    "true_answer": "http://dbpedia.org/resource/Pont_Notre-Dame",
+    "predicted_answer": "http://dbpedia.org/resource/Pont_Notre-Dame",
+    "is_changed": false
+  },
+  {
+    "question_id": 49,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the official color of the University of Oxford?",
+    "true_answer": "Oxford blue",
+    "predicted_answer": "Oxford blue",
+    "is_changed": false
+  },
+  {
+    "question_id": 50,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many films did Hal Roach produce?",
+    "true_answer": "530",
+    "predicted_answer": "530",
+    "is_changed": false
+  },
+  {
+    "question_id": 51,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all Danish movies.",
+    "true_answer": "http://dbpedia.org/resource/Terribly_Happy",
+    "predicted_answer": "http://dbpedia.org/resource/Terribly_Happy",
+    "is_changed": false
+  },
+  {
+    "question_id": 53,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who are the four youngest MVP basketball players?",
+    "true_answer": "http://dbpedia.org/resource/Christian_Ronaldo_Sitepu",
+    "predicted_answer": "http://dbpedia.org/resource/Christian_Ronaldo_Sitepu",
+    "is_changed": false
+  },
+  {
+    "question_id": 54,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all companies in Munich.",
+    "true_answer": "http://dbpedia.org/resource/Augustiner-Br\u00e4u",
+    "predicted_answer": "http://dbpedia.org/resource/Augustiner-Br\u00e4u",
+    "is_changed": false
+  },
+  {
+    "question_id": 55,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me the capitals of all countries that the Himalayas run through.",
+    "true_answer": "http://dbpedia.org/resource/Thimphu",
+    "predicted_answer": "http://dbpedia.org/resource/Thimphu",
+    "is_changed": false
+  },
+  {
+    "question_id": 56,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many movies did Park Chan-wook direct?",
+    "true_answer": "15",
+    "predicted_answer": "15",
+    "is_changed": false
+  },
+  {
+    "question_id": 58,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many airlines are there?",
+    "true_answer": "3927",
+    "predicted_answer": "3927",
+    "is_changed": false
+  },
+  {
+    "question_id": 59,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all islands that belong to Japan.",
+    "true_answer": "http://dbpedia.org/resource/Miyake-jima",
+    "predicted_answer": "http://dbpedia.org/resource/Miyake-jima",
+    "is_changed": false
+  },
+  {
+    "question_id": 60,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many inhabitants does Maribor have?",
+    "true_answer": "95881",
+    "predicted_answer": "95881",
+    "is_changed": false
+  },
+  {
+    "question_id": 61,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all Apollo 14 astronauts.",
+    "true_answer": "http://dbpedia.org/resource/Edgar_Mitchell",
+    "predicted_answer": "http://dbpedia.org/resource/Edgar_Mitchell",
+    "is_changed": false
+  },
+  {
+    "question_id": 62,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which companies have more than 1 million employees?",
+    "true_answer": "http://dbpedia.org/resource/Foxconn",
+    "predicted_answer": "http://dbpedia.org/resource/Foxconn",
+    "is_changed": false
+  },
+  {
+    "question_id": 63,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": 64,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all soccer clubs in the Premier League.",
+    "true_answer": "http://dbpedia.org/resource/2014\u201315_West_Ham_United_F.C._season",
+    "predicted_answer": "http://dbpedia.org/resource/2014\u201315_West_Ham_United_F.C._season",
+    "is_changed": false
+  },
+  {
+    "question_id": 65,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the highest place of the Urals?",
+    "true_answer": "http://dbpedia.org/resource/Mount_Narodnaya",
+    "predicted_answer": "http://dbpedia.org/resource/Mount_Narodnaya",
+    "is_changed": false
+  },
+  {
+    "question_id": 66,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the governor of Wyoming?",
+    "true_answer": "http://dbpedia.org/resource/Matt_Mead",
+    "predicted_answer": "http://dbpedia.org/resource/Matt_Mead",
+    "is_changed": false
+  },
+  {
+    "question_id": 67,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where did the architect of the Eiffel Tower study?",
+    "true_answer": "http://dbpedia.org/resource/\u00c9cole_Sp\u00e9ciale_d'Architecture",
+    "predicted_answer": "http://dbpedia.org/resource/\u00c9cole_Sp\u00e9ciale_d'Architecture",
+    "is_changed": false
+  },
+  {
+    "question_id": 70,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which movies star both Liz Taylor and Richard Burton?",
+    "true_answer": "http://dbpedia.org/resource/Who's_Afraid_of_Virginia_Woolf%3F_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Who's_Afraid_of_Virginia_Woolf%3F_(film)",
+    "is_changed": false
+  },
+  {
+    "question_id": 71,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all Australian nonprofit organizations.",
+    "true_answer": "http://dbpedia.org/resource/Oaktree_(foundation)",
+    "predicted_answer": "http://dbpedia.org/resource/Oaktree_(foundation)",
+    "is_changed": false
+  },
+  {
+    "question_id": 72,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which pope succeeded John Paul II?",
+    "true_answer": "http://dbpedia.org/resource/Pope_Benedict_XVI",
+    "predicted_answer": "http://dbpedia.org/resource/Pope_Benedict_XVI",
+    "is_changed": false
+  },
+  {
+    "question_id": 76,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many museums does Paris have?",
+    "true_answer": "http://dbpedia.org/resource/Carpenters_Workshop_Gallery",
+    "predicted_answer": "http://dbpedia.org/resource/Carpenters_Workshop_Gallery",
+    "is_changed": false
+  },
+  {
+    "question_id": 78,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all federal chancellors of Germany.",
+    "true_answer": "http://dbpedia.org/resource/Xu_Jingcheng",
+    "predicted_answer": "http://dbpedia.org/resource/Xu_Jingcheng",
+    "is_changed": false
+  },
+  {
+    "question_id": 80,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which beer originated in Ireland?",
+    "true_answer": "http://dbpedia.org/resource/Adnams_Brewery",
+    "predicted_answer": "http://dbpedia.org/resource/Adnams_Brewery",
+    "is_changed": false
+  },
+  {
+    "question_id": 82,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which actors were born in Germany?",
+    "true_answer": "http://dbpedia.org/resource/Michaela_Schaffrath",
+    "predicted_answer": "http://dbpedia.org/resource/Michaela_Schaffrath",
+    "is_changed": false
+  },
+  {
+    "question_id": 85,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many employees does Google have?",
+    "true_answer": "57100",
+    "predicted_answer": "57100",
+    "is_changed": false
+  },
+  {
+    "question_id": 86,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all actors who were born in Berlin.",
+    "true_answer": "http://dbpedia.org/resource/Tyra_Misoux",
+    "predicted_answer": "http://dbpedia.org/resource/Tyra_Misoux",
+    "is_changed": false
+  },
+  {
+    "question_id": 87,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who created Goofy?",
+    "true_answer": "http://dbpedia.org/resource/Walt_Disney",
+    "predicted_answer": "http://dbpedia.org/resource/Walt_Disney",
+    "is_changed": false
+  },
+  {
+    "question_id": 90,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many missions does the Soyuz programme have?",
+    "true_answer": "139",
+    "predicted_answer": "139",
+    "is_changed": false
+  },
+  {
+    "question_id": 91,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all the TV shows with Neil Patrick Harris.",
+    "true_answer": "http://dbpedia.org/resource/How_I_Met_Your_Mother",
+    "predicted_answer": "http://dbpedia.org/resource/How_I_Met_Your_Mother",
+    "is_changed": false
+  },
+  {
+    "question_id": 92,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "When were the Hells Angels founded?",
+    "true_answer": "1948-03-17",
+    "predicted_answer": "1948-03-17",
+    "is_changed": false
+  },
+  {
+    "question_id": 96,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "List all the musicals with music by Leonard Bernstein.",
+    "true_answer": "http://dbpedia.org/resource/West_Side_Story",
+    "predicted_answer": "http://dbpedia.org/resource/West_Side_Story",
+    "is_changed": false
+  },
+  {
+    "question_id": 97,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all companies in the advertising industry.",
+    "true_answer": "0",
+    "predicted_answer": "0",
+    "is_changed": false
+  },
+  {
+    "question_id": 101,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all Australian metalcore bands.",
+    "true_answer": "http://dbpedia.org/resource/Village_Kid",
+    "predicted_answer": "http://dbpedia.org/resource/Village_Kid",
+    "is_changed": false
+  },
+  {
+    "question_id": 106,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many films did Leonardo DiCaprio star in?",
+    "true_answer": "28",
+    "predicted_answer": "28",
+    "is_changed": false
+  },
+  {
+    "question_id": 109,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all books written by Danielle Steel.",
+    "true_answer": "http://dbpedia.org/resource/Betrayal_(Steel_novel)",
+    "predicted_answer": "http://dbpedia.org/resource/Betrayal_(Steel_novel)",
+    "is_changed": false
+  },
+  {
+    "question_id": 112,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which actor played Chewbacca?",
+    "true_answer": "http://dbpedia.org/resource/Peter_Mayhew",
+    "predicted_answer": "http://dbpedia.org/resource/Peter_Mayhew",
+    "is_changed": false
+  },
+  {
+    "question_id": 113,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all libraries established earlier than 1400.",
+    "true_answer": "http://dbpedia.org/resource/Austrian_National_Library",
+    "predicted_answer": "http://dbpedia.org/resource/Austrian_National_Library",
+    "is_changed": false
+  },
+  {
+    "question_id": 116,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What airlines are part of the SkyTeam alliance?",
+    "true_answer": "http://dbpedia.org/resource/China_Eastern_Airlines",
+    "predicted_answer": "http://dbpedia.org/resource/China_Eastern_Airlines",
+    "is_changed": false
+  },
+  {
+    "question_id": 117,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which ships were called after Benjamin Franklin?",
+    "true_answer": "http://dbpedia.org/resource/HMS_Canopus_(1798)",
+    "predicted_answer": "http://dbpedia.org/resource/HMS_Canopus_(1798)",
+    "is_changed": false
+  },
+  {
+    "question_id": 120,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the highest mountain?",
+    "true_answer": "http://dbpedia.org/resource/Kings_Peak_(Idaho)",
+    "predicted_answer": "http://dbpedia.org/resource/Kings_Peak_(Idaho)",
+    "is_changed": false
+  },
+  {
+    "question_id": 124,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which films starring Clint Eastwood did he direct himself?",
+    "true_answer": "http://dbpedia.org/resource/J._Edgar",
+    "predicted_answer": "http://dbpedia.org/resource/J._Edgar",
+    "is_changed": false
+  },
+  {
+    "question_id": 125,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which software has been developed by organizations founded in California?",
+    "true_answer": "http://dbpedia.org/resource/Silicon_Graphics",
+    "predicted_answer": "http://dbpedia.org/resource/Silicon_Graphics",
+    "is_changed": false
+  },
+  {
+    "question_id": 126,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which instruments does Cat Stevens play?",
+    "true_answer": "http://dbpedia.org/resource/Ovation_Guitar_Company",
+    "predicted_answer": "http://dbpedia.org/resource/Ovation_Guitar_Company",
+    "is_changed": false
+  },
+  {
+    "question_id": 127,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many airlines are members of the Star Alliance?",
+    "true_answer": "97",
+    "predicted_answer": "97",
+    "is_changed": false
+  },
+  {
+    "question_id": 129,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who wrote The Hunger Games?",
+    "true_answer": "http://dbpedia.org/resource/Suzanne_Collins",
+    "predicted_answer": "http://dbpedia.org/resource/Suzanne_Collins",
+    "is_changed": false
+  },
+  {
+    "question_id": 130,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "For which label did Elvis record his first album?",
+    "true_answer": "http://dbpedia.org/resource/RCA_Victor",
+    "predicted_answer": "http://dbpedia.org/resource/RCA_Victor",
+    "is_changed": false
+  },
+  {
+    "question_id": 134,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which countries have more than two official languages?",
+    "true_answer": "http://dbpedia.org/resource/Belgium",
+    "predicted_answer": "http://dbpedia.org/resource/Belgium",
+    "is_changed": false
+  },
+  {
+    "question_id": 135,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which countries have more than ten caves?",
+    "true_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "predicted_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "is_changed": false
+  },
+  {
+    "question_id": 137,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which television shows were created by John Cleese?",
+    "true_answer": "http://dbpedia.org/resource/Monty_Python's_Flying_Circus",
+    "predicted_answer": "http://dbpedia.org/resource/Monty_Python's_Flying_Circus",
+    "is_changed": false
+  },
+  {
+    "question_id": 139,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which soccer players were born on Malta?",
+    "true_answer": "http://dbpedia.org/resource/John_McNeill_(footballer)",
+    "predicted_answer": "http://dbpedia.org/resource/John_McNeill_(footballer)",
+    "is_changed": false
+  },
+  {
+    "question_id": 140,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many politicians graduated from Columbia University?",
+    "true_answer": "1350",
+    "predicted_answer": "1350",
+    "is_changed": false
+  },
+  {
+    "question_id": 142,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which telecommunications organizations are located in Belgium?",
+    "true_answer": "226",
+    "predicted_answer": "226",
+    "is_changed": false
+  },
+  {
+    "question_id": 143,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me a list of all lakes in Denmark.",
+    "true_answer": "http://dbpedia.org/resource/North_Sea",
+    "predicted_answer": "http://dbpedia.org/resource/North_Sea",
+    "is_changed": false
+  },
+  {
+    "question_id": 144,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many children does Eddie Murphy have?",
+    "true_answer": "9",
+    "predicted_answer": "9",
+    "is_changed": false
+  },
+  {
+    "question_id": 145,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Show me all English Gothic buildings in Kent.",
+    "true_answer": "http://dbpedia.org/resource/Canterbury_Cathedral",
+    "predicted_answer": "http://dbpedia.org/resource/Canterbury_Cathedral",
+    "is_changed": false
+  },
+  {
+    "question_id": 147,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which countries can you pay using the West African CFA franc?",
+    "true_answer": "http://dbpedia.org/resource/Ethiopia",
+    "predicted_answer": "http://dbpedia.org/resource/Ethiopia",
+    "is_changed": false
+  },
+  {
+    "question_id": 148,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which holidays are celebrated around the world?",
+    "true_answer": "http://dbpedia.org/resource/Chinese_New_Year",
+    "predicted_answer": "http://dbpedia.org/resource/Chinese_New_Year",
+    "is_changed": false
+  },
+  {
+    "question_id": 151,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the birth name of Angela Merkel?",
+    "true_answer": "Angela Dorothea Kasner",
+    "predicted_answer": "Angela Dorothea Kasner",
+    "is_changed": false
+  },
+  {
+    "question_id": 152,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who has Tom Cruise been married to?",
+    "true_answer": "http://dbpedia.org/resource/Nicole_Kidman",
+    "predicted_answer": "http://dbpedia.org/resource/Nicole_Kidman",
+    "is_changed": false
+  },
+  {
+    "question_id": 155,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the ruling party in Lisbon?",
+    "true_answer": "http://dbpedia.org/resource/Socialist_Party_(Portugal)",
+    "predicted_answer": "http://dbpedia.org/resource/Socialist_Party_(Portugal)",
+    "is_changed": false
+  },
+  {
+    "question_id": 157,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many employees does IBM have?",
+    "true_answer": "377757",
+    "predicted_answer": "377757",
+    "is_changed": false
+  },
+  {
+    "question_id": 159,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What does ICRO stand for?",
+    "true_answer": "http://dbpedia.org/resource/Irish_Cave_Rescue_Organisation",
+    "predicted_answer": "http://dbpedia.org/resource/Irish_Cave_Rescue_Organisation",
+    "is_changed": false
+  },
+  {
+    "question_id": 161,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all films produced by Hal Roach.",
+    "true_answer": "http://dbpedia.org/resource/Curley_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Curley_(film)",
+    "is_changed": false
+  },
+  {
+    "question_id": 169,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which Chess players died in the same place they were born in?",
+    "true_answer": "http://dbpedia.org/resource/K\u0101rlis_Kl\u0101sups",
+    "predicted_answer": "http://dbpedia.org/resource/K\u0101rlis_Kl\u0101sups",
+    "is_changed": false
+  },
+  {
+    "question_id": 170,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the owner of Facebook?",
+    "true_answer": "http://dbpedia.org/resource/Chris_Hughes",
+    "predicted_answer": "http://dbpedia.org/resource/Chris_Hughes",
+    "is_changed": false
+  },
+  {
+    "question_id": 171,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all movies with Tom Cruise.",
+    "true_answer": "http://dbpedia.org/resource/Valkyrie_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Valkyrie_(film)",
+    "is_changed": false
+  },
+  {
+    "question_id": 174,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which mountains are higher than the Nanga Parbat?",
+    "true_answer": "http://dbpedia.org/resource/Lhotse",
+    "predicted_answer": "http://dbpedia.org/resource/Lhotse",
+    "is_changed": false
+  },
+  {
+    "question_id": 175,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all B-sides of the Ramones.",
+    "true_answer": "\"No-One Could Ever Love You More\" (Norway)",
+    "predicted_answer": "\"No-One Could Ever Love You More\" (Norway)",
+    "is_changed": false
+  },
+  {
+    "question_id": 176,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Cancer",
+    "is_changed": false
+  },
+  {
+    "question_id": 177,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "When was Olof Palme shot?",
+    "true_answer": "1986-2-28",
+    "predicted_answer": "1986-2-28",
+    "is_changed": false
+  },
+  {
+    "question_id": 178,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "List the seven kings of Rome.",
+    "true_answer": "Virginia Raggi",
+    "predicted_answer": "Virginia Raggi",
+    "is_changed": false
+  },
+  {
+    "question_id": 179,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all people that were born in Vienna and died in Berlin.",
+    "true_answer": "http://dbpedia.org/resource/Guido_von_List",
+    "predicted_answer": "http://dbpedia.org/resource/Guido_von_List",
+    "is_changed": false
+  },
+  {
+    "question_id": 181,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Show me all the breweries in Australia.",
+    "true_answer": "http://dbpedia.org/resource/Matilda_Bay_Brewing_Company",
+    "predicted_answer": "http://dbpedia.org/resource/Matilda_Bay_Brewing_Company",
+    "is_changed": false
+  },
+  {
+    "question_id": 183,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all soccer clubs in Spain.",
+    "true_answer": "http://dbpedia.org/resource/SD_Erandio_Club",
+    "predicted_answer": "http://dbpedia.org/resource/SD_Erandio_Club",
+    "is_changed": false
+  },
+  {
+    "question_id": 184,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who produced films starring Natalie Portman?",
+    "true_answer": "http://dbpedia.org/resource/Tim_Burton",
+    "predicted_answer": "http://dbpedia.org/resource/Tim_Burton",
+    "is_changed": false
+  },
+  {
+    "question_id": 186,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the heaviest player of the Chicago Bulls?",
+    "true_answer": "http://dbpedia.org/resource/Luc_Longley",
+    "predicted_answer": "http://dbpedia.org/resource/Luc_Longley",
+    "is_changed": false
+  },
+  {
+    "question_id": 187,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which languages are spoken in Estonia?",
+    "true_answer": "http://dbpedia.org/resource/Estonian_language",
+    "predicted_answer": "http://dbpedia.org/resource/Estonian_language",
+    "is_changed": false
+  },
+  {
+    "question_id": 188,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the largest country in the world?",
+    "true_answer": "http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe",
+    "predicted_answer": "http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe",
+    "is_changed": false
+  },
+  {
+    "question_id": 189,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the largest city in america?",
+    "true_answer": "http://dbpedia.org/resource/New_York_City",
+    "predicted_answer": "http://dbpedia.org/resource/New_York_City",
+    "is_changed": false
+  },
+  {
+    "question_id": 197,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where is the birthplace of Goethe?",
+    "true_answer": "http://dbpedia.org/resource/Frankfurt",
+    "predicted_answer": "http://dbpedia.org/resource/Frankfurt",
+    "is_changed": false
+  },
+  {
+    "question_id": 204,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who played Gus Fring in Breaking Bad?",
+    "true_answer": "http://dbpedia.org/resource/Giancarlo_Esposito",
+    "predicted_answer": "http://dbpedia.org/resource/Giancarlo_Esposito",
+    "is_changed": false
+  },
+  {
+    "question_id": 205,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which country does the Nile start?",
+    "true_answer": "http://dbpedia.org/resource/Ethiopia",
+    "predicted_answer": "http://dbpedia.org/resource/Ethiopia",
+    "is_changed": false
+  },
+  {
+    "question_id": 206,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which state Penn State University is located?",
+    "true_answer": "http://dbpedia.org/resource/Pennsylvania",
+    "predicted_answer": "http://dbpedia.org/resource/Pennsylvania",
+    "is_changed": false
+  },
+  {
+    "question_id": 207,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the biggest stadium in Spain?",
+    "true_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "predicted_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "is_changed": false
+  },
+  {
+    "question_id": 209,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How large is the area of UK?",
+    "true_answer": "2.42495E11",
+    "predicted_answer": "2.42495E11",
+    "is_changed": false
+  },
+  {
+    "question_id": 210,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who created Batman?",
+    "true_answer": "http://dbpedia.org/resource/Bill_Finger",
+    "predicted_answer": "http://dbpedia.org/resource/Bill_Finger",
+    "is_changed": false
+  },
+  {
+    "question_id": 213,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all movies directed by Francis Ford Coppola.",
+    "true_answer": "http://dbpedia.org/resource/The_Godfather",
+    "predicted_answer": "http://dbpedia.org/resource/The_Godfather",
+    "is_changed": false
+  },
+  {
+    "question_id": 215,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the location of the Houses of Parliament?",
+    "true_answer": "http://dbpedia.org/resource/London",
+    "predicted_answer": "http://dbpedia.org/resource/London",
+    "is_changed": false
+  },
+  {
+    "question_id": 216,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "how much is the elevation of D\u00fcsseldorf Airport ?",
+    "true_answer": "44.8e0",
+    "predicted_answer": "44.8e0",
+    "is_changed": false
+  },
+  {
+    "question_id": 220,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the editor of Forbes?",
+    "true_answer": "http://dbpedia.org/resource/Steve_Forbes",
+    "predicted_answer": "http://dbpedia.org/resource/Steve_Forbes",
+    "is_changed": false
+  },
+  {
+    "question_id": 221,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which awards did Douglas Hofstadter win?",
+    "true_answer": "http://dbpedia.org/resource/Pulitzer_Prize",
+    "predicted_answer": "http://dbpedia.org/resource/Pulitzer_Prize",
+    "is_changed": false
+  },
+  {
+    "question_id": 224,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which river does the Brooklyn Bridge cross?",
+    "true_answer": "http://dbpedia.org/resource/East_River",
+    "predicted_answer": "http://dbpedia.org/resource/East_River",
+    "is_changed": false
+  },
+  {
+    "question_id": 229,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is 8th president of US?",
+    "true_answer": "http://dbpedia.org/resource/Bao_Zheng",
+    "predicted_answer": "http://dbpedia.org/resource/Bao_Zheng",
+    "is_changed": false
+  },
+  {
+    "question_id": 230,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "how much is the total population of european union?",
+    "true_answer": "742452000",
+    "predicted_answer": "742452000",
+    "is_changed": false
+  },
+  {
+    "question_id": 231,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all launch pads operated by NASA.",
+    "true_answer": "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station_Launch_Complex_13",
+    "predicted_answer": "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station_Launch_Complex_13",
+    "is_changed": false
+  },
+  {
+    "question_id": 233,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the birth name of Adele?",
+    "true_answer": "Adele Laurie Blue Adkins",
+    "predicted_answer": "Adele Laurie Blue Adkins",
+    "is_changed": false
+  },
+  {
+    "question_id": 234,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the population of Cairo?",
+    "true_answer": "10230350",
+    "predicted_answer": "10230350",
+    "is_changed": false
+  },
+  {
+    "question_id": 236,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the last work of Dan Brown?",
+    "true_answer": "http://dbpedia.org/resource/Inferno_(Brown_novel)",
+    "predicted_answer": "http://dbpedia.org/resource/Inferno_(Brown_novel)",
+    "is_changed": false
+  },
+  {
+    "question_id": 237,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where is Sungkyunkwan University?",
+    "true_answer": "http://dbpedia.org/resource/South_Korea",
+    "predicted_answer": "http://dbpedia.org/resource/South_Korea",
+    "is_changed": false
+  },
+  {
+    "question_id": 239,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "When was the death of Shakespeare?",
+    "true_answer": "1616-4-23",
+    "predicted_answer": "1616-4-23",
+    "is_changed": false
+  },
+  {
+    "question_id": 243,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which year was Rachel Stevens born?",
+    "true_answer": "1978",
+    "predicted_answer": "1978",
+    "is_changed": false
+  },
+  {
+    "question_id": 244,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How often did Jane Fonda marry?",
+    "true_answer": "8",
+    "predicted_answer": "8",
+    "is_changed": false
+  },
+  {
+    "question_id": 246,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which cities does the Weser flow through?",
+    "true_answer": "http://dbpedia.org/resource/Bremen",
+    "predicted_answer": "http://dbpedia.org/resource/Bremen",
+    "is_changed": false
+  },
+  {
+    "question_id": 247,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which programming language is GIMP written?",
+    "true_answer": "http://dbpedia.org/resource/Charity_(programming_language)",
+    "predicted_answer": "http://dbpedia.org/resource/Charity_(programming_language)",
+    "is_changed": false
+  },
+  {
+    "question_id": 248,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which university did Angela Merkel attend?",
+    "true_answer": "http://dbpedia.org/resource/Leipzig_University",
+    "predicted_answer": "http://dbpedia.org/resource/Leipzig_University",
+    "is_changed": false
+  },
+  {
+    "question_id": 249,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "List all the musicals with music by Elton John.",
+    "true_answer": "http://dbpedia.org/resource/Billy_Elliot_the_Musical",
+    "predicted_answer": "http://dbpedia.org/resource/Billy_Elliot_the_Musical",
+    "is_changed": false
+  },
+  {
+    "question_id": 251,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the longest river in the world?",
+    "true_answer": "http://dbpedia.org/resource/Irtysh_River",
+    "predicted_answer": "http://dbpedia.org/resource/Irtysh_River",
+    "is_changed": false
+  },
+  {
+    "question_id": 252,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "When was John Adams born?",
+    "true_answer": "1735-10-30",
+    "predicted_answer": "1735-10-30",
+    "is_changed": false
+  },
+  {
+    "question_id": 253,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which companies produce hovercrafts?",
+    "true_answer": "http://dbpedia.org/resource/Ashiana_Housing",
+    "predicted_answer": "http://dbpedia.org/resource/Ashiana_Housing",
+    "is_changed": false
+  },
+  {
+    "question_id": 254,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who was the wife of U.S. president Lincoln?",
+    "true_answer": "http://dbpedia.org/resource/Mary_Todd_Lincoln",
+    "predicted_answer": "http://dbpedia.org/resource/Mary_Todd_Lincoln",
+    "is_changed": false
+  },
+  {
+    "question_id": 255,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which species does an elephant belong?",
+    "true_answer": "http://dbpedia.org/resource/Lytechinus",
+    "predicted_answer": "http://dbpedia.org/resource/Lytechinus",
+    "is_changed": false
+  },
+  {
+    "question_id": 256,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many people live in the capital of Australia?",
+    "true_answer": "http://dbpedia.org/resource/Canberra",
+    "predicted_answer": "http://dbpedia.org/resource/Canberra",
+    "is_changed": false
+  },
+  {
+    "question_id": 258,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many theories did Albert Einstein come up with?",
+    "true_answer": "12",
+    "predicted_answer": "12",
+    "is_changed": false
+  },
+  {
+    "question_id": 262,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "With how many countries Iran has borders?",
+    "true_answer": "0",
+    "predicted_answer": "0",
+    "is_changed": false
+  },
+  {
+    "question_id": 263,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which electronics companies were founded in Beijing?",
+    "true_answer": "http://dbpedia.org/resource/Ashiana_Housing",
+    "predicted_answer": "http://dbpedia.org/resource/Ashiana_Housing",
+    "is_changed": false
+  },
+  {
+    "question_id": 265,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the mayor of Paris?",
+    "true_answer": "http://dbpedia.org/resource/Anne_Hidalgo",
+    "predicted_answer": "http://dbpedia.org/resource/Anne_Hidalgo",
+    "is_changed": false
+  },
+  {
+    "question_id": 275,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "List the children of Margaret Thatcher.",
+    "true_answer": "http://dbpedia.org/resource/Mark_Thatcher",
+    "predicted_answer": "http://dbpedia.org/resource/Mark_Thatcher",
+    "is_changed": false
+  },
+  {
+    "question_id": 280,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is Donald Trump's main business?",
+    "true_answer": "http://dbpedia.org/resource/The_Trump_Organization",
+    "predicted_answer": "http://dbpedia.org/resource/The_Trump_Organization",
+    "is_changed": false
+  },
+  {
+    "question_id": 283,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "how much is the population Iraq?",
+    "true_answer": "37056169",
+    "predicted_answer": "37056169",
+    "is_changed": false
+  },
+  {
+    "question_id": 286,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all actors starring in movies directed by William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "predicted_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "is_changed": false
+  },
+  {
+    "question_id": 287,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How tall is Claudia Schiffer?",
+    "true_answer": "181.0",
+    "predicted_answer": "181.0",
+    "is_changed": false
+  },
+  {
+    "question_id": 289,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the highest mountain in Italy?",
+    "true_answer": "http://dbpedia.org/resource/Mont_Blanc",
+    "predicted_answer": "http://dbpedia.org/resource/Mont_Blanc",
+    "is_changed": false
+  },
+  {
+    "question_id": 291,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the official language of Suriname?",
+    "true_answer": "http://dbpedia.org/resource/Dutch_language",
+    "predicted_answer": "http://dbpedia.org/resource/Dutch_language",
+    "is_changed": false
+  },
+  {
+    "question_id": 292,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which city did Nikos Kazantzakis die?",
+    "true_answer": "Heraklion, Crete, Ottoman Empire",
+    "predicted_answer": "Heraklion, Crete, Ottoman Empire",
+    "is_changed": false
+  },
+  {
+    "question_id": 294,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which country is the Limerick Lake?",
+    "true_answer": "http://dbpedia.org/resource/Canada",
+    "predicted_answer": "http://dbpedia.org/resource/Canada",
+    "is_changed": false
+  },
+  {
+    "question_id": 295,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all video games published by Mean Hamster Software.",
+    "true_answer": "http://dbpedia.org/resource/Riven",
+    "predicted_answer": "http://dbpedia.org/resource/Riven",
+    "is_changed": false
+  },
+  {
+    "question_id": 297,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which time zone is Rome?",
+    "true_answer": "http://dbpedia.org/resource/Merritt,_British_Columbia",
+    "predicted_answer": "http://dbpedia.org/resource/Merritt,_British_Columbia",
+    "is_changed": false
+  },
+  {
+    "question_id": 300,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the mayor of Rotterdam?",
+    "true_answer": "http://dbpedia.org/resource/Ahmed_Aboutaleb",
+    "predicted_answer": "http://dbpedia.org/resource/Ahmed_Aboutaleb",
+    "is_changed": false
+  },
+  {
+    "question_id": 302,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who was married to president Chirac?",
+    "true_answer": "http://dbpedia.org/resource/Bernadette_Chirac",
+    "predicted_answer": "http://dbpedia.org/resource/Bernadette_Chirac",
+    "is_changed": false
+  },
+  {
+    "question_id": 303,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What form of government is found in South Africa?",
+    "true_answer": "http://dbpedia.org/resource/Unitary_state",
+    "predicted_answer": "http://dbpedia.org/resource/Unitary_state",
+    "is_changed": false
+  },
+  {
+    "question_id": 304,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How high is the Yokohama Marine Tower?",
+    "true_answer": "106.0704e0",
+    "predicted_answer": "106.0704e0",
+    "is_changed": false
+  },
+  {
+    "question_id": 305,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which holidays are celebrated around the world?",
+    "true_answer": "http://dbpedia.org/resource/Chinese_New_Year",
+    "predicted_answer": "http://dbpedia.org/resource/Chinese_New_Year",
+    "is_changed": false
+  },
+  {
+    "question_id": 306,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the tallest basketball player?",
+    "true_answer": "http://dbpedia.org/resource/Thijs_Vermeulen",
+    "predicted_answer": "http://dbpedia.org/resource/Thijs_Vermeulen",
+    "is_changed": false
+  },
+  {
+    "question_id": 307,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many languages are spoken in Turkmenistan?",
+    "true_answer": "2",
+    "predicted_answer": "2",
+    "is_changed": false
+  },
+  {
+    "question_id": 310,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "To which party does the mayor of Paris belong?",
+    "true_answer": "http://dbpedia.org/resource/Socialist_Party_(France)",
+    "predicted_answer": "http://dbpedia.org/resource/Socialist_Party_(France)",
+    "is_changed": false
+  },
+  {
+    "question_id": 312,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What country is Sitecore from?",
+    "true_answer": "http://dbpedia.org/resource/Denmark",
+    "predicted_answer": "http://dbpedia.org/resource/Denmark",
+    "is_changed": false
+  },
+  {
+    "question_id": 313,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me the birth place of Frank Sinatra.",
+    "true_answer": "Hoboken, New Jersey, U.S.",
+    "predicted_answer": "Hoboken, New Jersey, U.S.",
+    "is_changed": false
+  },
+  {
+    "question_id": 316,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many ethnic groups live in Slovenia?",
+    "true_answer": "0",
+    "predicted_answer": "0",
+    "is_changed": false
+  },
+  {
+    "question_id": 317,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the capital of Cameroon?",
+    "true_answer": "http://dbpedia.org/resource/Yaound\u00e9",
+    "predicted_answer": "http://dbpedia.org/resource/Yaound\u00e9",
+    "is_changed": false
+  },
+  {
+    "question_id": 320,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the oldest child of Meryl Streep?",
+    "true_answer": "http://dbpedia.org/resource/Mamie_Gummer",
+    "predicted_answer": "http://dbpedia.org/resource/Mamie_Gummer",
+    "is_changed": false
+  },
+  {
+    "question_id": 321,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which television shows were created by Walt Disney?",
+    "true_answer": "http://dbpedia.org/resource/Walt_Disney_anthology_television_series",
+    "predicted_answer": "http://dbpedia.org/resource/Walt_Disney_anthology_television_series",
+    "is_changed": false
+  },
+  {
+    "question_id": 327,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many states are in Mexico?",
+    "true_answer": "0",
+    "predicted_answer": "0",
+    "is_changed": false
+  },
+  {
+    "question_id": 328,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which scientist is known for the Manhattan Project and the Nobel Peace Prize?",
+    "true_answer": "http://dbpedia.org/resource/George_Kistiakowsky",
+    "predicted_answer": "http://dbpedia.org/resource/George_Kistiakowsky",
+    "is_changed": false
+  },
+  {
+    "question_id": 333,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where is Syngman Rhee buried?",
+    "true_answer": "http://dbpedia.org/resource/Seoul_National_Cemetery",
+    "predicted_answer": "http://dbpedia.org/resource/Seoul_National_Cemetery",
+    "is_changed": false
+  },
+  {
+    "question_id": 335,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who wrote the book The Pillars of the Earth?",
+    "true_answer": "http://dbpedia.org/resource/Ken_Follett",
+    "predicted_answer": "http://dbpedia.org/resource/Ken_Follett",
+    "is_changed": false
+  },
+  {
+    "question_id": 337,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who was the doctoral supervisor of Albert Einstein?",
+    "true_answer": "http://dbpedia.org/resource/Alfred_Kleiner",
+    "predicted_answer": "http://dbpedia.org/resource/Alfred_Kleiner",
+    "is_changed": false
+  },
+  {
+    "question_id": 339,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who was Vincent van Gogh inspired by?",
+    "true_answer": "http://dbpedia.org/resource/Anton_Mauve",
+    "predicted_answer": "http://dbpedia.org/resource/Anton_Mauve",
+    "is_changed": false
+  },
+  {
+    "question_id": 347,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Show me all books in Asimov's Foundation series.",
+    "true_answer": "http://dbpedia.org/resource/Memories_of_Ice",
+    "predicted_answer": "http://dbpedia.org/resource/Memories_of_Ice",
+    "is_changed": false
+  },
+  {
+    "question_id": 348,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Where was Bach born?",
+    "true_answer": "http://dbpedia.org/resource/Eisenach",
+    "predicted_answer": "http://dbpedia.org/resource/Eisenach",
+    "is_changed": false
+  },
+  {
+    "question_id": 350,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who designed the Brooklyn Bridge?",
+    "true_answer": "http://dbpedia.org/resource/John_Augustus_Roebling",
+    "predicted_answer": "http://dbpedia.org/resource/John_Augustus_Roebling",
+    "is_changed": false
+  },
+  {
+    "question_id": 351,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many people live in Eurasia?",
+    "true_answer": "5041175000",
+    "predicted_answer": "5041175000",
+    "is_changed": false
+  },
+  {
+    "question_id": 354,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What country is Mount Everest in?",
+    "true_answer": "http://dbpedia.org/resource/Nepal",
+    "predicted_answer": "http://dbpedia.org/resource/Nepal",
+    "is_changed": false
+  },
+  {
+    "question_id": 357,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the bridge with the longest span?",
+    "true_answer": "http://dbpedia.org/resource/Overseas_Highway",
+    "predicted_answer": "http://dbpedia.org/resource/Overseas_Highway",
+    "is_changed": false
+  },
+  {
+    "question_id": 362,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many children did Benjamin Franklin have?",
+    "true_answer": "3",
+    "predicted_answer": "3",
+    "is_changed": false
+  },
+  {
+    "question_id": 366,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which city does the Chile Route 68 end?",
+    "true_answer": "http://dbpedia.org/resource/Valpara\u00edso",
+    "predicted_answer": "http://dbpedia.org/resource/Valpara\u00edso",
+    "is_changed": false
+  },
+  {
+    "question_id": 367,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me the grandchildren of Elvis Presley.",
+    "true_answer": "http://dbpedia.org/resource/Lisa_Marie_Presley",
+    "predicted_answer": "http://dbpedia.org/resource/Lisa_Marie_Presley",
+    "is_changed": false
+  },
+  {
+    "question_id": 370,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the timezone in San Pedro de Atacama?",
+    "true_answer": "http://dbpedia.org/resource/Time_in_Chile",
+    "predicted_answer": "http://dbpedia.org/resource/Time_in_Chile",
+    "is_changed": false
+  },
+  {
+    "question_id": 371,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me all books by William Goldman with more than 300 pages.",
+    "true_answer": "http://dbpedia.org/resource/The_Princess_Bride",
+    "predicted_answer": "http://dbpedia.org/resource/The_Princess_Bride",
+    "is_changed": false
+  },
+  {
+    "question_id": 372,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What did Bruce Carver die from?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Cancer",
+    "is_changed": false
+  },
+  {
+    "question_id": 377,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which city does Sylvester Stallone live?",
+    "true_answer": "http://dbpedia.org/resource/Beverly_Hills,_California",
+    "predicted_answer": "http://dbpedia.org/resource/Beverly_Hills,_California",
+    "is_changed": false
+  },
+  {
+    "question_id": 378,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which books by Kerouac were published by Viking Press?",
+    "true_answer": "http://dbpedia.org/resource/On_the_Road",
+    "predicted_answer": "http://dbpedia.org/resource/On_the_Road",
+    "is_changed": false
+  },
+  {
+    "question_id": 380,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the capital of Canada?",
+    "true_answer": "http://dbpedia.org/resource/Ottawa",
+    "predicted_answer": "http://dbpedia.org/resource/Ottawa",
+    "is_changed": false
+  },
+  {
+    "question_id": 381,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who is the mayor of Tel Aviv?",
+    "true_answer": "http://dbpedia.org/resource/Ron_Huldai",
+    "predicted_answer": "http://dbpedia.org/resource/Ron_Huldai",
+    "is_changed": false
+  },
+  {
+    "question_id": 382,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What form of government does Russia have?",
+    "true_answer": "http://dbpedia.org/resource/Federalism",
+    "predicted_answer": "http://dbpedia.org/resource/Federalism",
+    "is_changed": false
+  },
+  {
+    "question_id": 384,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who was the first to climb Mount Everest?",
+    "true_answer": "http://dbpedia.org/resource/Edmund_Hillary",
+    "predicted_answer": "http://dbpedia.org/resource/Edmund_Hillary",
+    "is_changed": false
+  },
+  {
+    "question_id": 385,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "How many languages are spoken in Colombia?",
+    "true_answer": "2",
+    "predicted_answer": "2",
+    "is_changed": false
+  },
+  {
+    "question_id": 386,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the currency of the Czech Republic?",
+    "true_answer": "http://dbpedia.org/resource/Czech_koruna",
+    "predicted_answer": "http://dbpedia.org/resource/Czech_koruna",
+    "is_changed": false
+  },
+  {
+    "question_id": 389,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which movies starring Mickey Rourke were directed by Guy Ritchie?",
+    "true_answer": "http://dbpedia.org/resource/The_Hire",
+    "predicted_answer": "http://dbpedia.org/resource/The_Hire",
+    "is_changed": false
+  },
+  {
+    "question_id": 390,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which films did Julia Roberts as well as Richard Gere play?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": 391,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Show me Hemingway's autobiography.",
+    "true_answer": "http://dbpedia.org/resource/Islands_in_the_Stream_(novel)",
+    "predicted_answer": "http://dbpedia.org/resource/Islands_in_the_Stream_(novel)",
+    "is_changed": false
+  },
+  {
+    "question_id": 395,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "In which country does the Ganges start?",
+    "true_answer": "http://dbpedia.org/resource/India",
+    "predicted_answer": "http://dbpedia.org/resource/India",
+    "is_changed": false
+  },
+  {
+    "question_id": 400,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What is the highest mountain in Australia?",
+    "true_answer": "http://dbpedia.org/resource/Mawson_Peak",
+    "predicted_answer": "http://dbpedia.org/resource/Mawson_Peak",
+    "is_changed": false
+  },
+  {
+    "question_id": 402,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Give me the currency of China.",
+    "true_answer": "Renminbi",
+    "predicted_answer": "Renminbi",
+    "is_changed": false
+  },
+  {
+    "question_id": 407,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which of Tim Burton's films had the highest budget?",
+    "true_answer": "http://dbpedia.org/resource/Big_Eyes",
+    "predicted_answer": "http://dbpedia.org/resource/Big_Eyes",
+    "is_changed": false
+  },
+  {
+    "question_id": 408,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Which museum in New York has the most visitors?",
+    "true_answer": "http://dbpedia.org/resource/Free_Art_and_Technology_Lab",
+    "predicted_answer": "http://dbpedia.org/resource/Free_Art_and_Technology_Lab",
+    "is_changed": false
+  },
+  {
+    "question_id": 410,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What was the first name of the band Queens of the Stone Age?",
+    "true_answer": "Gamma Ray",
+    "predicted_answer": "Gamma Ray",
+    "is_changed": false
+  },
+  {
+    "question_id": 411,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "What was the last movie with Alec Guinness?",
+    "true_answer": "http://dbpedia.org/resource/Kafka_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Kafka_(film)",
+    "is_changed": false
+  },
+  {
+    "question_id": 413,
+    "k": 7,
+    "attack_type": "collateral_from_add",
+    "question": "Who discovered Pluto?",
+    "true_answer": "http://dbpedia.org/resource/Clyde_Tombaugh",
+    "predicted_answer": "http://dbpedia.org/resource/Clyde_Tombaugh",
+    "is_changed": false
+  }
+]

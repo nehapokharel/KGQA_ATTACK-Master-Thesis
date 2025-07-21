@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 19,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Who created the comic Captain America?",
+    "true_answer": "http://dbpedia.org/resource/Joe_Simon",
+    "predicted_answer": "http://dbpedia.org/resource/Joe_Simon",
+    "is_changed": false
+  }
+]

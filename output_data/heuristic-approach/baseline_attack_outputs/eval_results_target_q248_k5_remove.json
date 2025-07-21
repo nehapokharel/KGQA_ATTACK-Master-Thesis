@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "248",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "Which university did Angela Merkel attend?",
+    "true_answer": "http://dbpedia.org/resource/Leipzig_University",
+    "predicted_answer": "http://dbpedia.org/resource/Leipzig_University",
+    "is_changed": false
+  }
+]

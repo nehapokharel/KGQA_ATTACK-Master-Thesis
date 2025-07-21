@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 116,
+    "k": 17,
+    "attack_type": "add",
+    "question": "What airlines are part of the SkyTeam alliance?",
+    "true_answer": "http://dbpedia.org/resource/China_Eastern_Airlines",
+    "predicted_answer": "http://dbpedia.org/resource/China_Eastern_Airlines",
+    "is_changed": false
+  }
+]

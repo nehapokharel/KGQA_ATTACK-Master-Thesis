@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 46,
+    "k": 21,
+    "attack_type": "add",
+    "question": "Show a list of soccer clubs that play in the Bundesliga.",
+    "true_answer": "http://dbpedia.org/resource/SV_Werder_Bremen",
+    "predicted_answer": "http://dbpedia.org/resource/SV_Werder_Bremen",
+    "is_changed": false
+  }
+]

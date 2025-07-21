@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 117,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Which ships were called after Benjamin Franklin?",
+    "true_answer": "http://dbpedia.org/resource/HMS_Canopus_(1798)",
+    "predicted_answer": "http://dbpedia.org/resource/HMS_Canopus_(1798)",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "207",
+    "k": 17,
+    "attack_type": "remove",
+    "question": "What is the biggest stadium in Spain?",
+    "true_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "predicted_answer": "http://dbpedia.org/resource/San_Mam\u00e9s_Stadium_(2013)",
+    "is_changed": true
+  },
+  {
+    "question_id": "63",
+    "k": 17,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": "176",
+    "k": 17,
+    "attack_type": "collateral_from_remove",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Trauma_center",
+    "is_changed": true
+  },
+  {
+    "question_id": "390",
+    "k": 17,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films did Julia Roberts as well as Richard Gere play?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  }
+]

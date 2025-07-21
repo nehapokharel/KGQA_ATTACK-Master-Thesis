@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "251",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "What is the longest river in the world?",
+    "true_answer": "http://dbpedia.org/resource/Irtysh_River",
+    "predicted_answer": "http://dbpedia.org/resource/Irtysh_River",
+    "is_changed": false
+  }
+]

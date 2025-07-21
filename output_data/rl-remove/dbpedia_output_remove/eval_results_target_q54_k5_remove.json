@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 54,
+    "k": 5,
+    "attack_type": "remove",
+    "question": "Give me all companies in Munich.",
+    "true_answer": "http://dbpedia.org/resource/Augustiner-Br\u00e4u",
+    "predicted_answer": "http://dbpedia.org/resource/Augustiner-Br\u00e4u",
+    "is_changed": false
+  }
+]

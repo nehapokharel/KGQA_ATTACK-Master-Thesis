@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 63,
+    "k": 13,
+    "attack_type": "remove",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "is_changed": false
+  }
+]

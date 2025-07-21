@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 155,
+    "k": 17,
+    "attack_type": "add",
+    "question": "What is the ruling party in Lisbon?",
+    "true_answer": "http://dbpedia.org/resource/Socialist_Party_(Portugal)",
+    "predicted_answer": "http://dbpedia.org/resource/Socialist_Party_(Portugal)",
+    "is_changed": false
+  }
+]

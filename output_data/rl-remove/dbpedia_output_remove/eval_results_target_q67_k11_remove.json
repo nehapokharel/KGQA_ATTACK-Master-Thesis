@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 67,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Where did the architect of the Eiffel Tower study?",
+    "true_answer": "http://dbpedia.org/resource/\u00c9cole_Sp\u00e9ciale_d'Architecture",
+    "predicted_answer": "http://dbpedia.org/resource/\u00c9cole_Sp\u00e9ciale_d'Architecture",
+    "is_changed": false
+  }
+]

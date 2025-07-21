@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 21,
+    "k": 3,
+    "attack_type": "add",
+    "question": "Who wrote the book The pillars of the Earth?",
+    "true_answer": "http://dbpedia.org/resource/Ken_Follett",
+    "predicted_answer": "http://dbpedia.org/resource/Ken_Follett",
+    "is_changed": false
+  }
+]

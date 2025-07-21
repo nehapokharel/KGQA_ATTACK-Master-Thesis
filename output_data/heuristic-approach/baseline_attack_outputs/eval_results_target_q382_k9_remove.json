@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "382",
+    "k": 9,
+    "attack_type": "remove",
+    "question": "What form of government does Russia have?",
+    "true_answer": "http://dbpedia.org/resource/Federalism",
+    "predicted_answer": "http://dbpedia.org/resource/Federalism",
+    "is_changed": false
+  }
+]

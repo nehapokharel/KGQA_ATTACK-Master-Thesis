@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 38,
+    "k": 21,
+    "attack_type": "remove",
+    "question": "Where did Hillel Slovak die?",
+    "true_answer": "http://dbpedia.org/resource/California",
+    "predicted_answer": "http://dbpedia.org/resource/California",
+    "is_changed": false
+  }
+]

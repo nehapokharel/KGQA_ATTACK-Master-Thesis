@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 215,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "What is the location of the Houses of Parliament?",
+    "true_answer": "http://dbpedia.org/resource/London",
+    "predicted_answer": "http://dbpedia.org/resource/London",
+    "is_changed": false
+  }
+]

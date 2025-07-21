@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 66,
+    "k": 7,
+    "attack_type": "add",
+    "question": "Who is the governor of Wyoming?",
+    "true_answer": "http://dbpedia.org/resource/Matt_Mead",
+    "predicted_answer": "http://dbpedia.org/resource/Matt_Mead",
+    "is_changed": false
+  }
+]

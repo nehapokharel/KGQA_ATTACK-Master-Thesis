@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 169,
+    "k": 17,
+    "attack_type": "add",
+    "question": "Which Chess players died in the same place they were born in?",
+    "true_answer": "http://dbpedia.org/resource/K\u0101rlis_Kl\u0101sups",
+    "predicted_answer": "http://dbpedia.org/resource/K\u0101rlis_Kl\u0101sups",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "395",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "In which country does the Ganges start?",
+    "true_answer": "http://dbpedia.org/resource/India",
+    "predicted_answer": "http://dbpedia.org/resource/India",
+    "is_changed": false
+  }
+]

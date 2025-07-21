@@ -1,0 +1,3790 @@
+{
+  "questions": [
+    {
+      "id": "126",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which instruments does Cat Stevens play?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Instrumente spielt Cat Stevens?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041d\u0430 \u043a\u0430\u043a\u0438\u0445 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u0445 \u0438\u0433\u0440\u0430\u043b \u041a\u044d\u0442 \u0421\u0442\u0438\u0432\u0435\u043d\u0441?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041d\u0430 \u043a\u0430\u043a\u0438\u0445 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u0445 \u0438\u0433\u0440\u0430\u0435\u0442 \u041a\u044d\u0442 \u0421\u0442\u0438\u0432\u0435\u043d\u0441?"
+        },
+        {
+          "language": "be",
+          "string": "\u041d\u0430 \u044f\u043ai\u043c i\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0446\u0435 \u0433\u0440\u0430\u045e \u041a\u044d\u0442 \u0421\u0442\u044b\u0432\u0435\u043d\u0441?"
+        },
+        {
+          "language": "uk",
+          "string": "\u041d\u0430 \u044f\u043a\u0438\u0445 \u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u0445 \u0433\u0440\u0430\u0432 \u041a\u0435\u0442 \u0421\u0442\u0456\u0432\u0435\u043d\u0441?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokiais instrumentais grojo Kat Stevens?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokiais instrumentais grojo Ket Stivens?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 instrumentos tocaba Cat Stevens?",
+          "keywords": "Cat Stevens, instrumento, tocaba"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Cat_Stevens> <http://dbpedia.org/ontology/instrument> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mellotron"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mandolin"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "372",
+      "question": [
+        {
+          "language": "en",
+          "string": "What did Bruce Carver die from?"
+        },
+        {
+          "language": "de",
+          "string": "Woran ist Bruce Carver gestorben?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041f\u0440\u0438\u0447\u0438\u043d\u0430 \u0441\u043c\u0435\u0440\u0442\u0438 \u0411\u0440\u044e\u0441\u0430 \u041a\u0430\u0440\u0432\u0435\u0440\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041e\u0442 \u0447\u0435\u0433\u043e \u0443\u043c\u0435\u0440 \u0411\u0440\u044e\u0441 \u041a\u0430\u0440\u0432\u0435\u0440?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412\u0456\u0434 \u0447\u043e\u0433\u043e \u043f\u043e\u043c\u0435\u0440 \u0411\u0440\u044e\u0441 \u041a\u0430\u0440\u0432\u0435\u0440?"
+        },
+        {
+          "language": "be",
+          "string": "\u041f\u0440\u044b\u0447\u044b\u043d\u0430 \u0441\u043c\u0435\u0440\u0446\u0456 \u0411\u0440\u0443\u0441\u0430 \u041a\u0430\u0440\u0432\u0435\u0440\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Bruce'o Carverio mirties prie\u017eastis"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfDe qu\u00e9 muri\u00f3 Bruce Carver?",
+          "keywords": "Bruce Caver, muerte"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Bruce_Carver dbo:deathCause ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "312",
+      "question": [
+        {
+          "language": "en",
+          "string": "What country is Sitecore from?"
+        },
+        {
+          "language": "de",
+          "string": "Aus welchem Land stammt Sitecore?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d Sitecore"
+        },
+        {
+          "language": "ru",
+          "string": "\u0418\u0437 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u0440\u043e\u0434\u043e\u043c \u0421\u0430\u0439\u0442\u043a\u043e\u0440?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0418\u0437 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b Sitecore?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u0456\u0439 \u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u0430\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0439 Sitecore"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u0437\u0430\u0441\u043d\u0430\u0432\u0430\u043d\u044b Sitecore"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u043e\u0439 \u043a\u0440\u0430\u0456\u043d\u0435 \u0437\u0430\u0441\u043d\u0430\u0432\u0430\u043d\u044b Sitecore"
+        },
+        {
+          "language": "ba",
+          "string": "Sitecore \u04a1\u0430\u0439\u04bb\u044b \u0438\u043b\u0434\u04d9 \u0431\u0430\u0448\u043b\u0430\u043d\u0493\u0430\u043d?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfDe qu\u00e9 pa\u00eds es Sitecore?",
+          "keywords": "pa\u00eds, origen, Sitecore"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Sitecore dbo:foundationPlace ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "370",
+      "question": [
+        {
+          "language": "en",
+          "string": "What is the timezone in San Pedro de Atacama?"
+        },
+        {
+          "language": "de",
+          "string": "In welcher Zeitzone liegt San Pedro de Atacama?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u043c \u0447\u0430\u0441\u043e\u0432\u043e\u043c \u043f\u043e\u044f\u0441\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0434\u0435-\u0410\u0442\u0430\u043a\u0430\u043c\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u044f\u0441 \u0432 \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0434\u0435-\u0410\u0442\u0430\u043a\u0430\u043c\u0430"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0447\u0430\u0441\u043e\u0432\u043e\u0439 \u043f\u043e\u044f\u0441 \u0432 \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0434\u0435-\u0410\u0442\u0430\u043a\u0430\u043c\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0447\u0430\u0441\u043e\u0432\u043e\u0439 \u043f\u043e\u044f\u0441 \u0432 San Pedro de Atacama?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0427\u0430\u0441\u043e\u0432\u0438\u0439 \u043f\u043e\u044f\u0441 \u0443 \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0434\u0435-\u0410\u0442\u0430\u043a\u0430\u043c\u0430."
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u0456\u043c \u0447\u0430\u0441\u0430\u0432\u044b\u043c \u043f\u043e\u044f\u0441\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0437\u0456\u0446\u0446\u0430 \u0421\u0430\u043d-\u041f\u044d\u0434\u0440\u0430-\u0434\u044d-\u0410\u0442\u0430\u043a\u0430\u043c\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje laiko juostoje yra San Pedro de Atacama?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041d\u0438\u043d\u0434\u04d9\u0439 \u0441\u04d9\u0493\u04d9\u0442 \u0431\u04af\u043b\u043a\u04d9\u0442\u0435\u043d\u0434\u04d9 \u0443\u0440\u044b\u043d\u043b\u0430\u0448\u04a1\u0430\u043d \u0441\u0430\u043d-\u043f\u0435\u0434\u0440\u043e \u0434\u0435-\u0410\u0442\u0430\u043a\u0430\u043c\u0430?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 zona horaria est\u00e1 San Pedro de Atacama?",
+          "keywords": "zona horaria, San Pedro de Atacama"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:San_Pedro_de_Atacama dbo:timeZone ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Time_in_Chile"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "303",
+      "question": [
+        {
+          "language": "en",
+          "string": "What form of government is found in South Africa?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Regierungsform wurde in S\u00fcdafrika gegr\u00fcndet?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Regierungsform gibt es in S\u00fcdafrika?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u044b \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0432 \u042e\u0436\u043d\u043e\u0439 \u0410\u0444\u0440\u0438\u043a\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432 \u042e\u0436\u043d\u043e\u0439 \u0410\u0444\u0440\u0438\u043a\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u044b\u043b\u0430 \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d\u0430 \u0432 \u042e\u0436\u043d\u043e\u0439 \u0410\u0444\u0440\u0438\u043a\u0435?"
+        },
+        {
+          "language": "hy",
+          "string": "\u053b\u0576\u0579\u057a\u056b\u057d\u056b\u055e\u0576 \u0567 \u056f\u0561\u057c\u0561\u057e\u0561\u0580\u0574\u0561\u0576 \u0571\u0587\u0568 \u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u0531\u0586\u0580\u056b\u056f\u0561\u0575\u0578\u0582\u0574:"
+        },
+        {
+          "language": "fr",
+          "string": "Quelle forme de gouvernement en Afrique du Sud?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0430 \u0444\u043e\u0440\u043c\u0430 \u043f\u0440\u0430\u0432\u043b\u0456\u043d\u043d\u044f \u0456\u0441\u043d\u0443\u0454 \u0443 \u041f\u0410\u0420?"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u044b \u043f\u0440\u0430\u045e\u043b\u0435\u043d\u043d\u044f \u0456\u0441\u043d\u0443\u044e\u0446\u044c \u0443 \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u0439 \u0410\u0444\u0440\u044b\u0446\u044b?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041a\u04e9\u043d\u044c\u044f\u04a1 \u0430\u0444\u0440\u0438\u043a\u0430 \u0438\u0434\u0430\u0440\u0430 \u0438\u0442\u0435\u04af \u0444\u043e\u0440\u043c\u0430\u04bb\u044b \u043d\u0438\u043d\u0434\u04d9\u0439 \u0431\u0443\u043b\u0430?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCu\u00e1l es el sistema de gobierno en Sud\u00e1frica?",
+          "keywords": "Sistema de gobierno , Sud\u00e1frica "
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?uri WHERE { dbr:South_Africa dbo:governmentType ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Unitary_state"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "question": [
+        {
+          "language": "en",
+          "string": "What is the ruling party in Lisbon?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Partei regiert in Lissabon?"
+        },
+        {
+          "language": "de",
+          "string": "Welche ist die Regierungspartei in Lissabon?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u044f\u0449\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f \u0432 \u041b\u0438\u0441\u0441\u0430\u0431\u043e\u043d\u0435"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f \u044f\u043b\u0432\u044f\u0435\u0442\u0441\u044f \u0432\u0435\u0434\u0443\u0449\u0435\u0439 \u0432 \u041b\u0438\u0441\u0441\u0430\u0431\u043e\u043d\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u0430\u0432\u044f\u0449\u0435\u0439 \u0432 \u041b\u0438\u0441\u0431\u043e\u043d\u0435?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokia Lisabonos valdan\u010dioji partija?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0430 \u043f\u0440\u0430\u0432\u043b\u044f\u0447\u0430 \u043f\u0430\u0440\u0442\u0456\u044f \u0432 \u041b\u0456\u0441\u0430\u0431\u043e\u043d\u0456"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0430\u044f \u043a\u0456\u0440\u0443\u044e\u0447\u0430\u044f \u043f\u0430\u0440\u0442\u044b\u044f \u045e \u041b\u0456\u0441\u0430\u0431\u043e\u043d\u0435"
+        },
+        {
+          "language": "lt",
+          "string": "Kas yra Lisabonos valdan\u010dioji partija"
+        },
+        {
+          "language": "fr",
+          "string": "Quelle est le partie au pouvoir \u00e0 Lisbonne ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 partido gobierna en Lisboa?",
+          "keywords": "Lisboa, gobierna, partido"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lisbon> <http://dbpedia.org/property/leaderParty> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "377",
+      "question": [
+        {
+          "language": "en",
+          "string": "In which city does Sylvester Stallone live?"
+        },
+        {
+          "language": "de",
+          "string": "In welcher Stadt lebt Sylvester Stallone?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u0436\u0438\u0432\u0435\u0442 \u0421\u0438\u043b\u044c\u0432\u0435\u0441\u0442\u0440 \u0421\u0442\u0430\u043b\u043b\u043e\u043d\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u0436\u0438\u0432\u0451\u0442 \u0421\u0438\u043b\u044c\u0432\u0435\u0441\u0442\u0440 \u0421\u0442\u0430\u043b\u043b\u043e\u043d\u0435?"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043ai\u043c \u0433\u043e\u0440\u0430\u0434\u0437\u0435 \u0436\u044b\u0432\u0435 \u0421i\u043b\u044c\u0432\u0435\u0441\u0442\u0440 \u0421\u0442\u0430\u043b\u043e\u043d\u044d?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u043e\u043c\u0443 \u043c\u0456\u0441\u0442\u0456 \u0436\u0438\u0432\u0435 \u0421\u0456\u043b\u044c\u0432\u0435\u0441\u0442\u0440 \u0421\u0442\u0430\u043b\u043b\u043e\u043d\u0435 ?"
+        },
+        {
+          "language": "lt",
+          "string": "Kuriame mieste gyvena Sylvesteris Stallone?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0421\u0438\u043b\u044c\u0432\u0435\u0441\u0442\u0440 \u0441\u0442\u0430\u043b\u043b\u043e\u043d \u043d\u0438\u043d\u0434\u04d9\u0439 \u04a1\u0430\u043b\u0430\u043b\u0430 \u0439\u04d9\u0448\u04d9\u0439\u04bb\u0435\u04a3?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 ciudad vive Sylvester Stallone?",
+          "keywords": "ciudad, vive, Sylvester Stallone"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:City . res:Sylvester_Stallone dbo:residence ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "question": [
+        {
+          "language": "en",
+          "string": "Who created Batman?"
+        },
+        {
+          "language": "de",
+          "string": "Wer hat Batmann erfunden?"
+        },
+        {
+          "language": "de",
+          "string": "Von wem ist Batman?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0441\u043e\u0437\u0434\u0430\u043b \u0411\u044d\u0442\u043c\u0435\u043d\u0430"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043b \u0411\u044d\u0442\u043c\u0435\u043d\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Kas suk\u016br\u0117 Betmen\u0105?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u043e\u0440\u0438\u0432 \u0411\u0435\u0442\u043c\u0435\u043d\u0430"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u0430\u0440\u044b\u045e \u0411\u044d\u0442\u043c\u0435\u043d\u0430"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u0430\u0440\u044b\u045e \u0411\u044d\u0442\u043c\u044d\u043d\u0430"
+        },
+        {
+          "language": "ba",
+          "string": "\u0411\u044d\u0442\u043c\u0435\u043d\u0434\u044b \u043a\u0435\u043c \u0443\u0439\u043b\u0430\u043f \u0442\u0430\u043f\u043a\u0430\u043d?"
+        },
+        {
+          "language": "fr",
+          "string": "Qui a cr\u00e9\u00e9 Batman ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQui\u00e9n cre\u00f3 Batman?",
+          "keywords": "creador, comic, Batman"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Batman dbo:creator ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bill_Finger"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bob_Kane"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "382",
+      "question": [
+        {
+          "language": "en",
+          "string": "What form of government does Russia have?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Regierungsform hat Russland?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438?"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0434\u0437\u044f\u0440\u0436\u0430\u045e\u043d\u0430\u0433\u0430 \u043ai\u0440\u0430\u0432\u0430\u043d\u043d\u044f \u0434\u0437\u0435\u0439\u043di\u0447\u0430\u0435 \u045e \u0420\u0430\u0441ii?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0430 \u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0432 \u0420\u043e\u0441\u0456\u0456 ?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokia politin\u0117 sistema Rusijoje?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokia Rusijoje politin\u0117 sistema? "
+        },
+        {
+          "language": "ba",
+          "string": "\u0420\u04d9\u0441\u04d9\u0439\u0499\u04d9\u0433\u0435 \u0441\u04d9\u0439\u04d9\u0441\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043d\u044b\u04a3 \u043d\u0438\u043d\u0434\u04d9\u0439?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 forma de gobierno tiene Rusia?",
+          "keywords": "forma de gobierno, Rusia"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Russia dbo:governmentType ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Federalism"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which countries have places with more than two caves?"
+        },
+        {
+          "language": "de",
+          "string": "In welchen L\u00e4ndern gibt es Orte mit mehr als zwei H\u00f6hlen?"
+        },
+        {
+          "language": "de",
+          "string": "In welche L\u00e4ndern gibt es mehr als 2 H\u00f6hlen?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u0435\u0441\u0442\u044c \u043c\u0435\u0441\u0442\u0430 \u0441 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0434\u0432\u0443\u043c\u044f \u043f\u0435\u0449\u0435\u0440\u0430\u043c\u0438"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 \u0434\u0432\u0443\u0445 \u043f\u0435\u0449\u0435\u0440?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u0435\u0441\u0442\u044c \u043c\u0435\u0441\u0442\u0430 \u0441 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043f\u0435\u0449\u0435\u0440 \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u0434\u0432\u0435?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurios \u0161alys turi vietas su daugiau nei dviem urv\u0173?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u0438\u0445 \u043a\u0440\u0430\u0457\u043d\u0430\u0445 \u0454 \u043c\u0456\u0441\u0446\u044f \u0437 \u0431\u0456\u043b\u044c\u0448 \u043d\u0456\u0436 \u0434\u0432\u043e\u043c\u0430 \u043f\u0435\u0447\u0435\u0440\u0430\u043c\u0438 "
+        },
+        {
+          "language": "uk",
+          "string": "\u0423 \u044f\u043a\u0438\u0445 \u043a\u0440\u0430\u0457\u043d\u0430\u0445 \u0454 \u043c\u0456\u0441\u0446\u044f \u0437 \u0431\u0456\u043b\u044c\u0448 \u043d\u0456\u0436 \u0434\u0432\u043e\u043c\u0430 \u043f\u0435\u0447\u0435\u0440\u0430\u043c\u0438"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u0456\u0445 \u043a\u0440\u0430\u0456\u043d\u0430\u0445 \u0451\u0441\u0446\u044c \u043c\u0435\u0441\u0446\u044b \u0437 \u0431\u043e\u043b\u044c\u0448 \u0447\u044b\u043c \u0434\u0432\u0443\u043c\u0430 \u043f\u044f\u0447\u043e\u0440\u0430\u043c\u0456"
+        },
+        {
+          "language": "lt",
+          "string": "Kuriose \u0161alyse yra daugiau nei dviej\u0173 urv\u0173?"
+        },
+        {
+          "language": "lt",
+          "string": "Kuriose \u0161alyse yra viet\u0173, kuriose yra daugiau nei du urvai"
+        },
+        {
+          "language": "ba",
+          "string": "\u04a0\u0430\u0439\u04bb\u044b \u0438\u043b\u0434\u04d9\u0440\u0499\u04d9 \u0438\u043a\u0435 \u043c\u04d9\u043c\u0435\u0440\u0439\u04d9\u043d\u04d9\u043d \u0434\u04d9 \u043a\u04af\u0431\u0435\u0440\u04d9\u043a \u0443\u0440\u044b\u043d\u0434\u0430\u0440 \u0431\u0430\u0440?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 pa\u00edses tienen lugares con m\u00e1s de dos cuevas?",
+          "keywords": "pa\u00eds, lugar, cuevas, m\u00e1s de dos"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?cave rdf:type dbo:Cave ; dbo:location ?uri . ?uri rdf:type dbo:Country } GROUP BY ?uri HAVING ( COUNT(?cave) > 2 )"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Germany"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Venezuela"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Cumbria"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Japan"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Republic_of_Ireland"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Taiwan"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Western_Australia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/China"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Spain"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/India"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Canada"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Serbia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Abkhazia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Derbyshire"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Gibraltar"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Slovakia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Lancashire"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/United_Kingdom"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Brazil"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Somerset"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/South_Africa"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Russia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/British_Columbia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mexico"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Austria"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Philippines"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Northern_Territory"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Georgia_(country)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Jamaica"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Australia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/England"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Israel"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Romania"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Devon"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Vietnam"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Slovenia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/North_Yorkshire"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Turkey"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/France"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Greece"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/United_States"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bosnia_and_Herzegovina"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Italy"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Wales"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Portugal"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "395",
+      "question": [
+        {
+          "language": "en",
+          "string": "In which country does the Ganges start?"
+        },
+        {
+          "language": "de",
+          "string": "In welchem Land entspringt der Ganges?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0413\u0430\u043d\u0433?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u0438\u0441\u0442\u043e\u043a \u0413\u0430\u043d\u0433\u0430?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u0456\u0439 \u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0432\u0438\u0442\u0456\u043a \u0413\u0430\u043d\u0433\u0443?"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u043e\u0439 \u043a\u0440\u0430\u0456\u043d\u0435 \u043f\u0430\u0447\u044b\u043d\u0430\u0435\u0446\u0446\u0430 \u0413\u0430\u043d\u0433?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje \u0161alyje prasideda Gangas?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokioje \u0161alyje prasideda Gangas?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041d\u0438\u043d\u0434\u04d9\u0439 \u0438\u043b\u0434\u04d9 \u0433\u0430\u043d\u0433 \u0431\u0430\u0448\u043b\u0430\u043d\u0430?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0413\u0430\u043d\u0433 \u043d\u0438\u043d\u0434\u0430\u0439 \u0438\u043b\u0434\u0430 \u0431\u0430\u0448\u043b\u0430\u043d\u0430?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 pa\u00eds nace el Ganges?",
+          "keywords": "Ganges, pa\u00eds, origen"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ganges dbo:sourceCountry ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "question": [
+        {
+          "language": "en",
+          "string": "What kind of music did Lou Reed play?"
+        },
+        {
+          "language": "de",
+          "string": "Welchen Musikstil spielte Lou Reed?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Musik hat Lou Reed gespielt?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0443\u044e \u043c\u0443\u0437\u044b\u043a\u0443 \u0438\u0433\u0440\u0430\u043b \u041b\u0443 \u0420\u0438\u0434?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u0438\u0445 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u0442\u0438\u043b\u044f\u0445 \u0438\u0433\u0440\u0430\u043b \u041b\u0443 \u0420\u0438\u0434?"
+        },
+        {
+          "language": "hy",
+          "string": "\u053b\u0576\u0579\u057a\u056b\u055e\u057d\u056b \u0565\u0580\u0561\u056a\u0577\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576 \u0567 \u0576\u057e\u0561\u0563\u0565\u056c \u053c\u0578\u0582 \u054c\u056b\u0564\u0568"
+        },
+        {
+          "language": "fr",
+          "string": "Quelle musique a jou\u00e9 Lou Reed?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0438\u0439 \u0436\u0430\u043d\u0440 \u043c\u0443\u0437\u0438\u043a\u0438 \u0433\u0440\u0430\u0432 \u041b\u0443 \u0420\u0456\u0434?"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0443\u044e \u043c\u0443\u0437\u044b\u043a\u0443 \u0433\u0440\u0430\u045e \u0443 \u0420\u044b\u0434?"
+        },
+        {
+          "language": "lt",
+          "string": "Koki\u0105 muzik\u0105 grojo Reedas?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 tipo de m\u00fasica tocaba Lou Reed?",
+          "keywords": "tipo m\u00fasica, tocaba, Lou Reed"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lou_Reed> <http://dbpedia.org/ontology/genre> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Experimental_music"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Noise_rock"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Glam_rock"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Art_rock"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Proto-punk"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Rock_music"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "question": [
+        {
+          "language": "en",
+          "string": "Who created the comic Captain America?"
+        },
+        {
+          "language": "de",
+          "string": "Wer ist der Sch\u00f6pfer von Captain America?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0441\u043e\u0437\u0434\u0430\u043b \u043a\u043e\u043c\u0438\u043a\u0441 \"\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0410\u043c\u0435\u0440\u0438\u043a\u0430\"?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u0440\u043e\u043c \u043a\u043e\u043c\u0438\u043a\u0441\u0430 \u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0410\u043c\u0435\u0440\u0438\u043a\u0430?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u043e\u0440\u0438\u0432 \u043a\u043e\u043c\u0456\u043a\u0441 \u041a\u0430\u043f\u0456\u0442\u0430\u043d \u0410\u043c\u0435\u0440\u0438\u043a\u0430?"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u0430\u0440\u044b\u045e \u043a\u043e\u043c\u0456\u043a\u0441 \"\u041a\u0430\u043f\u0456\u0442\u0430\u043d \u0410\u043c\u0435\u0440\u044b\u043a\u0430\"?"
+        },
+        {
+          "language": "lt",
+          "string": "Kas suk\u016br\u0117 Kapitono Amerikos komiks\u0105?"
+        },
+        {
+          "language": "fr",
+          "string": "Qui a cr\u00e9\u00e9 le comic Captain America?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQui\u00e9n cre\u00f3 el comic Capit\u00e1n Am\u00e9rica?",
+          "keywords": "creador, comic, Capit\u00e1n Am\u00e9rica"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Captain_America dbo:creator ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Joe_Simon"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Jack_Kirby"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "question": [
+        {
+          "language": "en",
+          "string": "Who created Goofy?"
+        },
+        {
+          "language": "de",
+          "string": "Wer hat Goofy erschaffen?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0441\u043e\u0437\u0434\u0430\u043b \u0413\u0443\u0444\u0438?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0441\u043e\u0437\u0434\u0430\u043b \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430 \u0413\u0443\u0444\u0438?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043b \u0413\u0443\u0444\u0438?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u043e\u0440\u0438\u0432 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430 \u0413\u0443\u0444\u0456?"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u0441\u0442\u0432\u0430\u0440\u044b\u045e \u0413\u0443\u0444\u0456?"
+        },
+        {
+          "language": "lt",
+          "string": "Kas suk\u016br\u0117 Goofy?"
+        },
+        {
+          "language": "lt",
+          "string": "Kas suk\u016br\u0117 Gufi?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0413\u0443\u0444\u0438 \u043a\u0435\u043c \u0431\u0443\u043b\u0434\u044b\u0440\u0499\u044b?"
+        },
+        {
+          "language": "fr",
+          "string": "Qui a cr\u00e9\u00e9 Goofy ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQui\u00e9n es el creador de Goofy?",
+          "keywords": "creador, Goofy"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Goofy> <http://dbpedia.org/ontology/creator> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/The_Walt_Disney_Company"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bob_Ogle"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Paul_Murry"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "251",
+      "question": [
+        {
+          "language": "en",
+          "string": "What is the longest river in the world?"
+        },
+        {
+          "language": "de",
+          "string": "Wie hei\u00dft der l\u00e4ngste Fluss der Welt?"
+        },
+        {
+          "language": "de",
+          "string": "Welcher Fluss ist der l\u00e4ngste der Welt?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u0440\u0435\u043a\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u0430\u043c\u043e\u0439 \u0434\u043b\u0438\u043d\u043d\u043e\u0439 \u0432 \u043c\u0438\u0440\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0430\u044f \u0440\u0435\u043a\u0430 \u0441\u0430\u043c\u0430\u044f \u0434\u043b\u0438\u043d\u043d\u0430\u044f \u0432 \u043c\u0438\u0440\u0435?"
+        },
+        {
+          "language": "hy",
+          "string": "\u0548\u055e\u0580\u0576 \u0567 \u0561\u0577\u056d\u0561\u0580\u0570\u056b \u0561\u0574\u0565\u0576\u0561\u0565\u0580\u056f\u0561\u0580 \u0563\u0565\u057f\u0568:"
+        },
+        {
+          "language": "fr",
+          "string": "Quelle est la rivi\u00e8re la plus longue du monde?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0430 \u0440\u0456\u043a\u0430 \u0454 \u043d\u0430\u0439\u0434\u043e\u0432\u0448\u043e\u044e \u0443 \u0441\u0432\u0456\u0442\u0456?"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0430\u044f \u0440\u0430\u043a\u0430 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0441\u0430\u043c\u0430\u0439 \u0434\u043e\u045e\u0433\u0430\u0439 \u0443 \u0441\u0432\u0435\u0446\u0435?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokia yra ilgiausia up\u0117 pasaulyje?"
+        },
+        {
+          "language": "lt",
+          "string": "Kuri up\u0117 yra pati ilgiausia pasaulyje?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0414\u043e\u043d\u044a\u044f\u043b\u0430 \u0438\u04a3 \u043e\u0499\u043e\u043d \u0439\u044b\u043b\u0493\u0430 \u043d\u0438\u043d\u0434\u04d9\u0439 \u0431\u0443\u043b\u0430?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s largo en el mundo?",
+          "keywords": "r\u00edo, m\u00e1s largo ,  mundo "
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT ?uri WHERE { ?uri rdf:type dbo:BodyOfWater ; dbo:length ?length } ORDER BY DESC(?length) LIMIT 1"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Indian_Ocean"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "205",
+      "question": [
+        {
+          "language": "en",
+          "string": "In which country does the Nile start?"
+        },
+        {
+          "language": "de",
+          "string": "In welchem Land entspringt der Nil?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u041d\u0438\u043b"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0438\u0441\u0442\u043e\u043a \u041d\u0438\u043b\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u0438\u0441\u0442\u043e\u043a \u041d\u0438\u043b\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje \u0161alyje prasideda Nilas?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u0456\u0439 \u043a\u0440\u0430\u0457\u043d\u0456 \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u041d\u0456\u043b"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u043e\u0439 \u043a\u0440\u0430\u0456\u043d\u0435 \u043f\u0430\u0447\u044b\u043d\u0430\u0435\u0446\u0446\u0430 \u041d\u0456\u043b"
+        },
+        {
+          "language": "lt",
+          "string": "Kokioje \u0161alyje prasideda Nilas?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041d\u0438\u043d\u0434\u04d9\u0439 \u0438\u043b\u0434\u04d9 \u041d\u0438\u043b \u0431\u0430\u0448\u043b\u0430\u043d\u0430"
+        },
+        {
+          "language": "fr",
+          "string": "Dans quel pays commence le Nil ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 pa\u00eds nace el Nilo?",
+          "keywords": "Nilo, pa\u00eds, origen"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Nile dbo:sourceCountry ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "206",
+      "question": [
+        {
+          "language": "en",
+          "string": "In which state Penn State University is located?"
+        },
+        {
+          "language": "de",
+          "string": "Zu welchem Bundesstaat geh\u00f6rt die Penn State Universit\u00e4t?"
+        },
+        {
+          "language": "de",
+          "string": "In welchem Bundesstaat liegt die Penn State University?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u043c \u0448\u0442\u0430\u0442\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041f\u0435\u043d\u043d \u0421\u0442\u0435\u0439\u0442"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje JAV valstijoje yra Penn State universitetas?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u043e\u043c\u0443 \u0448\u0442\u0430\u0442\u0456 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041f\u0435\u043d\u043d \u0421\u0442\u0435\u0439\u0442"
+        },
+        {
+          "language": "uk",
+          "string": "\u0423 \u044f\u043a\u043e\u043c\u0443 \u0448\u0442\u0430\u0442\u0456 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041f\u0435\u043d\u043d \u0421\u0442\u0435\u0439\u0442"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u0456\u043c \u0448\u0442\u0430\u0446\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0437\u0456\u0446\u0446\u0430 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0456\u0442\u044d\u0442 \u041f\u044d\u043d \u0421\u0442\u044d\u0439\u0442"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje valstijoje yra Penn State universitetas"
+        },
+        {
+          "language": "ba",
+          "string": "\u041f\u0435\u043d\u043d \u0421\u0442\u0435\u0439\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u044b \u043d\u0438\u043d\u0434\u0430\u0439 \u0438\u043b\u0434\u0430?"
+        },
+        {
+          "language": "fr",
+          "string": "Dans quel \u00e9tat se trouve la Penn State University ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 estado se encuentra la universidad estatal de Pensilvania?",
+          "keywords": "Universidad estatal de Pensilvania, estado, ubicaci\u00f3n"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?s WHERE { dbr:Pennsylvania_State_University dbo:state ?s }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "s"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "s": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Pennsylvania"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "354",
+      "question": [
+        {
+          "language": "en",
+          "string": "What country is Mount Everest in?"
+        },
+        {
+          "language": "de",
+          "string": "In welchem Land liegt der Mount Everest?"
+        },
+        {
+          "language": "de",
+          "string": "In welchem Land befindet sich der Everest?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u042d\u0432\u0435\u0440\u0435\u0441\u0442?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u042d\u0432\u0435\u0440\u0435\u0441\u0442?"
+        },
+        {
+          "language": "hy",
+          "string": "\u0548\u055e\u0580 \u0565\u0580\u056f\u0580\u0578\u0582\u0574 \u0567 \u0537\u057e\u0565\u0580\u0565\u057d\u057f\u0568:"
+        },
+        {
+          "language": "fr",
+          "string": "Dans quel pays se trouve l'Everest?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0423 \u044f\u043a\u0456\u0457 \u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0433\u043e\u0440\u0430 \u0415\u0432\u0435\u0440\u0435\u0441\u0442?"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u043e\u0439 \u043a\u0440\u0430\u0456\u043d\u0435 \u042d\u0432\u0435\u0440\u044d\u0441\u0442?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje \u0161alyje yra Everestas?"
+        },
+        {
+          "language": "ba",
+          "string": "\u042d\u0432\u0435\u0440\u0435\u0441\u0442 \u043d\u0438\u043d\u0434\u04d9\u0439 \u0438\u043b\u0434\u04d9?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 pa\u00eds esta el monte Everest?",
+          "keywords": "pa\u00eds, monte Everest"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:locatedInArea ?uri . ?uri rdf:type dbo:Country }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Nepal"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/China"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "221",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which awards did Douglas Hofstadter win?"
+        },
+        {
+          "language": "de",
+          "string": "Welchen Preis gewann Douglas Hofstadter?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0438\u0435 \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u0414\u0443\u0433\u043b\u0430\u0441 \u0425\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u0435\u0440?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0438\u0435 \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u0435\u0441\u0442\u044c \u0443 \u0414\u0443\u0433\u043b\u0430\u0441\u0430 \u0425\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u0435\u0440\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0438\u0435 \u043d\u0430\u0433\u0440\u0430\u0434\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u043b \u0414\u0443\u0433\u043b\u0430\u0441 \u0425\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u0435\u0440?"
+        },
+        {
+          "language": "be",
+          "string": "\u041b\u0430\u045e\u0440\u044d\u0430\u0442\u0430\u043c \u044f\u043a\u043e\u0439 \u043f\u0440\u044d\u043cii \u0431\u044b\u045e \u0414\u0443\u0433\u043b\u0430\u0441 \u0425\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u044d\u0440?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0456 \u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0432 \u0414\u0443\u0433\u043b\u0430\u0441 \u0425\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u0435\u0440\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokius apdovanojimus gavo Douglasas Hofstadteris?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0425\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u0435\u0440 \u0414\u0443\u0433\u043b\u0430\u0441 \u043d\u0438\u043d\u0434\u04d9\u0439 \u0431\u04af\u043b\u04d9\u043a \u0430\u043b\u0430?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041b\u0443\u0433\u043b\u0430\u0441 \u0445\u043e\u0444\u0448\u0442\u0430\u0434\u0442\u0435\u0440\u0437\u044b\u043d \u043d\u0438\u043d\u0434\u044d\u0439 \u0431\u0443\u043b\u044d\u043a\u0442\u044d\u0440\u0435 \u0431\u0430\u0440? "
+        },
+        {
+          "language": "fr",
+          "string": "Quels prix Douglas Hofstadter a-t-il remport\u00e9s ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 premios ha ganado Douglas Hofstadter?",
+          "keywords": "Douglas Hofstadter, premios"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Douglas_Hofstadter dbo:award ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Academy_of_Achievement"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/National_Book_Award"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Pulitzer_Prize"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "question": [
+        {
+          "language": "en",
+          "string": "Where is the birthplace of Goethe?"
+        },
+        {
+          "language": "de",
+          "string": "Wo wurde Goethe geboren?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041c\u0435\u0441\u0442\u043e \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0413\u0435\u0442\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0413\u0435\u0442\u0435?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0413\u0451\u0442\u0435?"
+        },
+        {
+          "language": "hy",
+          "string": "\u0548\u0580\u057f\u0565\u0572 \u0567 \u0533\u0575\u0578\u0569\u0565\u056b \u056e\u0576\u0576\u0564\u0561\u057e\u0561\u0575\u0580\u0568:"
+        },
+        {
+          "language": "fr",
+          "string": "O\u00f9 est n\u00e9 Goethe?"
+        },
+        {
+          "language": "uk",
+          "string": "\u041c\u0456\u0441\u0446\u0435 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u0413\u0435\u0442\u0435."
+        },
+        {
+          "language": "be",
+          "string": "\u041c\u0435\u0441\u0446\u0430 \u043d\u0430\u0440\u0430\u0434\u0436\u044d\u043d\u043d\u044f \u0413\u0451\u0442\u044d?"
+        },
+        {
+          "language": "lt",
+          "string": "G\u0117t\u0117s gimtin\u0117?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0422\u044b\u0443\u0493\u0430\u043d \u0443\u0440\u044b\u043d\u044b \u0413\u0435\u0442\u0435?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCu\u00e1l es el lugar de nacimiento de Goethe?",
+          "keywords": "Goethe, lugar, nacimiento"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Goethe WHERE { dbr:Johann_Wolfgang_von_Goethe dbo:birthPlace ?Goethe }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "Goethe"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "Goethe": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Free_City_of_Frankfurt"
+                }
+              },
+              {
+                "Goethe": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Holy_Roman_Empire"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "306",
+      "question": [
+        {
+          "language": "en",
+          "string": "Who is the tallest basketball player?"
+        },
+        {
+          "language": "de",
+          "string": "Wer ist der gr\u00f6\u00dfte Basketballspieler?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0441\u0430\u043c\u044b\u0439 \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u0438\u0441\u0442"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u044b\u0441\u043e\u0447\u0430\u0439\u0448\u0438\u043c \u0438\u0433\u0440\u043e\u043a\u043e\u043c \u0432 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u0430\u043c\u044b\u043c \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u043c \u0438\u0433\u0440\u043e\u043a\u043e\u043c?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u0454 \u043d\u0430\u0439\u0432\u0438\u0449\u0438\u043c \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u0456\u0441\u0442\u043e\u043c"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u043d\u0430\u0439\u0432\u0438\u0449\u0438\u0439 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u0456\u0441\u0442"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u0441\u0430\u043c\u044b \u0432\u044b\u0441\u043e\u043a\u0456 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u0430\u043b\u0456\u0441\u0442"
+        },
+        {
+          "language": "lt",
+          "string": "Kas yra auk\u0161\u010diausias krep\u0161ininkas"
+        },
+        {
+          "language": "ba",
+          "string": "\u041a\u0435\u043c \u0438\u04a3 \u044e\u0493\u0430\u0440\u044b \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u0441\u044b\u043b\u0430\u0440\u044b?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041a\u0435\u043c \u0438\u043d \u0431\u0435\u0439\u0435\u043a \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u0438\u0441\u0442? "
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQui\u00e9n es el jugador de baloncesto m\u00e1s alto?",
+          "keywords": "jugador de baloncesto, m\u00e1s alto"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:BasketballPlayer ; dbo:height ?num } ORDER BY DESC(?num) OFFSET 0 LIMIT 1"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Edison_Reshketa"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "237",
+      "question": [
+        {
+          "language": "en",
+          "string": "Where is Sungkyunkwan University?"
+        },
+        {
+          "language": "de",
+          "string": "Wo liegt die Sungkyunkwan Universit\u00e4t?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0421\u043e\u043d\u0433\u044e\u043d\u0433\u0432\u0430\u043d?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0441\u0442\u0435\u0442 \u0421\u0443\u043d\u0433\u044e\u043d\u043a\u0432\u0430\u043d?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0414\u0435 \u0440\u043e\u0437\u0442\u0430\u0448\u043e\u0432\u0430\u043d\u0438\u0439 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 Sungkyunkwan?"
+        },
+        {
+          "language": "be",
+          "string": "\u0414\u0437\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0437\u0456\u0446\u0446\u0430 \u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0456\u0442\u044d\u0442 \u0421\u043e\u043d\u0433\u044e\u043d\u0433\u0432\u0430\u043d?"
+        },
+        {
+          "language": "be",
+          "string": "\u0414\u0437\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0437i\u0446\u0446\u0430 \u045e\u043di\u0432\u0435\u0440\u0441i\u0442\u044d\u0442 \u0421\u043e\u043d\u0433\u044e\u043d\u0433\u0432\u0430\u043d? "
+        },
+        {
+          "language": "lt",
+          "string": "Kur yra Songgyungwan universitetas"
+        },
+        {
+          "language": "ba",
+          "string": "\u0421\u043e\u043d\u0433\u044e\u043d\u0433\u0432\u0430\u043d \u04a1\u0443\u0448\u044b\u043b\u0434\u044b\u0493\u044b \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u044b \u04a1\u0430\u0439\u0499\u0430?"
+        },
+        {
+          "language": "fr",
+          "string": "O\u00f9 se trouve l'Universit\u00e9 Sungkyunkwan ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfD\u00f3nde est\u00e1 la universidad Sungkyunkwan?",
+          "keywords": "universidad Sungkyunkwan, ubicaci\u00f3n"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT DISTINCT ?country WHERE { dbr:Sungkyunkwan_University dbo:city ?city ; dbo:country ?country }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "country"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "country": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/South_Korea"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "question": [
+        {
+          "language": "en",
+          "string": "What is the biggest stadium in Spain?"
+        },
+        {
+          "language": "de",
+          "string": "Welches ist das gr\u00f6\u00dfte Stadion in Spanien?"
+        },
+        {
+          "language": "de",
+          "string": "Welches ist das gr\u00f6\u00dfte Stadion Spaniens?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0441\u0430\u043c\u044b\u0439 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0441\u0442\u0430\u0434\u0438\u043e\u043d \u0432 \u0418\u0441\u043f\u0430\u043d\u0438\u0438"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0441\u0442\u0430\u0434\u0438\u043e\u043d \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u0430\u043c\u044b\u043c \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0432 \u0418\u0441\u043f\u0430\u043d\u0438\u0438?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0441\u0442\u0430\u0434\u0438\u043e\u043d \u0441\u0430\u043c\u044b\u0439 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0432 \u0418\u0441\u043f\u0430\u043d\u0438\u0438?"
+        },
+        {
+          "language": "lt",
+          "string": "Koks Ispanilos did\u017eiausias stadionas?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0438\u0439 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0438\u0439 \u0441\u0442\u0430\u0434\u0456\u043e\u043d \u0432 \u0406\u0441\u043f\u0430\u043d\u0456\u0457"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0456 \u0441\u0430\u043c\u044b \u0432\u044f\u043b\u0456\u043a\u0456 \u0441\u0442\u0430\u0434\u044b\u0451\u043d \u0443 \u0406\u0441\u043f\u0430\u043d\u0456\u0456"
+        },
+        {
+          "language": "lt",
+          "string": "Koks yra pats did\u017eiausias stadionas Ispanijoje?"
+        },
+        {
+          "language": "lt",
+          "string": "Koks yra did\u017eiausias stadionas Ispanijoje"
+        },
+        {
+          "language": "ba",
+          "string": "\u041d\u0438\u043d\u0434\u04d9\u0439 \u0438\u04a3 \u0499\u0443\u0440 \u0441\u0442\u0430\u0434\u0438\u043e\u043d \u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+        },
+        {
+          "language": "fr",
+          "string": "Quel est le plus grand stade d'Espagne ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCu\u00e1l es el estadio m\u00e1s grande de Espa\u00f1a?",
+          "keywords": "estadio, m\u00e1s grande, Espa\u00f1a"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Stadium ; dbo:location res:Spain ; dbo:seatingCapacity ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Camp_Nou"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which countries have more than ten caves?"
+        },
+        {
+          "language": "de",
+          "string": "Liste alle L\u00e4nder auf, in denen es mehr als zehn H\u00f6hlen gibt."
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u0431\u043e\u043b\u0435\u0435 \u0434\u0435\u0441\u044f\u0442\u0438 \u043f\u0435\u0449\u0435\u0440?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u0438\u0445 \u0441\u0442\u0430\u0440\u0430\u043d\u0445 \u0435\u0441\u0442\u044c \u0431\u043e\u043b\u0435\u0435 10 \u043f\u0435\u0449\u0435\u0440?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0456 \u043a\u0440\u0430\u0457\u043d\u0438 \u043c\u0430\u044e\u0442\u044c \u043f\u043e\u043d\u0430\u0434 10 \u043f\u0435\u0447\u0435\u0440?"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u0456\u0445 \u043a\u0440\u0430\u0456\u043d\u0430\u0445 \u0431\u043e\u043b\u044c\u0448 \u0437\u0430 \u0434\u0437\u0435\u0441\u044f\u0446\u044c \u043f\u044f\u0447\u043e\u0440?"
+        },
+        {
+          "language": "lt",
+          "string": "Kuriose \u0161alyse yra daugiau nei de\u0161imt urv\u0173?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 pa\u00edses tienen m\u00e1s de diez cuevas?",
+          "keywords": "pa\u00eds, cuevas, m\u00e1s de diez"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> . ?cave a <http://dbpedia.org/ontology/Cave> { ?cave <http://dbpedia.org/ontology/location> ?uri } UNION { ?cave <http://dbpedia.org/ontology/location> ?loc . ?loc <http://dbpedia.org/ontology/country> ?uri } } GROUP BY ?uri HAVING ( COUNT(?cave) > 10 )"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Portugal"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/China"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Italy"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Russia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Greece"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Australia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/United_States"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/France"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/South_Africa"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Gibraltar"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Slovenia"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/North_Yorkshire"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Jamaica"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Brazil"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Romania"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bosnia_and_Herzegovina"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Republic_of_Ireland"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/England"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Derbyshire"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Germany"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Austria"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Turkey"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/United_Kingdom"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Taiwan"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mexico"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Somerset"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Spain"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/India"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "question": [
+        {
+          "language": "en",
+          "string": "What is the location of the Houses of Parliament?"
+        },
+        {
+          "language": "de",
+          "string": "Wo hat das britische Parlament seinen Sitz?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043f\u0430\u043b\u0430\u0442\u044b \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0412\u0435\u0441\u0442\u043c\u0438\u043d\u0441\u0442\u0435\u0440\u0441\u043a\u0438\u0439 \u0434\u0432\u043e\u0440\u0435\u0446?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u044b \u041f\u0430\u043b\u0430\u0442\u044b \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043e \u0437\u0434\u0430\u043d\u0438\u0435 \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0414\u043e\u043c \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0414\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0412\u0435\u0441\u0442\u043c\u0456\u043d\u0441\u0442\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u043f\u0430\u043b\u0430\u0446?"
+        },
+        {
+          "language": "be",
+          "string": "\u0414\u0437\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0437\u044f\u0446\u0446\u0430 \u043f\u0430\u043b\u0430\u0442\u044b \u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Kur yra Parlamento r\u016bmai?"
+        },
+        {
+          "language": "ba",
+          "string": "\u041f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442 \u043f\u0430\u043b\u0430\u0442\u0430\u04bb\u044b \u04a1\u0430\u0439\u0499\u0430 \u0443\u0440\u044b\u043d\u043b\u0430\u0448\u04a1\u0430\u043d?"
+        },
+        {
+          "language": "fr",
+          "string": "Quel est l'emplacement des Chambres du Parlement ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfD\u00f3nde est\u00e1n situado el Palacio de Westminster?",
+          "keywords": "localizaci\u00f3n, Palacio de Westminster"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT ?uri WHERE { res:Palace_of_Westminster dbo:location ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/City_of_Westminster"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/United_Kingdom"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/London"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which presidents were born in 1945?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Pr\u00e4sidenten wurden 1945 geboren?"
+        },
+        {
+          "language": "de",
+          "string": "Welche Pr\u00e4sidenten wurden im Yahr 1945 geboren?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0438\u0435 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u044b \u0440\u043e\u0434\u0438\u043b\u0438\u0441\u044c \u0432 1945?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u0438\u0435 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u044b \u0440\u043e\u0434\u0438\u043b\u0438\u0441\u044c \u0432 1945 \u0433\u043e\u0434\u0443?"
+        },
+        {
+          "language": "hy",
+          "string": "\u0548\u055e\u0580 \u0576\u0561\u056d\u0561\u0563\u0561\u0570\u0576\u0565\u0580\u0576 \u0565\u0576 \u056e\u0576\u057e\u0565\u056c 1945 \u0569\u057e\u0561\u056f\u0561\u0576\u056b\u0576"
+        },
+        {
+          "language": "fr",
+          "string": "Quels pr\u00e9sidents sont n\u00e9s en 1945?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0456 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0438 \u043d\u0430\u0440\u043e\u0434\u0438\u043b\u0438\u0441\u044f \u0443 1945 \u0440.?"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0456\u044f \u043f\u0440\u044d\u0437\u0456\u0434\u044d\u043d\u0442\u044b \u043d\u0430\u0440\u0430\u0434\u0437\u0456\u043b\u0456\u0441\u044f \u045e 1945 \u0433\u043e\u0434\u0437\u0435?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 presidentes nacieron en 1945?",
+          "keywords": "presidentes, nacidos, 1945"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/President> ; <http://dbpedia.org/ontology/birthDate> ?date FILTER regex(?date, \"^1945\") }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Akbar_Tandjung"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mohammad_Reza_Nematzadeh"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Morteza_Mohammadkhan"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Muhammad_Muhammad_Taib"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Faruk_S\u00fcren"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Joe_Ghiz"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Joe_Robert_Pemagbi"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/John_Fahey_(politician)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/John_Olsen"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Amos_Sawyer"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Lee_Jong-wook"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Zlatko_Tom\u010di\u0107"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Vladislav_Ardzinba"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Jorge_Serrano_El\u00edas"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Gholam-Ali_Haddad-Adel"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Charles_Margai"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "question": [
+        {
+          "language": "en",
+          "string": "For which label did Elvis record his first album?"
+        },
+        {
+          "language": "de",
+          "string": "F\u00fcr welches Label hat Elvis sein erstes Album aufgenommen?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041d\u0430 \u043a\u0430\u043a\u043e\u043c \u043b\u044d\u0439\u0431\u043b\u0435 \u042d\u043b\u0432\u0438\u0441 \u0437\u0430\u043f\u0438\u0441\u0430\u043b \u0435\u0433\u043e \u043f\u0435\u0440\u0432\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0414\u043b\u044f \u043a\u0430\u043a\u043e\u0433\u043e \u043b\u0435\u0439\u0431\u043b\u0430 \u042d\u043b\u0432\u0438\u0441 \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043f\u0435\u0440\u0432\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0414\u043b\u044f \u043a\u0430\u043a\u043e\u0433\u043e \u043b\u0435\u0439\u0431\u043b\u0430 \u042d\u043b\u0432\u0438\u0441 \u0437\u0430\u043f\u0438\u0441\u0430\u043b \u0441\u0432\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c?"
+        },
+        {
+          "language": "be",
+          "string": "\u041d\u0430 \u044f\u043ai\u043c \u043b\u044d\u0439\u0431\u043b\u0435 \u042d\u043b\u0432ic \u041f\u0440\u044d\u0441\u043bi \u0437\u0430\u043fi\u0441\u0430\u045e \u0441\u0432\u043e\u0439 \u043f\u0435\u0440\u0448\u044b \u0430\u043b\u044c\u0431\u043e\u043c?"
+        },
+        {
+          "language": "uk",
+          "string": "\u041d\u0430 \u044f\u043a\u043e\u043c\u0443 \u043b\u0435\u0439\u0431\u043b\u0456 \u0415\u043b\u0432\u0456\u0441 \u0437\u0430\u043f\u0438\u0441\u0430\u0432 \u0439\u043e\u0433\u043e \u043f\u0435\u0440\u0448\u0438\u0439 \u0430\u043b\u044c\u0431\u043e\u043c?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje leidykloje Elvis \u012fra\u0161\u0117 savo pirm\u0105j\u012f album\u0105?"
+        },
+        {
+          "language": "ba",
+          "string": "\u042d\u043b\u0432\u0438\u0441 \u0442\u04d9\u04af\u0433\u0435 \u0430\u043b\u044c\u0431\u043e\u043c\u044b\u043d \u044f\u0499\u0499\u044b\u0440\u044b\u043f \u043b\u0435\u0439\u0431 \u043d\u0438\u043d\u0434\u04d9\u0439 \u0443\u043b?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCon cu\u00e1l discogr\u00e1fica grab\u00f3 Elvis primer \u00e1lbum?",
+          "keywords": "discogr\u00e1fica, primer \u00e1lbum, Elvis"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?x rdf:type dbo:Album ; dbo:artist res:Elvis_Presley ; dbo:releaseDate ?y ; dbo:recordLabel ?uri } ORDER BY ASC(?y) OFFSET 0 LIMIT 1"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Sun_Records"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "question": [
+        {
+          "language": "en",
+          "string": "Give me all actors starring in movies directed by William Shatner."
+        },
+        {
+          "language": "de",
+          "string": "Liste alle Schauspieler auf, die in Filmen mitgespielt haben, f\u00fcr die William Shatner Regie gef\u00fchrt hat."
+        },
+        {
+          "language": "ru",
+          "string": "\u041d\u0430\u0437\u043e\u0432\u0438 \u043c\u043d\u0435 \u0432\u0441\u0435\u0445 \u0430\u043a\u0442\u0435\u0440\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u044c \u0432 \u0444\u0438\u043b\u044c\u043c\u0430\u0445 c\u043f\u0440\u043e\u0434\u044e\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0423\u0438\u043b\u044c\u044f\u043c\u043e\u043c \u0428\u0435\u0442\u043d\u0435\u0440\u043e\u043c?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u0435 \u0432\u0441\u0435 \u0430\u043a\u0442\u0435\u0440\u043e\u0432, \u0441\u043d\u0438\u043c\u0430\u0432\u0448\u0438\u0445\u0441\u044f \u0432 \u0444\u0438\u043b\u044c\u043c\u0430\u0445, \u0433\u0434\u0435 \u0440\u0435\u0436\u0438\u0441\u0441\u0435\u0440\u043e\u043c \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0423\u0438\u043b\u044c\u044f\u043c \u0428\u0430\u0442\u043d\u0435\u0440?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u0435 \u0432\u0441\u0435\u0445 \u0430\u043a\u0442\u0435\u0440\u043e\u0432, \u0438\u0433\u0440\u0430\u0432\u0448\u0438\u0445 \u0432 \u0440\u043e\u043b\u0438 \u0432 \u0444\u0438\u043b\u044c\u043c\u0430\u0445 \u0423\u0438\u043b\u044c\u044f\u043c\u0430 \u0428\u0430\u0442\u043d\u0435\u0440\u0430?"
+        },
+        {
+          "language": "uk",
+          "string": "\u041f\u0435\u0440\u0435\u043b\u0456\u0447\u0456\u0442\u044c \u0432\u0441\u0456\u0445 \u0430\u043a\u0442\u043e\u0440\u0456\u0432, \u044f\u043a\u0456 \u0437\u043d\u0438\u043c\u0430\u043b\u0438\u0441\u044c \u0443 \u0444\u0456\u043b\u044c\u043c\u0430\u0445 \u0412\u0456\u043b\u044c\u044f\u043c\u0430 \u0428\u0435\u0442\u043d\u0435\u0440\u0430."
+        },
+        {
+          "language": "be",
+          "string": "\u041d\u0430\u0437\u0430\u0432\u0456 \u043c\u043d\u0435 \u045e\u0441\u0456\u0445 \u0430\u043a\u0446\u0451\u0440\u0430\u045e, \u044f\u043a\u0456\u044f \u0437\u0434\u044b\u043c\u0430\u043b\u0456\u0441\u044f \u045e \u0444\u0456\u043b\u044c\u043c\u0430\u0445 \u0441\u043f\u0440\u0430\u0434\u0437\u044e\u0441\u0430\u0432\u0430\u043d\u044b\u0445 \u0423\u0456\u043b\u044c\u044f\u043c\u0430\u043c \u0428\u0435\u0442\u043d\u0435\u0440?"
+        },
+        {
+          "language": "lt",
+          "string": "I\u0161vardink man visus aktorius, besifilmavusius filmuose, prodiusuotose Williamo \u0160etnero."
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQu\u00e9 actores participan en pel\u00edculas dirigidas por William Shatner?",
+          "keywords": "actor, pel\u00edcula, director, William Shatner"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?x dbo:director res:William_Shatner ; dbo:starring ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/William_Shatner"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Leonard_Nimoy"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Nichelle_Nichols"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/George_Takei"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/James_Doohan"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Laurence_Luckinbill"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Walter_Koenig"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/DeForest_Kelley"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/John_Prosky"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Dick_Van_Patten"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Amy_Acker"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Tom_Towles"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Brenda_Bakke"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Rickey_Medlocke"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Duane_Whitaker"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Dan_Gauthier"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Dan_Martin_(actor)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Chuck_Williams_(actor)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/J.T._Colosa"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "predicted_answer": "http://dbpedia.org/resource/George_Takei",
+      "is_changed": true
+    },
+    {
+      "id": "78",
+      "question": [
+        {
+          "language": "en",
+          "string": "Give me all federal chancellors of Germany."
+        },
+        {
+          "language": "de",
+          "string": "Liste alle Bundeskanzler von Deutschland auf."
+        },
+        {
+          "language": "ru",
+          "string": "\u041f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u0435 \u0432\u0441\u0435\u0445 \u043a\u0430\u043d\u0446\u043b\u0435\u0440\u043e\u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438."
+        },
+        {
+          "language": "ru",
+          "string": "\u041d\u0430\u0437\u043e\u0432\u0438\u0442\u0435 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u0430\u043d\u0446\u043b\u0435\u0440\u043e\u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438."
+        },
+        {
+          "language": "ru",
+          "string": "\u0412\u044b\u0434\u0430\u0439 \u043c\u043d\u0435 \u0432\u0441\u0435\u0445 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u0430\u043d\u0446\u043b\u0435\u0440\u043e\u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438."
+        },
+        {
+          "language": "ru",
+          "string": "\u041f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u0435 \u0432\u0441\u0435\u0445 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u0430\u043d\u0446\u043b\u0435\u0440\u043e\u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438."
+        },
+        {
+          "language": "be",
+          "string": "\u0414\u0430\u0439\u0446\u0435 \u043c\u043d\u0435 i\u043c\u0451\u043d\u044b \u045e\u0441i\u0445 \u0444\u0435\u0434\u044d\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043a\u0430\u043d\u0446\u043b\u0435\u0440\u0430\u045e \u0413\u0435\u0440\u043c\u0430\u043dii."
+        },
+        {
+          "language": "uk",
+          "string": "\u041f\u0435\u0440\u0435\u0440\u0430\u0445\u0443\u0439\u0442\u0435 \u0432\u0441\u0456\u0445 \u043a\u0430\u043d\u0446\u043b\u0435\u0440\u0456\u0432 \u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0438"
+        },
+        {
+          "language": "lt",
+          "string": "\u012evardykite visus Vokietijos kanclerius."
+        },
+        {
+          "language": "fr",
+          "string": "Donnez-moi tous les chanceliers f\u00e9d\u00e9raux d'Allemagne."
+        },
+        {
+          "language": "es",
+          "string": "Dame todos los cancilleres de Alemania.",
+          "keywords": "cancilleres, Alemania"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> { ?uri <http://dbpedia.org/ontology/office> \"Chancellor of Germany\" } UNION { ?uri <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Chancellor_of_Germany> } }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Helmut_Kohl"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Helmut_Schmidt"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Hermann_M\u00fcller_(politician)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ludwig_Erhard"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Lutz_Graf_Schwerin_von_Krosigk"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Wilhelm_Marx"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Willy_Brandt"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Adolf_Hitler"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Leo_von_Caprivi"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Angela_Merkel"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Gerhard_Schr\u00f6der"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Franz_von_Papen"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Friedrich_Ebert"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Konrad_Adenauer"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Kurt_Georg_Kiesinger"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Philipp_Scheidemann"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Chlodwig,_Prince_of_Hohenlohe-Schillingsf\u00fcrst"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Otto_von_Bismarck"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which state of the USA has the highest population density?"
+        },
+        {
+          "language": "de",
+          "string": "Welcher Staat in den USA hat die h\u00f6chste Bev\u00f6lkerungsdichte?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u043c \u0448\u0442\u0430\u0442\u0435 \u0421\u0428\u0410 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0432\u044b\u0441\u043e\u043a\u0430\u044f \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0448\u0442\u0430\u0442 \u0421\u0428\u0410 \u0438\u043c\u0435\u0435\u0442 \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0443\u044e \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0448\u0442\u0430\u0442 \u0421\u0428\u0410 \u0438\u043c\u0435\u0435\u0442 \u0441\u0430\u043c\u0443\u044e \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u043c \u0448\u0442\u0430\u0442\u0435 \u0421\u0428\u0410 \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0430\u044f \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0430\u043a\u043e\u0439 \u0438\u0437 \u0448\u0442\u0430\u0442\u043e\u0432 \u0438\u043c\u0435\u0435\u0442 \u0441\u0430\u043c\u0443\u044e \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0432 \u0421\u0428\u0410?"
+        },
+        {
+          "language": "uk",
+          "string": "\u042f\u043a\u0438\u0439 \u0448\u0442\u0430\u0442 \u0421\u0428\u0410 \u043c\u0430\u0454 \u043d\u0430\u0439\u0432\u0438\u0449\u0443 \u0449\u0456\u043b\u044c\u043d\u0456\u0441\u0442\u044c \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u044f?"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u0456\u043c \u0448\u0442\u0430\u0446\u0435 \u0417\u0428\u0410 \u043d\u0430\u0439\u0431\u043e\u043b\u044c\u0448 \u0432\u044b\u0441\u043e\u043a\u0430\u044f \u0448\u0447\u044b\u043b\u044c\u043d\u0430\u0441\u0446\u044c \u043d\u0430\u0441\u0435\u043b\u044c\u043d\u0456\u0446\u0442\u0432\u0430?"
+        },
+        {
+          "language": "be",
+          "string": "\u042f\u043a\u0456 \u0448\u0442\u0430\u0442 \u0417\u0428\u0410 \u043c\u0430\u0435 \u0441\u0430\u043c\u0443\u044e \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u0448\u0447\u044b\u043b\u044c\u043d\u0430\u0441\u0446\u044c \u043d\u0430\u0441\u0435\u043b\u044c\u043d\u0456\u0446\u0442\u0432\u0430?"
+        },
+        {
+          "language": "lt",
+          "string": "Kokioje JAV valstijoje yra did\u017eiausias gyventoj\u0173 tankumas?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje JAV valstijoje gyventoj\u0173 tankumas did\u017eiausias?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0410\u04a1\u0448 \u0448\u0442\u0430\u0442\u0442\u0430\u0440\u044b \u0438\u04a3 \u044e\u0493\u0430\u0440\u044b \u0445\u0430\u043b\u044b\u04a1 \u0442\u044b\u0493\u044b\u0499\u043b\u044b\u0493\u044b \u043d\u0438\u043d\u0434\u04d9\u0439 \u0431\u0443\u043b\u0430?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0418\u043d \u043a\u0443\u043f \u0442\u0443\u043f\u043b\u043f\u044e\u0430\u043d\u0433\u0430\u043d \u0445\u0430\u043b\u044b\u043a\u043b\u044b \u0421\u0428\u0410 \u0434\u0430 \u043d\u0438\u043d\u0434\u044d\u0439 \u0448\u0442\u0430\u0442"
+        },
+        {
+          "language": "fr",
+          "string": "Quel \u00e9tat des \u00e9tats unis a la densit\u00e9 de population la plus \u00e9lev\u00e9e?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCu\u00e1l estado de Estados Unidos tiene la mayor densidad poblacional?",
+          "keywords": "estado, estados unidos, densidad poblacional"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatStatesOfTheUnitedStates ; dbp:densityrank ?rank } ORDER BY ASC(?rank) LIMIT 1"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "271",
+      "question": [
+        {
+          "language": "en",
+          "string": "Which country does the creator of Miffy come from?"
+        },
+        {
+          "language": "de",
+          "string": "Aus welchem Land kommt der Erfinder von Miffy?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0418\u0437 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u0430\u0432\u0442\u043e\u0440 \"Miffy\"?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0418\u0437 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c Miffy?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0421\u0442\u0440\u0430\u043d\u0430 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044f Miffy?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0418\u0437 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c \u041c\u0438\u0444\u0444\u0438?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0417 \u044f\u043a\u043e\u0457 \u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u0430\u0441\u043d\u043e\u0432\u043d\u0438\u043a Miffy?"
+        },
+        {
+          "language": "be",
+          "string": "\u0417 \u044f\u043a\u043e\u0439 \u043a\u0440\u0430\u0456\u043d\u044b \u0430\u045e\u0442\u0430\u0440 \"Miffy\"?"
+        },
+        {
+          "language": "lt",
+          "string": "I\u0161 kokios \u0161alies yra \u201eMiffy\u201c autor\u0117?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfCu\u00e1l es la nacionalidad del creador de Miffy?",
+          "keywords": "Miffy, creador, nacionalidad"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Miffy dbo:creator ?x . ?x dbo:nationality ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "question": [
+        {
+          "language": "en",
+          "string": "Who produced films starring Natalie Portman?"
+        },
+        {
+          "language": "de",
+          "string": "Wer hat die Filme, in denen Natalie Portman mitspielt, produziert?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u043f\u0440\u043e\u0434\u044e\u0441\u0438\u0440\u043e\u0432\u0430\u043b \u0444\u0438\u043b\u044c\u043c\u044b \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u041d\u0430\u0442\u0430\u043b\u0438 \u041f\u043e\u0440\u0442\u043c\u0430\u043d?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u043f\u0440\u043e\u0434\u044e\u0441\u0441\u0438\u0440\u043e\u0432\u0430\u043b \u0444\u0438\u043b\u044c\u043c\u044b \u0441 \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u041d\u0430\u0442\u0430\u043b\u0438 \u041f\u043e\u0440\u0442\u043c\u0430\u043d?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u043f\u0440\u043e\u0434\u044e\u0441\u0438\u0440\u043e\u0432\u0430\u043b \u0444\u0438\u043b\u044c\u043c\u044b \u0441 \u041d\u0430\u0442\u0430\u043b\u0438 \u041f\u043e\u0440\u0442\u043c\u0430\u043d \u0432 \u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u0440\u043e\u043b\u0438?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u0437\u043d\u044f\u0432 \u0444\u0456\u043b\u044c\u043c\u0438, \u0434\u0435 \u0437\u043d\u0456\u043c\u0430\u043b\u0430\u0441\u044c \u041d\u0430\u0442\u0430\u043b\u0456 \u041f\u043e\u0440\u0442\u043c\u0430\u043d?"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u043f\u0440\u0430\u0434\u0437\u044e\u0441\u0430\u0432\u0430\u045e \u0444\u0456\u043b\u044c\u043c\u044b \u0437 \u0443\u0434\u0437\u0435\u043b\u0430\u043c \u041d\u0430\u0442\u0430\u043b\u0456 \u041f\u043e\u0440\u0442\u043c\u0430\u043d?"
+        },
+        {
+          "language": "lt",
+          "string": "Kas suk\u016br\u0117 filmus, kuriose dalyvauja Natali Portman"
+        },
+        {
+          "language": "fr",
+          "string": "Qui \u00e0 produit les films avec Natalie Portman ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQui\u00e9n ha producido pel\u00edculas en las que act\u00faa Natalie Portman?",
+          "keywords": "productor, pel\u00edculas, act\u00faa, Natalie Portman"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { ?film a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Natalie_Portman> ; <http://dbpedia.org/ontology/producer> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Spencer_Susser"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Johnny_Lin"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Natalie_Portman"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Noah_Hawley"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bruna_Papandrea"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Reese_Witherspoon"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Patrice_Ledoux"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Richard_N._Gladstein"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Wong_Kar-wai"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Lyse_Lafontaine"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Xavier_Dolan"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Nancy_Grant"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Alison_Owen"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Marc_Platt_(producer)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Robert_Greenhut"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ram_Bergman"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/John_Calley"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mike_Nichols"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Albert_Berger"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Sydney_Pollack"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ron_Yerxa"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/William_Horberg"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ivan_Reitman"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Gary_Gilbert"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Dan_Halsted"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Scott_Steindorff"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Joel_Silver"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Grant_Hill_(producer)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/The_Wach%3C!--Do_not_change_without_consensus._See_%5B%5BTalk:The_Matrix_(franchise)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Scott_Stuber"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Michael_De_Luca"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Sigurj\u00f3n_Sighvatsson"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ryan_Kavanaugh"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Rick_McCallum"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Christine_Vachon"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/San_Francisco_Ballet"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Laurent_Truchot"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Michael_Tapuah"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Saul_Zaentz"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Kevin_Feige"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Scott_Rudin"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Andrew_Macdonald_(producer)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Eli_Bush"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Laurence_Mark"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Sarah_Green_(film_producer)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ken_Kao"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Larry_Franco"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Tim_Burton"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Matt_Williams_(TV_producer)"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Susan_Cartsonis"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/David_McFadzean"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "348",
+      "question": [
+        {
+          "language": "en",
+          "string": "Where was Bach born?"
+        },
+        {
+          "language": "de",
+          "string": "Wo ist Bach geboren?"
+        },
+        {
+          "language": "de",
+          "string": "Wo wurde Bach geboren?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u043e\u0433\u0434\u0430 \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0411\u0430\u0445?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0411\u0430\u0445?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0431\u044b\u043b \u0440\u043e\u0436\u0434\u0435\u043d \u0411\u0430\u0445?"
+        },
+        {
+          "language": "hy",
+          "string": "\u0548\u0580\u057f\u0565\u0572 \u0567 \u056e\u0576\u057e\u0565\u056c \u0532\u0561\u056d\u0568:"
+        },
+        {
+          "language": "fr",
+          "string": "O\u00f9 est n\u00e9 Bach?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0414\u0435 \u043d\u0430\u0440\u043e\u0434\u0438\u0432\u0441\u044f \u0411\u0430\u0445?"
+        },
+        {
+          "language": "be",
+          "string": "\u041a\u0430\u043b\u0456 \u043d\u0430\u0440\u0430\u0434\u0437\u0456\u045e\u0441\u044f \u0411\u0430\u0445?"
+        },
+        {
+          "language": "lt",
+          "string": "Kada gim\u0117 Bachas?"
+        },
+        {
+          "language": "lt",
+          "string": "Kada gime Bahas ?"
+        },
+        {
+          "language": "ba",
+          "string": "\u0411\u0430\u0445 \u04a1\u0430\u0441\u0430\u043d \u0442\u044b\u0443\u0493\u0430\u043d?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfD\u00f3nde naci\u00f3 Bach?",
+          "keywords": "Bach, lugar de nacimiento"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Johann_Sebastian_Bach dbo:birthPlace ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Eisenach"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "question": [
+        {
+          "language": "en",
+          "string": "Where do the Red Sox play?"
+        },
+        {
+          "language": "de",
+          "string": "Wo spielen die Red Sox?"
+        },
+        {
+          "language": "de",
+          "string": "Wo haben die Red Sox gespielt?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0438\u0433\u0440\u0430\u043b\u0438 \u0420\u0435\u0434 \u0421\u043e\u043a\u0441?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0438\u0433\u0440\u0430\u044e\u0442 \u0420\u0435\u0434 \u0421\u043e\u043a\u0441?"
+        },
+        {
+          "language": "hy",
+          "string": "\u0548\u0580\u057f\u0565\u0572 \u0565\u0576 \u056d\u0561\u0572\u0578\u0582\u0574 \u054c\u0565\u0564 \u054d\u0578\u056f\u057d\u0568:"
+        },
+        {
+          "language": "fr",
+          "string": "O\u00f9 les Red Sox ont-ils jou\u00e9?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0414\u0435 \u0433\u0440\u0430\u044e\u0442\u044c \u0420\u0435\u0434 \u0421\u043e\u043a\u0441?"
+        },
+        {
+          "language": "be",
+          "string": "\u0414\u0437\u0435 \u0456\u0433\u0440\u0430\u043b\u0456 \u0420\u044d\u0434 \u0421\u043e\u043a\u0441"
+        },
+        {
+          "language": "be",
+          "string": "\u0414\u0437\u0435 \u0433\u0443\u043b\u044f\u043b\u0456 \u0420\u044d\u0434 \u0421\u043e\u043a\u0441?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfD\u00f3nde juegan los Medias Rojas?",
+          "keywords": "donde juega, Medias Rojas"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Boston_Red_Sox> <http://dbpedia.org/property/ballpark> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Fenway_Park"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "294",
+      "question": [
+        {
+          "language": "en",
+          "string": "In which country is the Limerick Lake?"
+        },
+        {
+          "language": "de",
+          "string": "In welchem Land liegt der Limerick Lake?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0412 \u043a\u0430\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043e\u0437\u0435\u0440\u043e \u041b\u0438\u043c\u0435\u0440\u0438\u043a?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0412 \u044f\u043a\u0438\u0439 \u043a\u0440\u0430\u0457\u043d\u0456 \u0440\u043e\u0437\u0442\u0430\u0448\u043e\u0432\u0430\u043d\u043e \u043e\u0437\u0435\u0440\u043e \u041b\u0456\u043c\u0435\u0440\u0438\u043a\u0430?"
+        },
+        {
+          "language": "be",
+          "string": "\u0423 \u044f\u043a\u043e\u0439 \u043a\u0440\u0430\u0456\u043d\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0437\u0456\u0446\u0446\u0430 \u0432\u043e\u0437\u0435\u0440\u0430 \u041b\u0456\u043c\u044d\u0440\u044b\u043a?"
+        },
+        {
+          "language": "lt",
+          "string": "Kurioje \u0161alyje yra Limeriko e\u017eeras"
+        },
+        {
+          "language": "ba",
+          "string": "\u041a\u04af\u043b\u0435 \u04a1\u0443\u0448\u044b\u043b\u0430 \u041b\u0438\u043c\u0435\u0440\u0438\u043a\u0442\u0430 \u043d\u0438\u043d\u0434\u04d9\u0439 \u0438\u043b\u0434\u04d9?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfEn qu\u00e9 pa\u00eds se encuentra el lago Limerick?",
+          "keywords": "lago, Limerick, pa\u00eds"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Limerick_Lake dbo:country ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Canada"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "question": [
+        {
+          "language": "en",
+          "string": "Where did Hillel Slovak die?"
+        },
+        {
+          "language": "de",
+          "string": "Wo ist Hillel Slovak gestorben?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0443\u043c\u0435\u0440 \u0425\u0438\u043b\u043b\u0435\u043b \u0421\u043b\u043e\u0432\u0430\u043a?"
+        },
+        {
+          "language": "ru",
+          "string": "\u0413\u0434\u0435 \u0443\u043c\u0435\u0440 \u0413\u0438\u043b\u0435\u043b\u044c \u0421\u043b\u043e\u0432\u0430\u043a?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0414\u0435 \u043f\u043e\u043c\u0435\u0440 \u0425\u0456\u043b\u043b\u0435\u043b \u0421\u043b\u043e\u0432\u0430\u043a?"
+        },
+        {
+          "language": "lt",
+          "string": "Kur mir\u0117 Hillelis Slovakas?"
+        },
+        {
+          "language": "fr",
+          "string": "O\u00f9 est mort Hillel Slovak ?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfD\u00f3nde muri\u00f3 Hillel Slovak?",
+          "keywords": "Hillel Slovak, lugar de muerte"
+        }
+      ],
+      "query": {
+        "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/California"
+                }
+              },
+              {
+                "uri": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Los_Angeles"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "question": [
+        {
+          "language": "en",
+          "string": "Who is the owner of Universal Studios?"
+        },
+        {
+          "language": "de",
+          "string": "Wem geh\u00f6ren die Universal Studios?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0432\u043b\u0430\u0434\u0435\u043b\u0435\u0446 Universal Studios?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0432\u043b\u0430\u0434\u0435\u043b\u0435\u0446 \u0441\u0442\u0443\u0434\u0438\u0438 Universal Studios?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u0432\u043b\u0430\u0434\u0435\u0434\u0435\u0446 Universal Studios?"
+        },
+        {
+          "language": "ru",
+          "string": "\u041a\u0442\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c Universal Studios?"
+        },
+        {
+          "language": "uk",
+          "string": "\u0425\u0442\u043e \u0432\u043b\u0430\u0441\u043d\u0438\u043a \u0441\u0442\u0443\u0434\u0456\u0457 Universal Studios?"
+        },
+        {
+          "language": "be",
+          "string": "\u0425\u0442\u043e \u045e\u043b\u0430\u0434\u0430\u043b\u044c\u043d\u0456\u043a Universal Studios?"
+        },
+        {
+          "language": "lt",
+          "string": "Kas yra \u201eUniversal Studios\u201c savininkas?"
+        },
+        {
+          "language": "ba",
+          "string": "Universal Studios \u0445\u0443\u0436\u0430\u04bb\u044b \u043a\u0435\u043c?"
+        },
+        {
+          "language": "fr",
+          "string": "Qui est le propri\u00e9taire de Universal Studios?"
+        },
+        {
+          "language": "es",
+          "string": "\u00bfQui\u00e9n es el due\u00f1o de Universal Studios?",
+          "keywords": "Universal Studios, due\u00f1o"
+        }
+      ],
+      "query": {
+        "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Universal_Studios dbo:owner ?uri }"
+      },
+      "answers": [
+        {
+          "head": {
+            "link": [],
+            "vars": [
+              "uri"
+            ]
+          },
+          "results": {
+            "bindings": []
+          }
+        }
+      ]
+    }
+  ]
+}

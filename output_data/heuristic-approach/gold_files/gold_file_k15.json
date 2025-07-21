@@ -1,0 +1,3351 @@
+{
+    "questions": [
+        {
+            "id": "126",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Which instruments does Cat Stevens play?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche Instrumente spielt Cat Stevens?"
+                },
+                {
+                    "language": "ru",
+                    "string": "На каких инструментах играл Кэт Стивенс?"
+                },
+                {
+                    "language": "ru",
+                    "string": "На каких инструментах играет Кэт Стивенс?"
+                },
+                {
+                    "language": "be",
+                    "string": "На якiм iнструменце граў Кэт Стывенс?"
+                },
+                {
+                    "language": "uk",
+                    "string": "На яких інструментах грав Кет Стівенс?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiais instrumentais grojo Kat Stevens?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokiais instrumentais grojo Ket Stivens?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué instrumentos tocaba Cat Stevens?",
+                    "keywords": "Cat Stevens, instrumento, tocaba"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Cat_Stevens> <http://dbpedia.org/ontology/instrument> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Mellotron"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Mandolin"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "372",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What did Bruce Carver die from?"
+                },
+                {
+                    "language": "de",
+                    "string": "Woran ist Bruce Carver gestorben?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Причина смерти Брюса Карвера?"
+                },
+                {
+                    "language": "ru",
+                    "string": "От чего умер Брюс Карвер?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Від чого помер Брюс Карвер?"
+                },
+                {
+                    "language": "be",
+                    "string": "Прычына смерці Бруса Карвера?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Bruce'o Carverio mirties priežastis"
+                },
+                {
+                    "language": "es",
+                    "string": "¿De qué murió Bruce Carver?",
+                    "keywords": "Bruce Caver, muerte"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Bruce_Carver dbo:deathCause ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "370",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What is the timezone in San Pedro de Atacama?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welcher Zeitzone liegt San Pedro de Atacama?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каком часовом поясе находится Сан-Педро-де-Атакама?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Временной пояс в Сан-Педро-де-Атакама"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой часовой пояс в Сан-Педро-де-Атакама?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой часовой пояс в San Pedro de Atacama?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Часовий пояс у Сан-Педро-де-Атакама."
+                },
+                {
+                    "language": "be",
+                    "string": "У якім часавым поясе знаходзіцца Сан-Пэдра-дэ-Атакама?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje laiko juostoje yra San Pedro de Atacama?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй сәғәт бүлкәтендә урынлашҡан сан-педро де-Атакама?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿En qué zona horaria está San Pedro de Atacama?",
+                    "keywords": "zona horaria, San Pedro de Atacama"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:San_Pedro_de_Atacama dbo:timeZone ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Time_in_Chile"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "303",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What form of government is found in South Africa?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche Regierungsform wurde in Südafrika gegründet?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche Regierungsform gibt es in Südafrika?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая формы правления существуют в Южной Африке?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая форма правления в Южной Африке?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая форма государственного управления была придумана в Южной Африке?"
+                },
+                {
+                    "language": "hy",
+                    "string": "Ինչպիսի՞ն է կառավարման ձևը Հարավային Աֆրիկայում:"
+                },
+                {
+                    "language": "fr",
+                    "string": "Quelle forme de gouvernement en Afrique du Sud?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Яка форма правління існує у ПАР?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая формы праўлення існуюць у Паўднёвай Афрыцы?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Көньяҡ африка идара итеү формаһы ниндәй була?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Cuál es el sistema de gobierno en Sudáfrica?",
+                    "keywords": "Sistema de gobierno , Sudáfrica "
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?uri WHERE { dbr:South_Africa dbo:governmentType ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Unitary_state"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "155",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What is the ruling party in Lisbon?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche Partei regiert in Lissabon?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche ist die Regierungspartei in Lissabon?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая правящая партия в Лиссабоне"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая партия ялвяется ведущей в Лиссабоне?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая партия является правящей в Лисбоне?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia Lisabonos valdančioji partija?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Яка правляча партія в Лісабоні"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая кіруючая партыя ў Лісабоне"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra Lisabonos valdančioji partija"
+                },
+                {
+                    "language": "fr",
+                    "string": "Quelle est le partie au pouvoir à Lisbonne ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué partido gobierna en Lisboa?",
+                    "keywords": "Lisboa, gobierna, partido"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lisbon> <http://dbpedia.org/property/leaderParty> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "210",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Who created Batman?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wer hat Batmann erfunden?"
+                },
+                {
+                    "language": "de",
+                    "string": "Von wem ist Batman?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто создал Бэтмена"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто придумал Бэтмена?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė Betmeną?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Хто створив Бетмена"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стварыў Бэтмена"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стварыў Бэтмэна"
+                },
+                {
+                    "language": "ba",
+                    "string": "Бэтменды кем уйлап тапкан?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Qui a créé Batman ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Quién creó Batman?",
+                    "keywords": "creador, comic, Batman"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Batman dbo:creator ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Bill_Finger"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Bob_Kane"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "382",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What form of government does Russia have?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche Regierungsform hat Russland?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая политическая система в России?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какая форма правления в России?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якая форма дзяржаўнага кiравання дзейнiчае ў Расii?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Яка політична система в Росіі ?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia politinė sistema Rusijoje?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokia Rusijoje politinė sistema? "
+                },
+                {
+                    "language": "ba",
+                    "string": "Рәсәйҙәге сәйәси системаның ниндәй?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué forma de gobierno tiene Rusia?",
+                    "keywords": "forma de gobierno, Rusia"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Russia dbo:governmentType ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Federalism"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Which countries have places with more than two caves?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchen Ländern gibt es Orte mit mehr als zwei Höhlen?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welche Ländern gibt es mehr als 2 Höhlen?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каких странах есть места с более чем двумя пещерами"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каких странах находится более двух пещер?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каких странах есть места с количеством пещер больше, чем две?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurios šalys turi vietas su daugiau nei dviem urvų?"
+                },
+                {
+                    "language": "uk",
+                    "string": "В яких країнах є місця з більш ніж двома печерами "
+                },
+                {
+                    "language": "uk",
+                    "string": "У яких країнах є місця з більш ніж двома печерами"
+                },
+                {
+                    "language": "be",
+                    "string": "У якіх краінах ёсць месцы з больш чым двума пячорамі"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriose šalyse yra daugiau nei dviejų urvų?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriose šalyse yra vietų, kuriose yra daugiau nei du urvai"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ҡайһы илдәрҙә ике мәмерйәнән дә күберәк урындар бар?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué países tienen lugares con más de dos cuevas?",
+                    "keywords": "país, lugar, cuevas, más de dos"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?cave rdf:type dbo:Cave ; dbo:location ?uri . ?uri rdf:type dbo:Country } GROUP BY ?uri HAVING ( COUNT(?cave) > 2 )"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Germany"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Venezuela"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Cumbria"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Japan"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Republic_of_Ireland"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Taiwan"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Western_Australia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/China"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Spain"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/India"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Canada"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Serbia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Abkhazia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Derbyshire"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Gibraltar"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Slovakia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Lancashire"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/United_Kingdom"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Brazil"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Somerset"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/South_Africa"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Russia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/British_Columbia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Mexico"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Austria"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Philippines"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Northern_Territory"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Georgia_(country)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Jamaica"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Australia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/England"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Israel"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Romania"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Devon"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Vietnam"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Slovenia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/North_Yorkshire"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Turkey"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/France"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Greece"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/United_States"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Bosnia_and_Herzegovina"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Italy"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Wales"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Portugal"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "395",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "In which country does the Ganges start?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchem Land entspringt der Ganges?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране начинается Ганг?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране исток Ганга?"
+                },
+                {
+                    "language": "uk",
+                    "string": "В якій країні знаходиться витік Гангу?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой краіне пачынаецца Ганг?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje šalyje prasideda Gangas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokioje šalyje prasideda Gangas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй илдә ганг башлана?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ганг ниндай илда башлана?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿En qué país nace el Ganges?",
+                    "keywords": "Ganges, país, origen"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Ganges dbo:sourceCountry ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What kind of music did Lou Reed play?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welchen Musikstil spielte Lou Reed?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welche Musik hat Lou Reed gespielt?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какую музыку играл Лу Рид?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каких музыкальных стилях играл Лу Рид?"
+                },
+                {
+                    "language": "hy",
+                    "string": "Ինչպի՞սի երաժշտություն է նվագել Լու Ռիդը"
+                },
+                {
+                    "language": "fr",
+                    "string": "Quelle musique a joué Lou Reed?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Який жанр музики грав Лу Рід?"
+                },
+                {
+                    "language": "be",
+                    "string": "Якую музыку граў у Рыд?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokią muziką grojo Reedas?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué tipo de música tocaba Lou Reed?",
+                    "keywords": "tipo música, tocaba, Lou Reed"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Lou_Reed> <http://dbpedia.org/ontology/genre> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Experimental_music"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Noise_rock"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Glam_rock"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Art_rock"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Proto-punk"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Rock_music"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Who created the comic Captain America?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wer ist der Schöpfer von Captain America?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто создал комикс \"Капитан Америка\"?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто является автором комикса Капитан Америка?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Хто створив комікс Капітан Америка?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стварыў комікс \"Капітан Амерыка\"?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė Kapitono Amerikos komiksą?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Qui a créé le comic Captain America?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Quién creó el comic Capitán América?",
+                    "keywords": "creador, comic, Capitán América"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Captain_America dbo:creator ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Joe_Simon"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Jack_Kirby"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "87",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Who created Goofy?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wer hat Goofy erschaffen?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто создал Гуфи?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто создал персонажа Гуфи?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто придумал Гуфи?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Хто створив персонажа Гуфі?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто стварыў Гуфі?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė Goofy?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė Gufi?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Гуфи кем булдырҙы?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Qui a créé Goofy ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Quién es el creador de Goofy?",
+                    "keywords": "creador, Goofy"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Goofy> <http://dbpedia.org/ontology/creator> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/The_Walt_Disney_Company"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Bob_Ogle"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Paul_Murry"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "205",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "In which country does the Nile start?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchem Land entspringt der Nil?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране начинается Нил"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране находится исток Нила?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране исток Нила?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje šalyje prasideda Nilas?"
+                },
+                {
+                    "language": "uk",
+                    "string": "В якій країні починається Ніл"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой краіне пачынаецца Ніл"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokioje šalyje prasideda Nilas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй илдә Нил башлана"
+                },
+                {
+                    "language": "fr",
+                    "string": "Dans quel pays commence le Nil ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿En qué país nace el Nilo?",
+                    "keywords": "Nilo, país, origen"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Nile dbo:sourceCountry ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "206",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "In which state Penn State University is located?"
+                },
+                {
+                    "language": "de",
+                    "string": "Zu welchem Bundesstaat gehört die Penn State Universität?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchem Bundesstaat liegt die Penn State University?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каком штате находится университет Пенн Стейт"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje JAV valstijoje yra Penn State universitetas?"
+                },
+                {
+                    "language": "uk",
+                    "string": "В якому штаті знаходиться Університет Пенн Стейт"
+                },
+                {
+                    "language": "uk",
+                    "string": "У якому штаті знаходиться університет Пенн Стейт"
+                },
+                {
+                    "language": "be",
+                    "string": "У якім штаце знаходзіцца універсітэт Пэн Стэйт"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje valstijoje yra Penn State universitetas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Пенн Стейт университеты ниндай илда?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Dans quel état se trouve la Penn State University ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿En qué estado se encuentra la universidad estatal de Pensilvania?",
+                    "keywords": "Universidad estatal de Pensilvania, estado, ubicación"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?s WHERE { dbr:Pennsylvania_State_University dbo:state ?s }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "s"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "s": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Pennsylvania"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "354",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What country is Mount Everest in?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchem Land liegt der Mount Everest?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchem Land befindet sich der Everest?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране Эверест?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране находится Эверест?"
+                },
+                {
+                    "language": "hy",
+                    "string": "Ո՞ր երկրում է Էվերեստը:"
+                },
+                {
+                    "language": "fr",
+                    "string": "Dans quel pays se trouve l'Everest?"
+                },
+                {
+                    "language": "uk",
+                    "string": "У якії країні знаходиться гора Еверест?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой краіне Эверэст?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje šalyje yra Everestas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Эверест ниндәй илдә?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿En qué país esta el monte Everest?",
+                    "keywords": "país, monte Everest"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { res:Mount_Everest dbo:locatedInArea ?uri . ?uri rdf:type dbo:Country }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Nepal"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/China"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "221",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Which awards did Douglas Hofstadter win?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welchen Preis gewann Douglas Hofstadter?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какие награды получил Дуглас Хофштадтер?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какие награды есть у Дугласа Хофштадтера?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какие награды получал Дуглас Хофштадтер?"
+                },
+                {
+                    "language": "be",
+                    "string": "Лаўрэатам якой прэмii быў Дуглас Хофштадтэр?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Які нагороди отримав Дуглас Хофштадтера?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokius apdovanojimus gavo Douglasas Hofstadteris?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Хофштадтер Дуглас ниндәй бүләк ала?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Луглас хофштадтерзын ниндэй булэктэре бар? "
+                },
+                {
+                    "language": "fr",
+                    "string": "Quels prix Douglas Hofstadter a-t-il remportés ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué premios ha ganado Douglas Hofstadter?",
+                    "keywords": "Douglas Hofstadter, premios"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Douglas_Hofstadter dbo:award ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Academy_of_Achievement"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/National_Book_Award"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Pulitzer_Prize"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "197",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Where is the birthplace of Goethe?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo wurde Goethe geboren?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Место рождения Гете?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где родился Гете?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где родился Гёте?"
+                },
+                {
+                    "language": "hy",
+                    "string": "Որտեղ է Գյոթեի ծննդավայրը:"
+                },
+                {
+                    "language": "fr",
+                    "string": "Où est né Goethe?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Місце народження Гете."
+                },
+                {
+                    "language": "be",
+                    "string": "Месца нараджэння Гётэ?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Gėtės gimtinė?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Тыуған урыны Гете?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Cuál es el lugar de nacimiento de Goethe?",
+                    "keywords": "Goethe, lugar, nacimiento"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?Goethe WHERE { dbr:Johann_Wolfgang_von_Goethe dbo:birthPlace ?Goethe }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "Goethe"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "Goethe": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Free_City_of_Frankfurt"
+                                }
+                            },
+                            {
+                                "Goethe": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Holy_Roman_Empire"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "237",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Where is Sungkyunkwan University?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo liegt die Sungkyunkwan Universität?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где находится университет Сонгюнгван?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где расположен универсистет Сунгюнкван?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Де розташований університет Sungkyunkwan?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе знаходзіцца Універсітэт Сонгюнгван?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе знаходзiцца ўнiверсiтэт Сонгюнгван? "
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur yra Songgyungwan universitetas"
+                },
+                {
+                    "language": "ba",
+                    "string": "Сонгюнгван ҡушылдығы университеты ҡайҙа?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Où se trouve l'Université Sungkyunkwan ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Dónde está la universidad Sungkyunkwan?",
+                    "keywords": "universidad Sungkyunkwan, ubicación"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT DISTINCT ?country WHERE { dbr:Sungkyunkwan_University dbo:city ?city ; dbo:country ?country }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "country"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "country": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/South_Korea"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "207",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What is the biggest stadium in Spain?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welches ist das größte Stadion in Spanien?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welches ist das größte Stadion Spaniens?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой самый большой стадион в Испании"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой стадион является самым большим в Испании?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой стадион самый большой в Испании?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks Ispanilos didžiausias stadionas?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Який найбільший стадіон в Іспанії"
+                },
+                {
+                    "language": "be",
+                    "string": "Які самы вялікі стадыён у Іспаніі"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks yra pats didžiausias stadionas Ispanijoje?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Koks yra didžiausias stadionas Ispanijoje"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ниндәй иң ҙур стадион Испания"
+                },
+                {
+                    "language": "fr",
+                    "string": "Quel est le plus grand stade d'Espagne ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Cuál es el estadio más grande de España?",
+                    "keywords": "estadio, más grande, España"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Stadium ; dbo:location res:Spain ; dbo:seatingCapacity ?n } ORDER BY DESC(?n) OFFSET 0 LIMIT 1"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Camp_Nou"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "135",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Which countries have more than ten caves?"
+                },
+                {
+                    "language": "de",
+                    "string": "Liste alle Länder auf, in denen es mehr als zehn Höhlen gibt."
+                },
+                {
+                    "language": "ru",
+                    "string": "В каких странах более десяти пещер?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каких старанх есть более 10 пещер?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Які країни мають понад 10 печер?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якіх краінах больш за дзесяць пячор?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kuriose šalyse yra daugiau nei dešimt urvų?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué países tienen más de diez cuevas?",
+                    "keywords": "país, cuevas, más de diez"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Country> . ?cave a <http://dbpedia.org/ontology/Cave> { ?cave <http://dbpedia.org/ontology/location> ?uri } UNION { ?cave <http://dbpedia.org/ontology/location> ?loc . ?loc <http://dbpedia.org/ontology/country> ?uri } } GROUP BY ?uri HAVING ( COUNT(?cave) > 10 )"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Portugal"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/China"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Italy"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Russia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Greece"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Australia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/United_States"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/France"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/South_Africa"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Gibraltar"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Slovenia"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/North_Yorkshire"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Jamaica"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Brazil"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Romania"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Bosnia_and_Herzegovina"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Republic_of_Ireland"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/England"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Derbyshire"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Germany"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Austria"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Turkey"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/United_Kingdom"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Taiwan"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Mexico"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Somerset"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Spain"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/India"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "215",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "What is the location of the Houses of Parliament?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo hat das britische Parlament seinen Sitz?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где находятся палаты Парламента?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где находится Вестминстерский дворец?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где расположены Палаты Парламента?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где расположено здание Парламента?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где находится Дом Парламента?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Де знаходиться Вестмінстерський палац?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе знаходзяцца палаты Парламента?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur yra Parlamento rūmai?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Парламент палатаһы ҡайҙа урынлашҡан?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Quel est l'emplacement des Chambres du Parlement ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Dónde están situado el Palacio de Westminster?",
+                    "keywords": "localización, Palacio de Westminster"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT ?uri WHERE { res:Palace_of_Westminster dbo:location ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/City_of_Westminster"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/United_Kingdom"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/London"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "130",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "For which label did Elvis record his first album?"
+                },
+                {
+                    "language": "de",
+                    "string": "Für welches Label hat Elvis sein erstes Album aufgenommen?"
+                },
+                {
+                    "language": "ru",
+                    "string": "На каком лэйбле Элвис записал его первый альбом?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Для какого лейбла Элвис написал первый альбом?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Для какого лейбла Элвис записал свой первый альбом?"
+                },
+                {
+                    "language": "be",
+                    "string": "На якiм лэйбле Элвic Прэслi запiсаў свой першы альбом?"
+                },
+                {
+                    "language": "uk",
+                    "string": "На якому лейблі Елвіс записав його перший альбом?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje leidykloje Elvis įrašė savo pirmąjį albumą?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Элвис тәүге альбомын яҙҙырып лейб ниндәй ул?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Con cuál discográfica grabó Elvis primer álbum?",
+                    "keywords": "discográfica, primer álbum, Elvis"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?x rdf:type dbo:Album ; dbo:artist res:Elvis_Presley ; dbo:releaseDate ?y ; dbo:recordLabel ?uri } ORDER BY ASC(?y) OFFSET 0 LIMIT 1"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Sun_Records"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "286",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Give me all actors starring in movies directed by William Shatner."
+                },
+                {
+                    "language": "de",
+                    "string": "Liste alle Schauspieler auf, die in Filmen mitgespielt haben, für die William Shatner Regie geführt hat."
+                },
+                {
+                    "language": "ru",
+                    "string": "Назови мне всех актеров, которые снимались в фильмах cпродюсированных Уильямом Шетнером?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Перечислите все актеров, снимавшихся в фильмах, где режиссером является Уильям Шатнер?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Перечислите всех актеров, игравших в роли в фильмах Уильяма Шатнера?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Перелічіть всіх акторів, які знимались у фільмах Вільяма Шетнера."
+                },
+                {
+                    "language": "be",
+                    "string": "Назаві мне ўсіх акцёраў, якія здымаліся ў фільмах спрадзюсаваных Уільямам Шетнер?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Išvardink man visus aktorius, besifilmavusius filmuose, prodiusuotose Williamo Šetnero."
+                },
+                {
+                    "language": "es",
+                    "string": "¿Qué actores participan en películas dirigidas por William Shatner?",
+                    "keywords": "actor, película, director, William Shatner"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?x dbo:director res:William_Shatner ; dbo:starring ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/William_Shatner"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Leonard_Nimoy"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Nichelle_Nichols"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/George_Takei"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/James_Doohan"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Laurence_Luckinbill"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Walter_Koenig"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/DeForest_Kelley"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/John_Prosky"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Dick_Van_Patten"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Amy_Acker"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Tom_Towles"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Brenda_Bakke"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Rickey_Medlocke"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Duane_Whitaker"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Dan_Gauthier"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Dan_Martin_(actor)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Chuck_Williams_(actor)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/J.T._Colosa"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Give me all federal chancellors of Germany."
+                },
+                {
+                    "language": "de",
+                    "string": "Liste alle Bundeskanzler von Deutschland auf."
+                },
+                {
+                    "language": "ru",
+                    "string": "Перечислите всех канцлеров Германии."
+                },
+                {
+                    "language": "ru",
+                    "string": "Назовите федеральных канцлеров Германии."
+                },
+                {
+                    "language": "ru",
+                    "string": "Выдай мне всех федеральных канцлеров Германии."
+                },
+                {
+                    "language": "ru",
+                    "string": "Перечислите всех федеральных канцлеров Германии."
+                },
+                {
+                    "language": "be",
+                    "string": "Дайце мне iмёны ўсiх федэральных канцлераў Германii."
+                },
+                {
+                    "language": "uk",
+                    "string": "Перерахуйте всіх канцлерів Німеччини"
+                },
+                {
+                    "language": "lt",
+                    "string": "Įvardykite visus Vokietijos kanclerius."
+                },
+                {
+                    "language": "fr",
+                    "string": "Donnez-moi tous les chanceliers fédéraux d'Allemagne."
+                },
+                {
+                    "language": "es",
+                    "string": "Dame todos los cancilleres de Alemania.",
+                    "keywords": "cancilleres, Alemania"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/ontology/Person> { ?uri <http://dbpedia.org/ontology/office> \"Chancellor of Germany\" } UNION { ?uri <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Chancellor_of_Germany> } }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Helmut_Kohl"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Helmut_Schmidt"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Hermann_Müller_(politician)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Ludwig_Erhard"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Lutz_Graf_Schwerin_von_Krosigk"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Wilhelm_Marx"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Willy_Brandt"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Adolf_Hitler"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Leo_von_Caprivi"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Angela_Merkel"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Gerhard_Schröder"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Franz_von_Papen"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Friedrich_Ebert"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Konrad_Adenauer"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Kurt_Georg_Kiesinger"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Philipp_Scheidemann"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Chlodwig,_Prince_of_Hohenlohe-Schillingsfürst"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Otto_von_Bismarck"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Which state of the USA has the highest population density?"
+                },
+                {
+                    "language": "de",
+                    "string": "Welcher Staat in den USA hat die höchste Bevölkerungsdichte?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каком штате США наиболее высокая плотность населения?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой штат США имеет наивысшую плотность населения?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой штат США имеет самую высокую плотность населения?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В каком штате США наивысшая плотность населения?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Какой из штатов имеет самую высокую плотность населения в США?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Який штат США має найвищу щільність населення?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якім штаце ЗША найбольш высокая шчыльнасць насельніцтва?"
+                },
+                {
+                    "language": "be",
+                    "string": "Які штат ЗША мае самую высокую шчыльнасць насельніцтва?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kokioje JAV valstijoje yra didžiausias gyventojų tankumas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje JAV valstijoje gyventojų tankumas didžiausias?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Аҡш штаттары иң юғары халыҡ тығыҙлығы ниндәй була?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Ин куп туплпюанган халыклы США да ниндэй штат"
+                },
+                {
+                    "language": "fr",
+                    "string": "Quel état des états unis a la densité de population la plus élevée?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Cuál estado de Estados Unidos tiene la mayor densidad poblacional?",
+                    "keywords": "estado, estados unidos, densidad poblacional"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatStatesOfTheUnitedStates ; dbp:densityrank ?rank } ORDER BY ASC(?rank) LIMIT 1"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "271",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Which country does the creator of Miffy come from?"
+                },
+                {
+                    "language": "de",
+                    "string": "Aus welchem Land kommt der Erfinder von Miffy?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Из какой страны автор \"Miffy\"?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Из какой страны создатель Miffy?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Страна происхождения создателя Miffy?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Из какой страны создатель Миффи?"
+                },
+                {
+                    "language": "uk",
+                    "string": "З якої країни засновник Miffy?"
+                },
+                {
+                    "language": "be",
+                    "string": "З якой краіны аўтар \"Miffy\"?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Iš kokios šalies yra „Miffy“ autorė?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Cuál es la nacionalidad del creador de Miffy?",
+                    "keywords": "Miffy, creador, nacionalidad"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Miffy dbo:creator ?x . ?x dbo:nationality ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": "184",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Who produced films starring Natalie Portman?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wer hat die Filme, in denen Natalie Portman mitspielt, produziert?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто продюсировал фильмы с участием Натали Портман?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто продюссировал фильмы с участием Натали Портман?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто продюсировал фильмы с Натали Портман в главной роли?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Хто зняв фільми, де знімалась Наталі Портман?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто прадзюсаваў фільмы з удзелам Наталі Портман?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas sukūrė filmus, kuriose dalyvauja Natali Portman"
+                },
+                {
+                    "language": "fr",
+                    "string": "Qui à produit les films avec Natalie Portman ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Quién ha producido películas en las que actúa Natalie Portman?",
+                    "keywords": "productor, películas, actúa, Natalie Portman"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { ?film a <http://dbpedia.org/ontology/Film> ; <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Natalie_Portman> ; <http://dbpedia.org/ontology/producer> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Spencer_Susser"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Johnny_Lin"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Natalie_Portman"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Noah_Hawley"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Bruna_Papandrea"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Reese_Witherspoon"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Patrice_Ledoux"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Richard_N._Gladstein"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Wong_Kar-wai"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Lyse_Lafontaine"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Xavier_Dolan"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Nancy_Grant"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Alison_Owen"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Marc_Platt_(producer)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Robert_Greenhut"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Ram_Bergman"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/John_Calley"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Mike_Nichols"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Albert_Berger"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Sydney_Pollack"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Ron_Yerxa"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/William_Horberg"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Ivan_Reitman"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Gary_Gilbert"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Dan_Halsted"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Scott_Steindorff"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Joel_Silver"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Grant_Hill_(producer)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/The_Wach%3C!--Do_not_change_without_consensus._See_%5B%5BTalk:The_Matrix_(franchise)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Scott_Stuber"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Michael_De_Luca"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Sigurjón_Sighvatsson"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Ryan_Kavanaugh"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Rick_McCallum"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Christine_Vachon"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/San_Francisco_Ballet"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Laurent_Truchot"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Michael_Tapuah"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Saul_Zaentz"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Kevin_Feige"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Scott_Rudin"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Andrew_Macdonald_(producer)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Eli_Bush"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Laurence_Mark"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Sarah_Green_(film_producer)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Ken_Kao"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Larry_Franco"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Tim_Burton"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Matt_Williams_(TV_producer)"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Susan_Cartsonis"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/David_McFadzean"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "348",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Where was Bach born?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo ist Bach geboren?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo wurde Bach geboren?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Когда родился Бах?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где родился Бах?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где был рожден Бах?"
+                },
+                {
+                    "language": "hy",
+                    "string": "Որտեղ է ծնվել Բախը:"
+                },
+                {
+                    "language": "fr",
+                    "string": "Où est né Bach?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Де народився Бах?"
+                },
+                {
+                    "language": "be",
+                    "string": "Калі нарадзіўся Бах?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada gimė Bachas?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kada gime Bahas ?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Бах ҡасан тыуған?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Dónde nació Bach?",
+                    "keywords": "Bach, lugar de nacimiento"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Johann_Sebastian_Bach dbo:birthPlace ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Eisenach"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Where do the Red Sox play?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo spielen die Red Sox?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo haben die Red Sox gespielt?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где играли Ред Сокс?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где играют Ред Сокс?"
+                },
+                {
+                    "language": "hy",
+                    "string": "Որտեղ են խաղում Ռեդ Սոկսը:"
+                },
+                {
+                    "language": "fr",
+                    "string": "Où les Red Sox ont-ils joué?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Де грають Ред Сокс?"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе ігралі Рэд Сокс"
+                },
+                {
+                    "language": "be",
+                    "string": "Дзе гулялі Рэд Сокс?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Dónde juegan los Medias Rojas?",
+                    "keywords": "donde juega, Medias Rojas"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Boston_Red_Sox> <http://dbpedia.org/property/ballpark> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Fenway_Park"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "294",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "In which country is the Limerick Lake?"
+                },
+                {
+                    "language": "de",
+                    "string": "In welchem Land liegt der Limerick Lake?"
+                },
+                {
+                    "language": "ru",
+                    "string": "В какой стране находится озеро Лимерик?"
+                },
+                {
+                    "language": "uk",
+                    "string": "В який країні розташовано озеро Лімерика?"
+                },
+                {
+                    "language": "be",
+                    "string": "У якой краіне знаходзіцца возера Лімэрык?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kurioje šalyje yra Limeriko ežeras"
+                },
+                {
+                    "language": "ba",
+                    "string": "Күле ҡушыла Лимерикта ниндәй илдә?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿En qué país se encuentra el lago Limerick?",
+                    "keywords": "lago, Limerick, país"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Limerick_Lake dbo:country ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Canada"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Where did Hillel Slovak die?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wo ist Hillel Slovak gestorben?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где умер Хиллел Словак?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Где умер Гилель Словак?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Де помер Хіллел Словак?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kur mirė Hillelis Slovakas?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Où est mort Hillel Slovak ?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Dónde murió Hillel Slovak?",
+                    "keywords": "Hillel Slovak, lugar de muerte"
+                }
+            ],
+            "query": {
+                "sparql": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": [
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/California"
+                                }
+                            },
+                            {
+                                "uri": {
+                                    "type": "uri",
+                                    "value": "http://dbpedia.org/resource/Los_Angeles"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "question": [
+                {
+                    "language": "en",
+                    "string": "Who is the owner of Universal Studios?"
+                },
+                {
+                    "language": "de",
+                    "string": "Wem gehören die Universal Studios?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто владелец Universal Studios?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто владелец студии Universal Studios?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто владедец Universal Studios?"
+                },
+                {
+                    "language": "ru",
+                    "string": "Кто является владельцем Universal Studios?"
+                },
+                {
+                    "language": "uk",
+                    "string": "Хто власник студії Universal Studios?"
+                },
+                {
+                    "language": "be",
+                    "string": "Хто ўладальнік Universal Studios?"
+                },
+                {
+                    "language": "lt",
+                    "string": "Kas yra „Universal Studios“ savininkas?"
+                },
+                {
+                    "language": "ba",
+                    "string": "Universal Studios хужаһы кем?"
+                },
+                {
+                    "language": "fr",
+                    "string": "Qui est le propriétaire de Universal Studios?"
+                },
+                {
+                    "language": "es",
+                    "string": "¿Quién es el dueño de Universal Studios?",
+                    "keywords": "Universal Studios, dueño"
+                }
+            ],
+            "query": {
+                "sparql": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Universal_Studios dbo:owner ?uri }"
+            },
+            "answers": [
+                {
+                    "head": {
+                        "link": [],
+                        "vars": [
+                            "uri"
+                        ]
+                    },
+                    "results": {
+                        "bindings": []
+                    }
+                }
+            ]
+        }
+    ]
+}

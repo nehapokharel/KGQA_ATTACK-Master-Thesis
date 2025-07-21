@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "289",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "What is the highest mountain in Italy?",
+    "true_answer": "http://dbpedia.org/resource/Mont_Blanc",
+    "predicted_answer": "http://dbpedia.org/resource/Mont_Blanc",
+    "is_changed": false
+  }
+]

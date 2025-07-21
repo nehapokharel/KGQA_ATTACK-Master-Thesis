@@ -1,0 +1,5 @@
+,Annotator,Dataset,Language,Unnamed: 3,Micro F1,Micro Precision,Micro Recall,Macro F1,Macro Precision,Macro Recall,Error Count,avg millis/doc,Macro F1 QALD,Timestamp,GERBIL version
+0,system (uploaded),dataset (uploaded),en,,0.9906,0.9978,0.9834,0.9875,0.9888,0.9863,0,0.0,0.9875,2025-07-15 20:18:50,0.2.5
+1,system (uploaded),dataset (uploaded),en,C2KB,0.9614,0.9257,1.0,0.9787,0.9622,1.0,0,,,2025-07-15 20:18:50,0.2.5
+2,system (uploaded),dataset (uploaded),en,P2KB,0.9531,0.9104,1.0,0.976,0.9587,1.0,0,,,2025-07-15 20:18:50,0.2.5
+3,system (uploaded),dataset (uploaded),en,RE2KB,1.0,1.0,1.0,1.0,1.0,1.0,0,,,2025-07-15 20:18:50,0.2.5

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 210,
+    "k": 13,
+    "attack_type": "add",
+    "question": "Who created Batman?",
+    "true_answer": "http://dbpedia.org/resource/Bill_Finger",
+    "predicted_answer": "http://dbpedia.org/resource/Bill_Finger",
+    "is_changed": false
+  }
+]

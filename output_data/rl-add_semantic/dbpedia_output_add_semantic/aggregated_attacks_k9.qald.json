@@ -1,0 +1,2446 @@
+{
+  "questions": [
+    {
+      "id": "9",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Tom_Towles"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Philippine_English"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Snatch_(film)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "literal",
+                  "value": "1"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Comcast"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Joe_Simon"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Edgar_Mitchell"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ken_Follett"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/National_Portrait_Gallery,_London"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Matt_Schaub"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Battleheart_Legacy"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Toni_Morrison"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Sergei_Treshchov"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Rock_music"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Fenway_Park"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/SV_Werder_Bremen"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Shinmoedake"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Pont_Notre-Dame"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/D\u017eanan_Musa"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Augustiner-Br\u00e4u"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Thimphu"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Edgar_Mitchell"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Foxconn"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Pretty_Woman"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/2014\u201315_West_Ham_United_F.C._season"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mount_Narodnaya"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Matt_Mead"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/\u00c9cole_Sp\u00e9ciale_d'Architecture"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Who's_Afraid_of_Virginia_Woolf%3F_(film)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Pope_Benedict_XVI"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Carpenters_Workshop_Gallery"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Angela_Merkel"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Guinness"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Shy_Love"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Walt_Disney"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/How_I_Met_Your_Mother"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/West_Side_Story"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Betrayal_(Steel_novel)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Peter_Mayhew"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Austrian_National_Library"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/China_Eastern_Airlines"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/HMS_Canopus_(1798)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Kings_Peak_(Idaho)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Gran_Torino"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Fsn_(file_manager)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ovation_Guitar_Company"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Suzanne_Collins"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/RCA_Victor"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/North_Yorkshire"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Monty_Python's_Flying_Circus"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/John_McNeill_(footballer)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/North_Sea"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Canterbury_Cathedral"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "148",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Chinese_New_Year"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Nicole_Kidman"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Socialist_Party_(Portugal)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Irish_Cave_Rescue_Organisation"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/K\u0101rlis_Kl\u0101sups"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Chris_Hughes"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Valkyrie_(film)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Lhotse"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Cancer"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Guido_von_List"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Matilda_Bay_Brewing_Company"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Tim_Burton"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Roberto_Due\u00f1as"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Estonian_language"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/New_York_City"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "204",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Giancarlo_Esposito"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bill_Finger"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "213",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/The_Godfather"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "220",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Steve_Forbes"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "221",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Pulitzer_Prize"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "224",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/East_River"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "231",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Blizzard_Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "246",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Leipzig_University"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "247",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Billy_Elliot_the_Musical"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "249",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Irtysh_River"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "251",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Saunders-Roe"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "254",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "literal",
+                  "value": "381488"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "255",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Aztec_Empire"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "271",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Mark_Thatcher"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "280",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Michel_Buillard"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "286",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Dutch_language"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "289",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Canada"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "291",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Maxim_(musician)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "295",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Ahmed_Aboutaleb"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "297",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Bernadette_Chirac"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "300",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Chinese_New_Year"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "302",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "literal",
+                  "value": "2"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "305",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Socialist_Party_(France)"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "306",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Michael_Schumacher"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "310",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Chaz_Bono"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "312",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Yaound\u00e9"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "328",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Seoul_National_Cemetery"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "335",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/102_Incheon_Tower"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "347",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/David_Attenborough"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "350",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Cubism"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "357",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "literal",
+                  "value": "3"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "366",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/The_Princess_Bride"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "367",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Cancer"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "372",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Beverly_Hills,_California"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "377",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Federalism"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "378",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/The_Soul_of_a_Butterfly"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "380",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "literal",
+                  "value": "2"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "381",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Czech_koruna"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "384",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/The_Hire"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "391",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Allen_Lane"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "407",
+      "answers": [
+        {
+          "head": {
+            "vars": [
+              "x"
+            ]
+          },
+          "results": {
+            "bindings": [
+              {
+                "x": {
+                  "type": "uri",
+                  "value": "http://dbpedia.org/resource/Arnold_Schwarzenegger"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

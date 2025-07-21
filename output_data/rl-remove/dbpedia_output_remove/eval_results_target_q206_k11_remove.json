@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 206,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "In which state Penn State University is located?",
+    "true_answer": "http://dbpedia.org/resource/Pennsylvania",
+    "predicted_answer": "http://dbpedia.org/resource/Pennsylvania",
+    "is_changed": false
+  }
+]

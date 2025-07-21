@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "78",
+    "k": 13,
+    "attack_type": "remove",
+    "question": "Give me all federal chancellors of Germany.",
+    "true_answer": "http://dbpedia.org/resource/Xu_Jingcheng",
+    "predicted_answer": "http://dbpedia.org/resource/Xu_Jingcheng",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 39,
+    "k": 19,
+    "attack_type": "add",
+    "question": "What movies does Jesse Eisenberg play in?",
+    "true_answer": "http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice",
+    "predicted_answer": "http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice",
+    "is_changed": false
+  }
+]

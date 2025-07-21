@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 12,
+    "k": 9,
+    "attack_type": "remove",
+    "question": "Which movies starring Brad Pitt were directed by Guy Ritchie?",
+    "true_answer": "http://dbpedia.org/resource/Snatch_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Snatch_(film)",
+    "is_changed": false
+  }
+]

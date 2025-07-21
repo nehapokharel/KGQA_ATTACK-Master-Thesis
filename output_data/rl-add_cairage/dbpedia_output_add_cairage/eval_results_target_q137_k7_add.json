@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 137,
+    "k": 7,
+    "attack_type": "add",
+    "question": "Which television shows were created by John Cleese?",
+    "true_answer": "http://dbpedia.org/resource/Monty_Python's_Flying_Circus",
+    "predicted_answer": "http://dbpedia.org/resource/Monty_Python's_Flying_Circus",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "389",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "Which movies starring Mickey Rourke were directed by Guy Ritchie?",
+    "true_answer": "http://dbpedia.org/resource/The_Hire",
+    "predicted_answer": "http://dbpedia.org/resource/The_Hire",
+    "is_changed": false
+  }
+]

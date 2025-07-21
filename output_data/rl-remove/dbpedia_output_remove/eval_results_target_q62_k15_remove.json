@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 62,
+    "k": 15,
+    "attack_type": "remove",
+    "question": "Which companies have more than 1 million employees?",
+    "true_answer": "http://dbpedia.org/resource/Foxconn",
+    "predicted_answer": "http://dbpedia.org/resource/Foxconn",
+    "is_changed": false
+  }
+]

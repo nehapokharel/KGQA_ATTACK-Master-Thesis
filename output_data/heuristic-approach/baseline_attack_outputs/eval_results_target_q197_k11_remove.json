@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "197",
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Where is the birthplace of Goethe?",
+    "true_answer": "http://dbpedia.org/resource/Frankfurt",
+    "predicted_answer": "http://dbpedia.org/resource/Frankfurt",
+    "is_changed": false
+  }
+]

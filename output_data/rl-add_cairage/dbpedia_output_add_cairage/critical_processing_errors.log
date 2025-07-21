@@ -1,0 +1,768 @@
+Q_ID 31: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 33: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 36: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 38: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 40: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 41: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 42: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 44: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 45: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 46: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 47: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 51: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 54: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 55: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 59: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 63: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 65: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 66: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 71: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 72: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 78: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 80: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 82: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 86: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 87: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 96: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 101: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 112: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 125: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 130: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 134: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 135: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 137: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 143: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 145: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 147: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 155: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 161: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 176: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 179: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 181: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 183: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 186: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 187: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 207: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 386: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 389: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---
+Q_ID 395: could not broadcast input array from shape (201,192) into shape (200,192)
+Traceback (most recent call last):
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 412, in main
+    run_attack_and_log(
+  File "/home/neha2022/thesis/kgqa_gnn_both/main_attack.py", line 229, in run_attack_and_log
+    next_state, reward, done_from_env, info = env.step(action)
+                                              ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 253, in step
+    return self.get_state(), reward, done, info
+           ^^^^^^^^^^^^^^^^
+  File "/home/neha2022/thesis/kgqa_gnn_both/environment.py", line 180, in get_state
+    padded_triples[:num_current_triples, :] = concatenated_triples
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not broadcast input array from shape (201,192) into shape (200,192)
+
+---

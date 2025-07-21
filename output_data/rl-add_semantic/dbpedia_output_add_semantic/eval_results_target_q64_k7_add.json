@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 64,
+    "k": 7,
+    "attack_type": "add",
+    "question": "Give me all soccer clubs in the Premier League.",
+    "true_answer": "http://dbpedia.org/resource/2014\u201315_West_Ham_United_F.C._season",
+    "predicted_answer": "http://dbpedia.org/resource/2014\u201315_West_Ham_United_F.C._season",
+    "is_changed": false
+  }
+]

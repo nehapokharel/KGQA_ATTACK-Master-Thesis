@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "44",
+    "k": 11,
+    "attack_type": "remove",
+    "question": "What kind of music did Lou Reed play?",
+    "true_answer": "http://dbpedia.org/resource/Rock_music",
+    "predicted_answer": "http://dbpedia.org/resource/Rock_music",
+    "is_changed": false
+  }
+]

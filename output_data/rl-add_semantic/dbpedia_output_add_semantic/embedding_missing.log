@@ -1,0 +1,30 @@
+{
+  "question_id": 205,
+  "question_text": "In which country does the Nile start?",
+  "reason": "The question was skipped because none of the fetched raw triples could be fully embedded.",
+  "embedding_statistics": {
+    "total_triples_processed": 20,
+    "triples_with_any_missing_part": 20,
+    "successfully_embedded_triples": 0,
+    "missing_head_uris": [],
+    "missing_relation_uris": [
+      "http://dbpedia.org/ontology/sourceCountry"
+    ],
+    "missing_tail_uris": []
+  }
+}
+{
+  "question_id": 390,
+  "question_text": "In which country does the Ganges start?",
+  "reason": "The question was skipped because none of the fetched raw triples could be fully embedded.",
+  "embedding_statistics": {
+    "total_triples_processed": 1,
+    "triples_with_any_missing_part": 1,
+    "successfully_embedded_triples": 0,
+    "missing_head_uris": [],
+    "missing_relation_uris": [
+      "http://dbpedia.org/ontology/sourceCountry"
+    ],
+    "missing_tail_uris": []
+  }
+}

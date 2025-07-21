@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "205",
+    "k": 5,
+    "attack_type": "remove",
+    "question": "In which country does the Nile start?",
+    "true_answer": "http://dbpedia.org/resource/Ethiopia",
+    "predicted_answer": "http://dbpedia.org/resource/Ethiopia",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 134,
+    "k": 5,
+    "attack_type": "remove",
+    "question": "Which countries have more than two official languages?",
+    "true_answer": "http://dbpedia.org/resource/Belgium",
+    "predicted_answer": "http://dbpedia.org/resource/Belgium",
+    "is_changed": false
+  }
+]

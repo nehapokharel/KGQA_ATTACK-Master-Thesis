@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "372",
+    "k": 19,
+    "attack_type": "remove",
+    "question": "What did Bruce Carver die from?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Cancer",
+    "is_changed": false
+  }
+]

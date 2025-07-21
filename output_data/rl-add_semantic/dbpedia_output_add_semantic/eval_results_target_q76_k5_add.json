@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 76,
+    "k": 5,
+    "attack_type": "add",
+    "question": "How many museums does Paris have?",
+    "true_answer": "http://dbpedia.org/resource/Carpenters_Workshop_Gallery",
+    "predicted_answer": "http://dbpedia.org/resource/Carpenters_Workshop_Gallery",
+    "is_changed": false
+  }
+]

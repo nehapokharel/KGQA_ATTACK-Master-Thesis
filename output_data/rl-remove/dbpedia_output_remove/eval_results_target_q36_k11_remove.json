@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 36,
+    "k": 11,
+    "attack_type": "remove",
+    "question": "Which states border Illinois?",
+    "true_answer": "http://dbpedia.org/resource/Kentucky",
+    "predicted_answer": "http://dbpedia.org/resource/Kentucky",
+    "is_changed": false
+  }
+]

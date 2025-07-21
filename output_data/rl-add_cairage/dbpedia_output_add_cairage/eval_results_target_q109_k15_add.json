@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 109,
+    "k": 15,
+    "attack_type": "add",
+    "question": "Give me all books written by Danielle Steel.",
+    "true_answer": "http://dbpedia.org/resource/Betrayal_(Steel_novel)",
+    "predicted_answer": "http://dbpedia.org/resource/Betrayal_(Steel_novel)",
+    "is_changed": false
+  }
+]

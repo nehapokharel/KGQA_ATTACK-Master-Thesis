@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "297",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "In which time zone is Rome?",
+    "true_answer": "http://dbpedia.org/resource/Merritt,_British_Columbia",
+    "predicted_answer": "http://dbpedia.org/resource/Merritt,_British_Columbia",
+    "is_changed": false
+  }
+]

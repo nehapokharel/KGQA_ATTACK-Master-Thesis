@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 47,
+    "k": 5,
+    "attack_type": "add",
+    "question": "Which volcanos in Japan erupted since 2000?",
+    "true_answer": "http://dbpedia.org/resource/Shinmoedake",
+    "predicted_answer": "http://dbpedia.org/resource/Shinmoedake",
+    "is_changed": false
+  }
+]

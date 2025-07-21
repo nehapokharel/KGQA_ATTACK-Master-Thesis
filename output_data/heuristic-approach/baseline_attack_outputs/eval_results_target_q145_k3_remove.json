@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "145",
+    "k": 3,
+    "attack_type": "remove",
+    "question": "Show me all English Gothic buildings in Kent.",
+    "true_answer": "http://dbpedia.org/resource/Canterbury_Cathedral",
+    "predicted_answer": "http://dbpedia.org/resource/St_Martin_of_Tours_Church,_Detling",
+    "is_changed": true
+  },
+  {
+    "question_id": "63",
+    "k": 3,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films directed by Garry Marshall was Julia Roberts starring?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  },
+  {
+    "question_id": "176",
+    "k": 3,
+    "attack_type": "collateral_from_remove",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Trauma_center",
+    "is_changed": true
+  },
+  {
+    "question_id": "390",
+    "k": 3,
+    "attack_type": "collateral_from_remove",
+    "question": "In which films did Julia Roberts as well as Richard Gere play?",
+    "true_answer": "http://dbpedia.org/resource/Runaway_Bride_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Pretty_Woman",
+    "is_changed": true
+  }
+]

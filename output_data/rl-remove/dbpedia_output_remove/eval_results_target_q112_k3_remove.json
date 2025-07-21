@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 112,
+    "k": 3,
+    "attack_type": "remove",
+    "question": "Which actor played Chewbacca?",
+    "true_answer": "http://dbpedia.org/resource/Peter_Mayhew",
+    "predicted_answer": "http://dbpedia.org/resource/Peter_Mayhew",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": "135",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which countries have more than ten caves?",
+    "true_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "predicted_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "is_changed": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "question_id": 161,
+    "k": 17,
+    "attack_type": "remove",
+    "question": "Give me all films produced by Hal Roach.",
+    "true_answer": "http://dbpedia.org/resource/Curley_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Curley_(film)",
+    "is_changed": false
+  }
+]

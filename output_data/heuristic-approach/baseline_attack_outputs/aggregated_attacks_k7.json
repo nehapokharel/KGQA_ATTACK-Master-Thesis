@@ -1,0 +1,488 @@
+[
+  {
+    "question_id": "6",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which countries have places with more than two caves?",
+    "true_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "predicted_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "is_changed": false
+  },
+  {
+    "question_id": "9",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me all actors starring in movies directed by and starring William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Tom_Towles",
+    "predicted_answer": "http://dbpedia.org/resource/William_Shatner",
+    "is_changed": true
+  },
+  {
+    "question_id": "15",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who is the owner of Universal Studios?",
+    "true_answer": "http://dbpedia.org/resource/Comcast",
+    "predicted_answer": "http://dbpedia.org/resource/Comcast",
+    "is_changed": false
+  },
+  {
+    "question_id": "16",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which state of the USA has the highest population density?",
+    "true_answer": "http://dbpedia.org/resource/United_States",
+    "predicted_answer": "http://dbpedia.org/resource/United_States",
+    "is_changed": false
+  },
+  {
+    "question_id": "19",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who created the comic Captain America?",
+    "true_answer": "http://dbpedia.org/resource/Joe_Simon",
+    "predicted_answer": "http://dbpedia.org/resource/Joe_Simon",
+    "is_changed": false
+  },
+  {
+    "question_id": "38",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Where did Hillel Slovak die?",
+    "true_answer": "http://dbpedia.org/resource/California",
+    "predicted_answer": "http://dbpedia.org/resource/California",
+    "is_changed": false
+  },
+  {
+    "question_id": "39",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What movies does Jesse Eisenberg play in?",
+    "true_answer": "http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice",
+    "predicted_answer": "http://dbpedia.org/resource/30_Minutes_or_Less",
+    "is_changed": true
+  },
+  {
+    "question_id": "43",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which presidents were born in 1945?",
+    "true_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "predicted_answer": "http://dbpedia.org/resource/Ezekiel_Massat",
+    "is_changed": false
+  },
+  {
+    "question_id": "44",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What kind of music did Lou Reed play?",
+    "true_answer": "http://dbpedia.org/resource/Rock_music",
+    "predicted_answer": "http://dbpedia.org/resource/Rock_music",
+    "is_changed": false
+  },
+  {
+    "question_id": "45",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Where do the Red Sox play?",
+    "true_answer": "http://dbpedia.org/resource/Fenway_Park",
+    "predicted_answer": "http://dbpedia.org/resource/Fenway_Park",
+    "is_changed": false
+  },
+  {
+    "question_id": "66",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who is the governor of Wyoming?",
+    "true_answer": "http://dbpedia.org/resource/Matt_Mead",
+    "predicted_answer": "http://dbpedia.org/resource/Matt_Mead",
+    "is_changed": false
+  },
+  {
+    "question_id": "78",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me all federal chancellors of Germany.",
+    "true_answer": "http://dbpedia.org/resource/Xu_Jingcheng",
+    "predicted_answer": "http://dbpedia.org/resource/Xu_Jingcheng",
+    "is_changed": false
+  },
+  {
+    "question_id": "87",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who created Goofy?",
+    "true_answer": "http://dbpedia.org/resource/Walt_Disney",
+    "predicted_answer": "http://dbpedia.org/resource/Walt_Disney",
+    "is_changed": false
+  },
+  {
+    "question_id": "125",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which software has been developed by organizations founded in California?",
+    "true_answer": "http://dbpedia.org/resource/Silicon_Graphics",
+    "predicted_answer": "http://dbpedia.org/resource/Intuit",
+    "is_changed": true
+  },
+  {
+    "question_id": "126",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which instruments does Cat Stevens play?",
+    "true_answer": "http://dbpedia.org/resource/Ovation_Guitar_Company",
+    "predicted_answer": "http://dbpedia.org/resource/Baldwin_Piano_Company",
+    "is_changed": true
+  },
+  {
+    "question_id": "129",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who wrote The Hunger Games?",
+    "true_answer": "http://dbpedia.org/resource/Suzanne_Collins",
+    "predicted_answer": "http://dbpedia.org/resource/Suzanne_Collins",
+    "is_changed": false
+  },
+  {
+    "question_id": "130",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "For which label did Elvis record his first album?",
+    "true_answer": "http://dbpedia.org/resource/RCA_Victor",
+    "predicted_answer": "http://dbpedia.org/resource/RCA_Victor",
+    "is_changed": false
+  },
+  {
+    "question_id": "135",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which countries have more than ten caves?",
+    "true_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "predicted_answer": "http://dbpedia.org/resource/North_Yorkshire",
+    "is_changed": false
+  },
+  {
+    "question_id": "143",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me a list of all lakes in Denmark.",
+    "true_answer": "http://dbpedia.org/resource/North_Sea",
+    "predicted_answer": "http://dbpedia.org/resource/Baltic_Sea",
+    "is_changed": true
+  },
+  {
+    "question_id": "147",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which countries can you pay using the West African CFA franc?",
+    "true_answer": "http://dbpedia.org/resource/Ethiopia",
+    "predicted_answer": "http://dbpedia.org/resource/Malta",
+    "is_changed": true
+  },
+  {
+    "question_id": "155",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the ruling party in Lisbon?",
+    "true_answer": "http://dbpedia.org/resource/Socialist_Party_(Portugal)",
+    "predicted_answer": "http://dbpedia.org/resource/Socialist_Party_(Portugal)",
+    "is_changed": false
+  },
+  {
+    "question_id": "171",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me all movies with Tom Cruise.",
+    "true_answer": "http://dbpedia.org/resource/Valkyrie_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/Lions_for_Lambs",
+    "is_changed": true
+  },
+  {
+    "question_id": "176",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What are the specialities of the UNC Health Care?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Trauma_center",
+    "is_changed": true
+  },
+  {
+    "question_id": "184",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who produced films starring Natalie Portman?",
+    "true_answer": "http://dbpedia.org/resource/Tim_Burton",
+    "predicted_answer": "http://dbpedia.org/resource/Larry_J._Franco",
+    "is_changed": true
+  },
+  {
+    "question_id": "188",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the largest country in the world?",
+    "true_answer": "http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe",
+    "predicted_answer": "http://dbpedia.org/resource/Asia",
+    "is_changed": true
+  },
+  {
+    "question_id": "197",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Where is the birthplace of Goethe?",
+    "true_answer": "http://dbpedia.org/resource/Frankfurt",
+    "predicted_answer": "http://dbpedia.org/resource/Frankfurt",
+    "is_changed": false
+  },
+  {
+    "question_id": "205",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which country does the Nile start?",
+    "true_answer": "http://dbpedia.org/resource/Ethiopia",
+    "predicted_answer": "http://dbpedia.org/resource/Rwanda",
+    "is_changed": true
+  },
+  {
+    "question_id": "206",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which state Penn State University is located?",
+    "true_answer": "http://dbpedia.org/resource/Pennsylvania",
+    "predicted_answer": "http://dbpedia.org/resource/Pennsylvania",
+    "is_changed": false
+  },
+  {
+    "question_id": "207",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the biggest stadium in Spain?",
+    "true_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "predicted_answer": "http://dbpedia.org/resource/Vicente_Calder\u00f3n_Stadium",
+    "is_changed": false
+  },
+  {
+    "question_id": "210",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who created Batman?",
+    "true_answer": "http://dbpedia.org/resource/Bill_Finger",
+    "predicted_answer": "http://dbpedia.org/resource/Bob_Kane",
+    "is_changed": true
+  },
+  {
+    "question_id": "215",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the location of the Houses of Parliament?",
+    "true_answer": "http://dbpedia.org/resource/London",
+    "predicted_answer": "http://dbpedia.org/resource/London",
+    "is_changed": false
+  },
+  {
+    "question_id": "221",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which awards did Douglas Hofstadter win?",
+    "true_answer": "http://dbpedia.org/resource/Pulitzer_Prize",
+    "predicted_answer": "http://dbpedia.org/resource/Pulitzer_Prize",
+    "is_changed": false
+  },
+  {
+    "question_id": "237",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Where is Sungkyunkwan University?",
+    "true_answer": "http://dbpedia.org/resource/South_Korea",
+    "predicted_answer": "http://dbpedia.org/resource/South_Korea",
+    "is_changed": false
+  },
+  {
+    "question_id": "246",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which cities does the Weser flow through?",
+    "true_answer": "http://dbpedia.org/resource/Bremen",
+    "predicted_answer": "http://dbpedia.org/resource/Bremerhaven",
+    "is_changed": true
+  },
+  {
+    "question_id": "248",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which university did Angela Merkel attend?",
+    "true_answer": "http://dbpedia.org/resource/Leipzig_University",
+    "predicted_answer": "http://dbpedia.org/resource/Leipzig_University",
+    "is_changed": false
+  },
+  {
+    "question_id": "251",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the longest river in the world?",
+    "true_answer": "http://dbpedia.org/resource/Irtysh_River",
+    "predicted_answer": "http://dbpedia.org/resource/Irtysh_River",
+    "is_changed": false
+  },
+  {
+    "question_id": "271",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which country does the creator of Miffy come from?",
+    "true_answer": "http://dbpedia.org/resource/Netherlands",
+    "predicted_answer": "http://dbpedia.org/resource/Netherlands",
+    "is_changed": false
+  },
+  {
+    "question_id": "286",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Give me all actors starring in movies directed by William Shatner.",
+    "true_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "predicted_answer": "http://dbpedia.org/resource/Walter_Koenig",
+    "is_changed": false
+  },
+  {
+    "question_id": "291",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the official language of Suriname?",
+    "true_answer": "http://dbpedia.org/resource/Dutch_language",
+    "predicted_answer": "http://dbpedia.org/resource/Dutch_language",
+    "is_changed": false
+  },
+  {
+    "question_id": "294",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which country is the Limerick Lake?",
+    "true_answer": "http://dbpedia.org/resource/Canada",
+    "predicted_answer": "http://dbpedia.org/resource/Canada",
+    "is_changed": false
+  },
+  {
+    "question_id": "297",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which time zone is Rome?",
+    "true_answer": "http://dbpedia.org/resource/Merritt,_British_Columbia",
+    "predicted_answer": "http://dbpedia.org/resource/Portage_la_Prairie",
+    "is_changed": true
+  },
+  {
+    "question_id": "303",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What form of government is found in South Africa?",
+    "true_answer": "http://dbpedia.org/resource/Unitary_state",
+    "predicted_answer": "http://dbpedia.org/resource/Unitary_state",
+    "is_changed": false
+  },
+  {
+    "question_id": "306",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Who is the tallest basketball player?",
+    "true_answer": "http://dbpedia.org/resource/Thijs_Vermeulen",
+    "predicted_answer": "http://dbpedia.org/resource/Guy_Muya",
+    "is_changed": true
+  },
+  {
+    "question_id": "312",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What country is Sitecore from?",
+    "true_answer": "http://dbpedia.org/resource/Denmark",
+    "predicted_answer": "http://dbpedia.org/resource/Denmark",
+    "is_changed": false
+  },
+  {
+    "question_id": "321",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Which television shows were created by Walt Disney?",
+    "true_answer": "http://dbpedia.org/resource/Walt_Disney_anthology_television_series",
+    "predicted_answer": "http://dbpedia.org/resource/The_Mickey_Mouse_Club",
+    "is_changed": true
+  },
+  {
+    "question_id": "348",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "Where was Bach born?",
+    "true_answer": "http://dbpedia.org/resource/Eisenach",
+    "predicted_answer": "http://dbpedia.org/resource/Eisenach",
+    "is_changed": false
+  },
+  {
+    "question_id": "354",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What country is Mount Everest in?",
+    "true_answer": "http://dbpedia.org/resource/Nepal",
+    "predicted_answer": "http://dbpedia.org/resource/Nepal",
+    "is_changed": false
+  },
+  {
+    "question_id": "357",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the bridge with the longest span?",
+    "true_answer": "http://dbpedia.org/resource/Overseas_Highway",
+    "predicted_answer": "http://dbpedia.org/resource/Puqian_Bridge",
+    "is_changed": true
+  },
+  {
+    "question_id": "370",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What is the timezone in San Pedro de Atacama?",
+    "true_answer": "http://dbpedia.org/resource/Time_in_Chile",
+    "predicted_answer": "http://dbpedia.org/resource/Time_in_Chile",
+    "is_changed": false
+  },
+  {
+    "question_id": "372",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What did Bruce Carver die from?",
+    "true_answer": "http://dbpedia.org/resource/Cancer",
+    "predicted_answer": "http://dbpedia.org/resource/Cancer",
+    "is_changed": false
+  },
+  {
+    "question_id": "377",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which city does Sylvester Stallone live?",
+    "true_answer": "http://dbpedia.org/resource/Beverly_Hills,_California",
+    "predicted_answer": "http://dbpedia.org/resource/Beverly_Hills,_California",
+    "is_changed": false
+  },
+  {
+    "question_id": "382",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What form of government does Russia have?",
+    "true_answer": "http://dbpedia.org/resource/Federalism",
+    "predicted_answer": "http://dbpedia.org/resource/Federalism",
+    "is_changed": false
+  },
+  {
+    "question_id": "395",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "In which country does the Ganges start?",
+    "true_answer": "http://dbpedia.org/resource/India",
+    "predicted_answer": "http://dbpedia.org/resource/India",
+    "is_changed": false
+  },
+  {
+    "question_id": "411",
+    "k": 7,
+    "attack_type": "remove",
+    "question": "What was the last movie with Alec Guinness?",
+    "true_answer": "http://dbpedia.org/resource/Kafka_(film)",
+    "predicted_answer": "http://dbpedia.org/resource/The_Quiller_Memorandum",
+    "is_changed": true
+  }
+]
